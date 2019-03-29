@@ -1,6 +1,6 @@
 # 开源社官网 数据仓库
 
-[![Build Status](https://travis-ci.com/kaiyuanshe/Wiki.svg?branch=master)](https://travis-ci.org/kaiyuanshe/Wiki)
+[![Build Status](https://travis-ci.com/kaiyuanshe/Wiki.svg?branch=master)](https://travis-ci.com/kaiyuanshe/Wiki)
 
 ## 写作指南
 
@@ -27,3 +27,10 @@
 5.  PDF 等可在浏览器直接查看的文档，请参考[范文二][5]
 
 6.  **活动公告**请参考[范文三][6]
+
+[1]: https://github.com/kaiyuanshe/kaiyuanshe/new/hexo/source/_posts/
+[2]: https://github.com/kaiyuanshe/kaiyuanshe/upload/hexo/source/image/
+[3]: https://raw.githubusercontent.com/kaiyuanshe/kaiyuanshe/hexo/source/_posts/International/Codeheat-Open-source-competition.md
+[4]: https://github.com/kaiyuanshe/kaiyuanshe/tree/hexo/source/_posts/International/Codeheat-Open-source-competition/
+[5]: https://raw.githubusercontent.com/kaiyuanshe/kaiyuanshe/hexo/source/_posts/Document/OSI-2015.md
+[6]: https://raw.githubusercontent.com/kaiyuanshe/kaiyuanshe/hexo/source/_posts/Activity/NodeJS-live-2016-BeiJing.md
