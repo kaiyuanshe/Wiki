@@ -1,0 +1,92 @@
+- title: 法律事务组
+  icon: fas fa-gavel
+  leader: 梁尧
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/56Y7RUY4I4MoqQAn
+- title: 基础设施组
+  icon: fas fa-cogs
+  leader: 王俊波
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/BjnjOsrTgcsCiGgC
+- title: 成员发展组
+  icon: fas fa-users
+  leader: 钟源
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/VLEYiacvbB4hZ7un
+- title: 品牌媒体组
+  icon: fab fa-medium
+  leader: 李思颖
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/qfR1cwJ3rLoRloIy
+- title: 线下活动组
+  icon: fas fa-calendar-check
+  leader: 辛庆
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/7EyQL3aliSIffIdo
+- title: 高校合作组
+  icon: fas fa-graduation-cap
+  leader: 赵生宇
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/VtLj3u3q2k44cuhq
+- title: 社区合作组
+  icon: fab fa-github
+  leader: 辛庆
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/vpGVfoYVEOgck16P
+- title: 企业合作组
+  icon: fas fa-user-tie
+  leader: 陈阳
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/zwlgjTyx7hENwTuC
+- title: 财务事务组
+  icon: fas fa-yen-sign
+  leader: 李思颖
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/7EyQL3aliSIffIdo
+- title: 开放黑客松项目组
+  icon: fas fa-flag-checkered
+  leader: 王俊波
+  links:
+    - title: 代码仓库
+      URL: https://github.com/kaiyuanshe/open-hackathon
+    - title: 线上环境
+      URL: http://hacking.kaiyuanshe.cn
+- title: KCoin项目组
+  icon: fab fa-bitcoin
+  leader: 王俊波
+  links:
+    - title: 代码仓库
+      URL: https://github.com/kaiyuanshe/kcoin
+    - title: 线上环境
+      URL: http://kcoin.kaiyuanshe.cn/
+- title: 官网开发项目组
+  icon: fas fa-sitemap
+  leader: 王俊波
+  links:
+    - title: 代码仓库
+      URL: https://github.com/kaiyuanshe/kaiyuanshe
+    - title: 线上环境
+      URL: http://www.kaiyuanshe.cn/
+- title: 开源年度报告项目组
+  icon: fas fa-file-alt
+  leader: 林旅强
+  links:
+    - title: 代码仓库
+      URL: https://github.com/kaiyuanshe/2018-China-Open-Source-Report
+    - title: 线上环境
+      URL: https://kaiyuanshe.github.io/2018-China-Open-Source-Report/
+- title: 顾问委员会
+  icon: fas fa-book-reader
+  leader: 陈阳
+  links:
+    - title: 工作组职责及年度目标
+      URL: https://shimo.im/docs/RSzgZKq77Uou2w1q
