@@ -1,6 +1,6 @@
 # 开源社官网 数据仓库
 
-[![Build Status](https://travis-ci.org/kaiyuanshe/Wiki.svg?branch=master)](https://travis-ci.org/kaiyuanshe/Wiki)
+[![Build Status](https://travis-ci.com/kaiyuanshe/Wiki.svg?branch=master)](https://travis-ci.org/kaiyuanshe/Wiki)
 
 ## 写作指南
 
