@@ -9,8 +9,10 @@ tags:
   - lecture
   - NodeJS
   - BeiJing
+
 start: 2016-05-21
 end: 2016-05-22
+address: 北京海淀区丹棱街5号微软大厦一号楼一层多功能厅
 ---
 
 The Node.JS 基金会正在发起一系列全球性 2016 年 Node.JS 路演活动，将在全球的 9 个大城市举办活动，汇聚世界各地的本地 Node.JS 开发者。
