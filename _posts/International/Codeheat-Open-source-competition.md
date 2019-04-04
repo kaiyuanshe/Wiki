@@ -8,6 +8,9 @@ tags:
   - competition
   - FOSSAisa
 description: CodeHeat 将于2016年9月25日至2017年2月3日举办。填入你的 FOSSASIA 开发者信息，然后去赢得免费去往新加坡参加峰会的机会！
+
+photos:
+  - OWS.png
 ---
 
 {% asset_img OWS.png %}
