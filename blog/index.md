@@ -1,4 +1,4 @@
 ---
-type: page
-layout: page
+type: index
+layout: index
 ---
