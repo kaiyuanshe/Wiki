@@ -5,7 +5,6 @@ updated: 2016-04-01 17:02:35
 author: OSS Watch
 categories:
   - Document
-  - Govern-Ref
 tags:
   - contribute
 ---
