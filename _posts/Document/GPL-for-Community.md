@@ -5,7 +5,6 @@ updated: 2015-11-20 07:34:31
 author: 开源社
 categories:
   - Document
-  - Govern-Ref
 tags:
   - Governance
   - GPL
