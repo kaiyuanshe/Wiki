@@ -11,8 +11,8 @@ headerNav:
     href: /download
   - title: 成员
     href: http://member.kaiyuanshe.cn/
-  - title: 赞助伙伴
-    href: /surport_member
+  - title: 合作伙伴
+    href: \#Partner
   - title: 资源
     sub:
       - title: 许可证选择器
@@ -45,6 +45,8 @@ footNav:
     href: https://electronjs.org/languages
   - title: 联系我们
     href: /profile/contact
+  - title: 协作编辑
+    href: https://git-pager.leanapp.cn/?repository=kaiyuanshe/Wiki
 
 social:
   github:
@@ -54,7 +56,7 @@ social:
   twitter:
     name: contactkaiyuan1
     domain: https://twitter.com
-    title: "@contactkaiyuan1 on Twitter"
+    title: '@contactkaiyuan1 on Twitter'
   facebook:
     name: kaiyuanshe.china
     domain: https://www.facebook.com
@@ -77,3 +79,9 @@ mission:
     icon: seedling
   - title: 开源项目
     icon: project-diagram
+
+partner:
+  - title: 华为云
+    logo: https://avatars3.githubusercontent.com/u/20315766
+    URL: https://www.huaweicloud.com/
+    description: 云主机赞助商
