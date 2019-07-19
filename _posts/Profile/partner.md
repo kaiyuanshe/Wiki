@@ -10,13 +10,9 @@ updated: 2019-07-20 00:33:39
 
 ---
 
-# 
+# 2018 中国开源年会 (COSCon'18) 合作伙伴
 
-2018 中国开源年会 (COSCon'18) 合作伙伴
-
-## 
-
-大会合作单位 (Collaborating Partner)
+## 大会合作单位 (Collaborating Partner)
 
 ![](https://uploader.shimo.im/f/sG09Rw2lFvgUidR0.png!thumbnail)
 
