@@ -1,5 +1,4 @@
 banner: image/Heart_of_Community.png
-
 headerNav:
   - title: 资讯
     sub:
@@ -12,7 +11,7 @@ headerNav:
   - title: 成员
     href: http://member.kaiyuanshe.cn/
   - title: 合作伙伴
-    href: \#Partner
+    href: /Profile/partner.md
   - title: 资源
     sub:
       - title: 许可证选择器
@@ -31,7 +30,6 @@ headerNav:
         href: /profile/charter
       - title: 会议纪要
         href: /categories/Meeting
-
 footNav:
   - title: 活动
     href: /categories/Activity/
@@ -47,7 +45,6 @@ footNav:
     href: /profile/contact
   - title: 协作编辑
     href: https://git-pager.leanapp.cn/?repository=kaiyuanshe/Wiki
-
 social:
   github:
     name: kaiyuanshe
@@ -56,12 +53,11 @@ social:
   twitter:
     name: contactkaiyuan1
     domain: https://twitter.com
-    title: '@contactkaiyuan1 on Twitter'
+    title: "@contactkaiyuan1 on Twitter"
   facebook:
     name: kaiyuanshe.china
     domain: https://www.facebook.com
     title: Facebook account
-
 principle:
   - title: 贡献
     icon: feather-alt
@@ -69,7 +65,6 @@ principle:
     icon: handshake
   - title: 共治
     icon: users
-
 mission:
   - title: 开源治理
     icon: code-branch
@@ -79,7 +74,6 @@ mission:
     icon: seedling
   - title: 开源项目
     icon: project-diagram
-
 partner:
   - title: 华为云
     logo: https://avatars3.githubusercontent.com/u/20315766
