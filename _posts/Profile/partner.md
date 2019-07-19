@@ -5,7 +5,7 @@ authors:
   - tedliu1
 categories:
   - Profile
-tags: []
+tags: [sponsor, media, community partner, COSC]
 updated: 2019-07-20 00:33:39
 
 ---
