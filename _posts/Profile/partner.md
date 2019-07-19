@@ -79,4 +79,4 @@ updated: 2019-07-20 00:33:39
 
 ## 社区伙伴 (Community Partner)
 
-![](https://uploader.shimo.im/f/jLj3UbPpVkEJCjsa.png!thumbnail)
+{% asset_img ![](https://uploader.shimo.im/f/jLj3UbPpVkEJCjsa.png!thumbnail) 100% 720px %}
