@@ -38,7 +38,7 @@ updated: 2019-07-20 14:45:41
 
 ### ![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/2fj9z7vn7h8.png)  
 
-###   
+   
 
 ### 白金赞助 (Platinum Sponsor)
 
@@ -48,13 +48,13 @@ updated: 2019-07-20 14:45:41
 
   
 
-金牌赞助 (Gold Sponsor)
+### 金牌赞助 (Gold Sponsor)
 
   
 
 ![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/tyf6va2k34.png)  
 
-###   
+   
 
 ### 银牌及铜牌赞助 (Silver & Bronze Sponsor)
 
@@ -62,7 +62,7 @@ updated: 2019-07-20 14:45:41
 
 ### ![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/7qido2dtci.png)  
 
-###   
+   
 
 ### 国际讲师差旅赞助 (Travel Sponsor)
 
@@ -70,11 +70,14 @@ updated: 2019-07-20 14:45:41
 
 ![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/1ffh6exsue9.png)  
 
-  
 
-媒体伙伴 (Media Partner)
 
-###   
+---
+
+
+## 媒体伙伴 (Media Partner)
+
+   
 
 ### 社区媒体伙伴 (Community Media Partner)
 
@@ -88,7 +91,7 @@ updated: 2019-07-20 14:45:41
 
   
 
-报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
+### 报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
 
   
 
@@ -98,7 +101,7 @@ updated: 2019-07-20 14:45:41
 
 ---
 
-##   
+   
 
 ## 社区伙伴 (Community Partner)
 
