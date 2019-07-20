@@ -37,7 +37,7 @@ updated: 2019-07-20 00:33:39
 ### 白金赞助 (Platinum Sponsor)
 
 
- ![](https://uploader.shimo.im/f/UrbCnlKbP2E5DvSA.png)
+ ![](https://uploader.shimo.im/f/bhBEFUEsunY7gga2.png)
 
 
 
