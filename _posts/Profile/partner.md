@@ -48,17 +48,10 @@ updated: 2019-07-20 00:33:39
 
 
 
-### 银牌赞助 (Silver Sponsor)
+### 银牌及铜牌赞助 (Silver & Bronze Sponsor)
 
 
-![](https://uploader.shimo.im/f/jaQBrvN9FH4xo5P1.jpg!thumbnail)
-
-
-
-### 铜牌赞助 (Bronze Sponsor)
-
-
-![](https://uploader.shimo.im/f/v80Hp9MCneAK675X.png!thumbnail)
+![](https://uploader.shimo.im/f/F8tiI2m2NKwnS74o.png!thumbnail)
 
 
 
