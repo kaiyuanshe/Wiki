@@ -16,6 +16,8 @@ updated: 2019-07-20 00:33:39
 
 
 
+
+
 ## 大会合作单位 (Collaborating Partner)
 
 
@@ -23,7 +25,11 @@ updated: 2019-07-20 00:33:39
 
 
 
+
+
 ## 赞助伙伴 (Sponsoring Partner)
+
+
 
 
 
@@ -34,10 +40,14 @@ updated: 2019-07-20 00:33:39
 
 
 
+
+
 ### 白金赞助 (Platinum Sponsor)
 
 
  ![](https://uploader.shimo.im/f/bhBEFUEsunY7gga2.png)
+
+
 
 
 
@@ -48,10 +58,14 @@ updated: 2019-07-20 00:33:39
 
 
 
+
+
 ### 银牌及铜牌赞助 (Silver & Bronze Sponsor)
 
 
 ![](https://uploader.shimo.im/f/P8xZZmL9M8Y6DEjk.png)
+
+
 
 
 
@@ -69,13 +83,20 @@ updated: 2019-07-20 00:33:39
 
 
 
+
+
 ### 社区媒体伙伴 (Community Media Partner)
 
 
  ![](https://uploader.shimo.im/f/Y479feB7orA3EtKB.png) 
  
  
+ 
+ 
+ 
  ![](https://uploader.shimo.im/f/xYtVCHm5eCc0tbqY.png) 
+
+
 
 
 
@@ -93,4 +114,4 @@ updated: 2019-07-20 00:33:39
 ## 社区伙伴 (Community Partner)
 
 
-![](https://uploader.shimo.im/f/jLj3UbPpVkEJCjsa.png!thumbnail)
+![](https://uploader.shimo.im/f/jLj3UbPpVkEJCjsa.png)
