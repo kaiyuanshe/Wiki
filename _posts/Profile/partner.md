@@ -19,7 +19,7 @@ updated: 2019-07-20 00:33:39
 ## 大会合作单位 (Collaborating Partner)
 
 
- ![](https://uploader.shimo.im/f/JUbEplr5LjU6l8oe.jpg!thumbnail)
+ ![](https://uploader.shimo.im/f/JUbEplr5LjU6l8oe.jpg)
 
 
 
@@ -30,7 +30,7 @@ updated: 2019-07-20 00:33:39
 ### 战略赞助 (Strategic Sponsor)
 
 
- ![](https://uploader.shimo.im/f/IePopa3jepIwh4w7.png!thumbnail)
+ ![](https://uploader.shimo.im/f/IePopa3jepIwh4w7.png)
 
 
 
@@ -44,21 +44,21 @@ updated: 2019-07-20 00:33:39
 ### 金牌赞助 (Gold Sponsor)
 
 
- ![](https://uploader.shimo.im/f/WejKLwtfX0YcSnPt.png!thumbnail) 
+ ![](https://uploader.shimo.im/f/WejKLwtfX0YcSnPt.png) 
 
 
 
 ### 银牌及铜牌赞助 (Silver & Bronze Sponsor)
 
 
-![](https://uploader.shimo.im/f/P8xZZmL9M8Y6DEjk.png!thumbnail)
+![](https://uploader.shimo.im/f/P8xZZmL9M8Y6DEjk.png)
 
 
 
 ### 国际讲师差旅赞助 (Travel Sponsor)
 
 
- ![](https://uploader.shimo.im/f/udL7V6ETVIERHTgi.png!thumbnail) 
+ ![](https://uploader.shimo.im/f/udL7V6ETVIERHTgi.png) 
 
 
 ---
@@ -72,17 +72,17 @@ updated: 2019-07-20 00:33:39
 ### 社区媒体伙伴 (Community Media Partner)
 
 
- ![](https://uploader.shimo.im/f/Y479feB7orA3EtKB.png!thumbnail) 
+ ![](https://uploader.shimo.im/f/Y479feB7orA3EtKB.png) 
  
  
- ![](https://uploader.shimo.im/f/xYtVCHm5eCc0tbqY.png!thumbnail) 
+ ![](https://uploader.shimo.im/f/xYtVCHm5eCc0tbqY.png) 
 
 
 
 ### 报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
 
 
-![](https://uploader.shimo.im/f/gQz3VNfJhHEZFfBx.png!thumbnail)
+![](https://uploader.shimo.im/f/gQz3VNfJhHEZFfBx.png)
 
 
 
