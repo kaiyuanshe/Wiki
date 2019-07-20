@@ -3,7 +3,7 @@ title: 开源社合作伙伴（2018）
 date: 2019-07-20 00:32:17
 authors:
   - tedliu1
-updated: 2019-07-20 15:57:46
+updated: 2019-07-20 16:38:32
 categories:
   - Profile
 tags:
@@ -52,10 +52,13 @@ tags:
 
 {% asset\_img 9uaya7ypel.png %}
 
-### 报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
+###   
 
-![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/222h9m1w4iv.png)  
+### 服务伙伴 (Service Partner)
 
+  
+
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/2bmfm8ugeyj.png)  
   
 
 ---
