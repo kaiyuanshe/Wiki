@@ -30,7 +30,7 @@ updated: 2019-07-20 00:33:39
 ### 战略赞助 (Strategic Sponsor)
 
 
-![](https://uploader.shimo.im/f/9G5J3tWwqBgu50fu.jpg!thumbnail)
+![](https://uploader.shimo.im/f/IePopa3jepIwh4w7.png)
 
 
 
