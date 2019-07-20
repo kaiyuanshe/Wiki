@@ -1,117 +1,107 @@
 ---
-title: "开源社合作伙伴（2018）"
+title: 开源社合作伙伴（2018）
 date: 2019-07-20 00:32:17
 authors:
   - tedliu1
 categories:
   - Profile
-tags: [sponsor, media, community partner, COSCon'18]
-updated: 2019-07-20 00:33:39
+tags:
+  - sponsor
+  - media
+  - community partner
+  - COSCon'18
+updated: 2019-07-20 14:45:41
 
 ---
-
-
 
 # 2018 中国开源年会 (COSCon'18) 合作伙伴
 
-
-
-
+  
 
 ## 大会合作单位 (Collaborating Partner)
 
+  
 
- ![](https://uploader.shimo.im/f/JUbEplr5LjU6l8oe.jpg)
+## ![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/w6ifwvnn5y.png)  
 
+##   
 
+### 赞助伙伴 (Sponsoring Partner)
 
+  
 
-
-## 赞助伙伴 (Sponsoring Partner)
-
-
-
-
+  
 
 ### 战略赞助 (Strategic Sponsor)
 
+  
 
- ![](https://uploader.shimo.im/f/IePopa3jepIwh4w7.png)
+### ![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/2fj9z7vn7h8.png)  
 
-
-
-
+###   
 
 ### 白金赞助 (Platinum Sponsor)
 
+  
 
- ![](https://uploader.shimo.im/f/bhBEFUEsunY7gga2.png)
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/3pka9hwongs.png)  
 
+  
 
+金牌赞助 (Gold Sponsor)
 
+  
 
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/tyf6va2k34.png)  
 
-### 金牌赞助 (Gold Sponsor)
-
-
- ![](https://uploader.shimo.im/f/WejKLwtfX0YcSnPt.png) 
-
-
-
-
+###   
 
 ### 银牌及铜牌赞助 (Silver & Bronze Sponsor)
 
+  
 
-![](https://uploader.shimo.im/f/P8xZZmL9M8Y6DEjk.png)
+### ![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/7qido2dtci.png)  
 
-
-
-
+###   
 
 ### 国际讲师差旅赞助 (Travel Sponsor)
 
+  
 
- ![](https://uploader.shimo.im/f/udL7V6ETVIERHTgi.png) 
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/1ffh6exsue9.png)  
 
+  
 
----
+媒体伙伴 (Media Partner)
 
-
-
-## 媒体伙伴 (Media Partner)
-
-
-
-
+###   
 
 ### 社区媒体伙伴 (Community Media Partner)
 
+  
 
- ![](https://uploader.shimo.im/f/Y479feB7orA3EtKB.png) 
- 
- 
- 
- 
- 
- ![](https://uploader.shimo.im/f/xYtVCHm5eCc0tbqY.png) 
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/2uhfx566bea.png)  
 
+  
 
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/9uaya7ypel.png)  
 
+  
 
+报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
 
-### 报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
+  
 
+![](https://uploader.shimo.im/f/gQz3VNfJhHEZFfBx.png!thumbnail)
 
-![](https://uploader.shimo.im/f/gQz3VNfJhHEZFfBx.png)
-
-
+  
 
 ---
 
-
+##   
 
 ## 社区伙伴 (Community Partner)
 
+  
 
-![](https://uploader.shimo.im/f/jLj3UbPpVkEJCjsa.png)
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/u0h4rbc1yw.png)
