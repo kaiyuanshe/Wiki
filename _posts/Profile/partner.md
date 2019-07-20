@@ -73,22 +73,18 @@ updated: 2019-07-20 00:33:39
 
 
  ![](https://uploader.shimo.im/f/Y479feB7orA3EtKB.png!thumbnail) 
+ 
+ 
 
  ![](https://uploader.shimo.im/f/xYtVCHm5eCc0tbqY.png!thumbnail) 
 
 
 
-### 视频直播伙伴 (Video Broadcasting Partner)
+
+### 报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
 
 
-![](https://uploader.shimo.im/f/BlTcjkxKs80M5pob.png!thumbnail)
-
-
-
-### 官方报名平台 (Registration Partner)
-
-
-![](https://uploader.shimo.im/f/MMzZ3rs73VkLZl4F.jpg!thumbnail)
+![](https://uploader.shimo.im/f/gQz3VNfJhHEZFfBx.png!thumbnail)
 
 
 
