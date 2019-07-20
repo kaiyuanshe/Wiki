@@ -17,29 +17,29 @@ tags:
 
 ## 大会合作单位 (Collaborating Partner)
 
-![](w6ifwvnn5y.png)
+{% asset_img w6ifwvnn5y.png %}
 
 ## 赞助伙伴 (Sponsoring Partner)
 
 ### 战略赞助 (Strategic Sponsor)
 
-![](2fj9z7vn7h8.png)
+{% asset_img 2fj9z7vn7h8.png %}
 
 ### 白金赞助 (Platinum Sponsor)
 
-![](3pka9hwongs.png)
+{% asset_img 3pka9hwongs.png %}
 
 ### 金牌赞助 (Gold Sponsor)
 
-![](tyf6va2k34.png)
+{% asset_img tyf6va2k34.png %}
 
 ### 银牌及铜牌赞助 (Silver & Bronze Sponsor)
 
-![](7qido2dtci.png)
+{% asset_img 7qido2dtci.png %}
 
 ### 国际讲师差旅赞助 (Travel Sponsor)
 
-![](1ffh6exsue9.png)
+{% asset_img 1ffh6exsue9.png %}
 
 ---
 
@@ -47,9 +47,9 @@ tags:
 
 ### 社区媒体伙伴 (Community Media Partner)
 
-![](2uhfx566bea.png)
+{% asset_img 2uhfx566bea.png %}
 
-![](9uaya7ypel.png)
+{% asset_img 9uaya7ypel.png %}
 
 ### 报名平台 & 视频直播伙伴 (Registration & Video Broadcasting Partner)
 
@@ -59,4 +59,4 @@ tags:
 
 ## 社区伙伴 (Community Partner)
 
-![](u0h4rbc1yw.png)
+{% asset_img u0h4rbc1yw.png %}
