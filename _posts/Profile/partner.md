@@ -19,7 +19,7 @@ updated: 2019-07-20 00:33:39
 ## 大会合作单位 (Collaborating Partner)
 
 
-![](https://uploader.shimo.im/f/IePopa3jepIwh4w7.png!thumbnail)
+![](https://uploader.shimo.im/f/JUbEplr5LjU6l8oe.jpg!thumbnail)
 
 
 
