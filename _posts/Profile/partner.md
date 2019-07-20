@@ -52,13 +52,12 @@ tags:
 
 {% asset\_img 9uaya7ypel.png %}
 
-###   
+ 
 
 ### 服务伙伴 (Service Partner)
-
   
 
-![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/2bmfm8ugeyj.png)  
+{% asset\_img 2bmfm8ugeyj.png %} 
   
 
 ---
