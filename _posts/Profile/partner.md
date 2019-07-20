@@ -51,14 +51,14 @@ updated: 2019-07-20 00:33:39
 ### 银牌及铜牌赞助 (Silver & Bronze Sponsor)
 
 
-![](https://uploader.shimo.im/f/F8tiI2m2NKwnS74o.png!thumbnail)
+![](https://uploader.shimo.im/f/s4jOywV7WOwN4ZJD.png!thumbnail)
 
 
 
 ### 国际讲师差旅赞助 (Travel Sponsor)
 
 
- ![](https://uploader.shimo.im/f/9G5J3tWwqBgu50fu.jpg!thumbnail)![](https://uploader.shimo.im/f/N3aseAVSyn4PukXT.jpg!thumbnail) 
+ ![](https://uploader.shimo.im/f/udL7V6ETVIERHTgi.png!thumbnail) 
 
 
 ---
