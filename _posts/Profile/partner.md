@@ -55,9 +55,9 @@ tags:
 
 
 
-### 媒体服务伙伴 (Service Partner)
+### 媒体服务伙伴 (Media Service Partner)
 
-![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/21x8lckt6h3.png)
+{% asset\_img 21x8lckt6h3.png %}
 
 
 
