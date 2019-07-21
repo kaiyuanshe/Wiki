@@ -11,7 +11,7 @@ headerNav:
   - title: 成员
     href: http://www.kaiyuanshe.cn/page/member.html
   - title: 合作伙伴
-    href: /profile/partner.md
+    href: /profile/partner
   - title: 资源
     sub:
       - title: 许可证选择器
@@ -25,7 +25,7 @@ headerNav:
       - title: 介绍
         href: /profile/about
       - title: 组织架构
-        href: /profile/member.md
+        href: /profile/member
       - title: 工作组
         href: /governance
       - title: 章程
