@@ -9,7 +9,9 @@ headerNav:
   - title: 下载中心
     href: /download
   - title: 成员
-    href: /profile/member.md
+    sub:
+      - title: 
+        href: /profile/member
   - title: 合作伙伴
     href: /profile/partner
   - title: 资源
