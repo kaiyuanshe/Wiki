@@ -3,7 +3,7 @@ title: 开源社合作伙伴（2018）
 date: 2019-07-20 00:32:17
 authors:
   - tedliu1
-updated: 2019-07-20 16:38:32
+updated: 2019-07-21 10:35:59
 categories:
   - Profile
 tags:
@@ -52,12 +52,12 @@ tags:
 
 {% asset\_img 9uaya7ypel.png %}
 
- 
-
-### 服务伙伴 (Service Partner)
   
 
-{% asset\_img 2bmfm8ugeyj.png %} 
+### 媒体服务伙伴 (Service Partner)
+
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Profile/partner/21x8lckt6h3.png)
+
   
 
 ---
