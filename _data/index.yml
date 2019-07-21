@@ -9,9 +9,7 @@ headerNav:
   - title: 下载中心
     href: /download
   - title: 成员
-    sub:
-      - title: 
-        href: /profile/member
+    href: http://www.kaiyuanshe.cn/page/member.html
   - title: 合作伙伴
     href: /profile/partner
   - title: 资源
@@ -26,6 +24,8 @@ headerNav:
     sub:
       - title: 介绍
         href: /profile/about
+      - title: 组织架构
+        href: /profile/member
       - title: 工作组
         href: /governance
       - title: 章程
