@@ -14,6 +14,8 @@ tags:
   - governance
 ---
 
+# 开源社组织架构图
+
 {% asset_img 2k1qpbbv5h8.png %}
 
 ## 开源社理事会成员 —— 2019 届
