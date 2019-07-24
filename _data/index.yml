@@ -30,6 +30,8 @@ headerNav:
         href: /profile/charter
       - title: 会议纪要
         href: /categories/Meeting
+      - title: 顾问委员会
+        href: profile/advisory
 footNav:
   - title: 活动
     href: /categories/Activity/
