@@ -2,7 +2,8 @@
 title: 2016 年大数据产业峰会之开源与大数据专场
 date: 2016-04-29 10:34:44
 updated: 2016-04-29 12:44:16
-author: Emily Chen
+authors:
+  - sssuyx
 categories:
   - Activity
   - Summit

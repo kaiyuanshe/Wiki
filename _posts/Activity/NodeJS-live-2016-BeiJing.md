@@ -2,7 +2,8 @@
 title: Node.JS Live 北京站开放注册！征集演讲者！
 date: 2016-04-01 16:10:00
 description: Node.JS 北京站活动演讲者火热报名中……
-author: Emily Chen
+authors:
+  - sssuyx
 categories:
   - Activity
 tags:

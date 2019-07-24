@@ -2,7 +2,8 @@
 title: 您会为开源项目贡献代码吗？
 date: 2015-02-03 04:31:24
 updated: 2016-04-01 17:02:35
-author: OSS Watch
+authors:
+  - OSS Watch
 categories:
   - Document
 tags:

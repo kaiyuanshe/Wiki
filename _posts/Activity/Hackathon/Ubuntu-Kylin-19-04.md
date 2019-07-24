@@ -1,7 +1,8 @@
 ---
 title: 优麒麟 19.04 发布派对暨黑客松活动在温州科技职业学院成功举办!
 date: 2019-04-29
-author: TechQuery
+authors:
+  - TechQuery
 categories:
   - Activity
   - Hackathon
