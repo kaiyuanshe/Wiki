@@ -26,12 +26,14 @@ headerNav:
         href: /profile/structure
       - title: 工作组
         href: /governance
+      - title: 顾问委员会
+        href: profile/advisory
+      - title: 法律咨询委员会
+        href: profile/council       
       - title: 章程
         href: /profile/charter
       - title: 会议纪要
         href: /categories/Meeting
-      - title: 顾问委员会
-        href: profile/advisory
 footNav:
   - title: 活动
     href: /categories/Activity/
