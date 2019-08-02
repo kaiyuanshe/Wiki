@@ -10,9 +10,9 @@ tags:
   - COSCon
   - summary
 
-start: 2017-11-18
-end: 2017-11-19
-address: 上海交大闵行校区
+start: 2017-11-18 08:50:00
+end: 2017-11-19 18:00:00
+address: 上海市闵行区东川路800号上海交大陈瑞球楼
 ---
 
 {% asset_img cb90wvqt1dc.webp "Community Loves Contribution" %}
