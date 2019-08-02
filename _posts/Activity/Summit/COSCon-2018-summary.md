@@ -1,5 +1,5 @@
 ---
-title: 回顾| COSCon 桥接东西，Open Source 源力不息！
+title: 回顾 | COSCon 桥接东西，Open Source 源力不息！
 date: 2018-10-26 00:00:00
 updated: 2018-10-27 00:00:00
 authors:
@@ -27,11 +27,11 @@ links:
 
 COSCon'18 同时也见证了开源社发布的【**2018 中国开源年度报告**】与【**KCoin 开源贡献激励平台**】, 以及首次由国际顶级企业向中国社区捐赠开源项目【开源社接受微软捐赠**开放黑客松云平台**仪式】。来自五湖四海的 108 位可爱的志愿者们，热情地为讲师与观众们服务。
 
+<!-- more -->
+
 {% asset_img 5s5pjzdjocs.webp %}
 
 {% asset_img 6rnfp0vwka0.webp %}
-
-<!-- more -->
 
 ## 会场实况
 
