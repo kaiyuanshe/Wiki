@@ -1,8 +1,11 @@
 ---
 title: 众人添柴火焰高，社区主导开发强
-date: 2015-11-06
+date: 2015-11-06 00:00:00
+authors:
+  - kaiyuanshe
 categories:
   - Activity
+  - Summit
 tags:
   - Apache
   - roadshow
