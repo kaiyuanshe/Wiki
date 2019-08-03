@@ -1,0 +1,337 @@
+- alias: Ted
+  city: 北京
+  company: 开源社
+  department: 理事会
+  email: ted@kaiyuanshe.org
+  GitHub: tedliu1
+  name: 刘天栋
+  position:
+    - 理事长
+  title: 理事长
+  URL: https://www.linkedin.com/in/liuted
+  WeChat: tedliu002
+- city: 上海
+  company: 华为
+  department: 理事会
+  email: zbw@163.com
+  GitHub: zhuangbiaowei
+  name: 庄表伟
+  position:
+    - 理事
+    - 执行长
+  project: KCoin项目组
+  title: 高级产品经理
+  URL: http://www.zhuangbiaowei.com/blog/
+  WeChat: zhuangbiaowei
+- city: 深圳
+  company: ThoughtWorks
+  department: 成员发展组
+  name: 钟源
+  position:
+    - 组长
+- alias: Emily
+  city: 北京
+  committee: 顾问委员会
+  company: 微软
+  department: 企业合作组
+  GitHub: sssuyx
+  name: 陈阳
+  position:
+    - 副理事长
+    - 组长
+  project: 开源报告组
+  title: 高级项目经理
+- alias: David
+  city: 福州
+  department: 成员发展组
+  email: geek@lzw.name
+  GitHub: bkbabydp
+  name: 张炜
+  position:
+    - 副组长
+  project: 微信机器人
+  WeChat: bkbabydp2
+- city: 上海
+  company: TopGeek
+  department: 线下活动组
+  name: 辛庆
+  position:
+    - 理事
+    - 组长
+- alias: Leon
+  city: 北京
+  committee: 法律咨询委员会
+  company: 国家知识产权局专利检索咨询中心
+  department: 法律事务组
+  email: liangyao@ruc.edu.cn
+  name: 梁尧
+  position:
+    - 组长
+  title: 专利检索分析师
+  WeChat: DWallace
+- alias: Will
+  city: 上海
+  company: 华东师范大学
+  department: 开源教育组
+  name: 王伟
+  position:
+    - 理事
+    - 组长
+- city: 上海
+  company: 微软
+  department: 基础设施组
+  email: wangjunbo924@hotmail.com
+  GitHub: juniwang
+  name: 王俊波
+  position:
+    - 组长
+  project: 开放黑客松
+- alias: Mandy
+  city: 上海
+  department: 媒体品牌组
+  name: 张曼
+  position:
+    - 正式成员
+- alias: Richard
+  city: 上海
+  committee: 法律咨询委员会
+  company: 华为
+  department: 理事会
+  email: richard.l.lin@huawei.com
+  name: 林旅强
+  position:
+    - 理事
+  project: 开源报告组
+  title: 华为云AI开发者生态经理
+  URL: https://fb.me/legist
+- alias: Frank
+  city: 杭州
+  company: 阿里云
+  department: 开源教育组
+  name: 赵生宇
+  position:
+    - 组长
+- alias: Mabel
+  city: 上海
+  company: 微软
+  department: 媒体品牌组
+  GitHub: cynbarby
+  name: 李思颖
+  position:
+    - 理事
+    - 组长
+  project: 官网开发组
+- city: 北京
+  committee: 法律咨询委员会
+  company: 北京集慧智佳知识产权管理咨询股份有限公司
+  department: 法律事务组
+  name: 薛亮
+  position:
+    - 正式成员
+  title: 互联网事业部总监
+- city: 青岛
+  company: 青岛易软天创
+  department: 基础设施组
+  name: 管西迎
+  position:
+    - 正式成员
+- company: 航天龙梦
+  department: 基础设施组
+  email: shipujin.t@gmail.com
+  GitHub: lina-not-linus
+  name: 史璞金
+  position:
+    - 正式成员
+  title: 基础软件工程师
+- city: 成都
+  company: ThoughtWorks
+  department: 基础设施组
+  email: shiy2008@gmail.com
+  GitHub: TechQuery
+  name: 石垚
+  position:
+    - 正式成员
+  project: 官网开发组
+  title: 高级 Web 前端工程师
+  URL: https://tech-query.me/
+- city: 北京
+  department: 基础设施组
+  email: 1054602234@qq.com
+  name: 牛勇杰
+  position:
+    - 正式成员
+  project: KCoin项目组
+  WeChat: 13993143738
+- alias: shumin
+  city: 成都
+  company: Changhong
+  department: 媒体品牌组
+  email: s56124669@163.com
+  GitHub: ch-shumin
+  name: 舒敏
+  position:
+    - 正式成员
+  title:
+  WeChat: 13608216626
+- city: 上海
+  department: 媒体品牌组
+  name: 张婷婷
+  position:
+    - 正式成员
+- alias: Jack
+  city: 长沙
+  committee: 顾问委员会
+  company: 国防科技大学
+  department: 开源教育组
+  email: jackyu@ubuntukylin.com
+  GitHub: Jack Yu
+  name: 余杰
+  position:
+    - 正式成员
+  project: 开源报告组
+  title: 博士，优麒麟负责人
+  URL: www.ubuntukylin.com
+- city: 上海
+  department: 开源教育组
+  name: 李建盛
+  position:
+    - 正式成员
+- alias: Queena
+  city: 上海
+  company: 喜马拉雅FM
+  department: 线下活动组
+  email: 425210061@qq.com
+  name: 晁倩
+  position:
+    - 正式成员
+  title: 高级商务经理
+  WeChat: 15734612571
+- alias: Jerry
+  city: 北京
+  committee: 顾问委员会
+  company: 百度
+  name: 谭中意
+  position:
+    - 正式成员
+- city: 北京
+  department: 基础设施组
+  email: a.xp [at] live.com
+  GitHub: hsupu
+  name: 徐普
+  position:
+    - 正式成员
+  project: 官网开发组
+- alias: Maggie
+  city: 深圳
+  committee: 法律咨询委员会
+  department: 法律事务组
+  name: 王东芳
+  position:
+    - 正式成员
+  project: 不适用
+- alias: David
+  company: 华为
+  name: 梁辰晔
+  position:
+    - 正式成员
+- company: 微软
+  name: 邹涛
+  position:
+    - 正式成员
+- city: 北京
+  company: 中国信通院
+  name: 郭雪
+  position:
+    - 正式成员
+- city: 深圳、杭州
+  department: 基础设施组
+  email: freedompcwl@qq.com
+  GitHub: pcwl
+  name: 臧鹏
+  position:
+    - 正式成员
+  project: 开放黑客松
+  URL: "http://pcwl.GitHub.io/\r\n"
+  WeChat: freepcwl
+- alias: Sai
+  committee: 顾问委员会
+  name: 杨赛
+  position:
+    - 正式成员
+- alias: wxy
+  city: 海口
+  committee: 顾问委员会
+  company: Linux中国
+  email: xingyu.wang@gmail.com
+  GitHub: wxy
+  name: 王兴宇
+  position:
+    - 正式成员
+  project: 开源报告组
+  WeChat: linux_china
+- alias: Mark
+  city: 深圳
+  committee: 顾问委员会
+  company: 腾讯
+  name: 单致豪
+  position:
+    - 正式成员
+- committee: 顾问委员会
+  name: 白涛
+  position:
+    - 正式成员
+- alias: Kylie
+  company: 微软
+  name: 梁莉
+  position:
+    - 正式成员
+- alias: John
+  city: 上海
+  company: 华为
+  email: huziyong@gmail.com
+  GitHub: hutusi
+  name: 胡智勇
+  position:
+    - 正式成员
+  title: 主任工程师
+  URL: https://hutusi.com
+  WeChat: hutusi
+- city: 天津
+  company: 麒麟
+  department: 基础设施组
+  name: 陈松
+  position:
+    - 正式成员
+  project: 开放黑客松
+  title: 工程师
+- name: 潘石
+  position:
+    - 正式成员
+- company: 华为
+  name: 汪盛
+  position:
+    - 正式成员
+- name: 孟一凡
+  position:
+    - 正式成员
+- city: 北京
+  department: 基础设施组
+  email: liran_it@163.com
+  GitHub: ranlee
+  name: 李冉
+  position:
+    - 正式成员
+  project: 开放黑客松
+  WeChat: it_liran
+- alias: Kevin
+  city: 台北
+  committee: 法律咨询委员会
+  name: 黄鸿文
+  position:
+    - 正式成员
+- name: 董舒
+  position:
+    - 正式成员
+- name: 刘文涛
+  position:
+    - 正式成员

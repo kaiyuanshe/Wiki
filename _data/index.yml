@@ -9,7 +9,7 @@ headerNav:
   - title: 下载中心
     href: /download
   - title: 成员
-    href: https://shimo.im/sheets/VKDddgxVkgYxCRtP/MODOC
+    href: /members/
   - title: 合作伙伴
     href: /profile/partner
   - title: 资源
@@ -57,7 +57,7 @@ social:
   twitter:
     name: contactkaiyuan1
     domain: https://twitter.com
-    title: "@contactkaiyuan1 on Twitter"
+    title: '@contactkaiyuan1 on Twitter'
   facebook:
     name: kaiyuanshe.china
     domain: https://www.facebook.com
