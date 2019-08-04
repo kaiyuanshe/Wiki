@@ -182,15 +182,20 @@
   city: 长沙
   committee: 顾问委员会
   organization: 国防科技大学
-  department: 开源教育组
+  department:
+    - 开源教育组
+    - 顾问委员会
   email: jackyu@ubuntukylin.com
   GitHub: Jack Yu
   name: 余杰
   position:
     - 正式成员
   project: 开源报告组
-  title: 博士，优麒麟负责人
-  URL: www.ubuntukylin.com
+  title:
+    - 博士
+    - 副研究员
+    - 优麒麟负责人
+  URL: https://ubuntukylin.com
 - city: 上海
   department: 开源教育组
   name: 李建盛
@@ -356,10 +361,6 @@
   organization: 偶数科技
   title: CEO
 - department: 顾问委员会
-  name: 余杰
-  organization: 国防科大
-  title: 博士，副研究员，优麒麟负责人
-- department: 顾问委员会
   name: 胡志学
   organization: 华为
   title: 开发者运营总监
@@ -389,11 +390,15 @@
   title: CEO
 - department: 顾问委员会
   name: 段新星
-  organization: 比原链，巴比特
+  organization:
+    - 比原链
+    - 巴比特
   title: CEO
 - department: 顾问委员会
   name: 吕国宁
-  organization: Nervos，Ruby中国
+  organization:
+    - Nervos
+    - Ruby中国
 - department: 顾问委员会
   name: 白涛
   organization: 微软
