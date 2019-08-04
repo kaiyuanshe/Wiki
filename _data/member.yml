@@ -1,6 +1,6 @@
 - alias: Ted
   city: 北京
-  company: 开源社
+  organization: 开源社
   department: 理事会
   email: ted@kaiyuanshe.org
   GitHub: tedliu1
@@ -11,7 +11,7 @@
   URL: https://www.linkedin.com/in/liuted
   WeChat: tedliu002
 - city: 上海
-  company: 华为
+  organization: 华为
   department: 理事会
   email: zbw@163.com
   GitHub: zhuangbiaowei
@@ -24,7 +24,7 @@
   URL: http://www.zhuangbiaowei.com/blog/
   WeChat: zhuangbiaowei
 - city: 深圳
-  company: ThoughtWorks
+  organization: ThoughtWorks
   department: 成员发展组
   name: 钟源
   position:
@@ -32,7 +32,7 @@
 - alias: Emily
   city: 北京
   committee: 顾问委员会
-  company: 微软
+  organization: 微软
   department: 企业合作组
   GitHub: sssuyx
   name: 陈阳
@@ -52,7 +52,7 @@
   project: 微信机器人
   WeChat: bkbabydp2
 - city: 上海
-  company: TopGeek
+  organization: TopGeek
   department: 线下活动组
   name: 辛庆
   position:
@@ -61,7 +61,7 @@
 - alias: Leon
   city: 北京
   committee: 法律咨询委员会
-  company: 国家知识产权局专利检索咨询中心
+  organization: 国家知识产权局专利检索咨询中心
   department: 法律事务组
   email: liangyao@ruc.edu.cn
   name: 梁尧
@@ -71,14 +71,14 @@
   WeChat: DWallace
 - alias: Will
   city: 上海
-  company: 华东师范大学
+  organization: 华东师范大学
   department: 开源教育组
   name: 王伟
   position:
     - 理事
     - 组长
 - city: 上海
-  company: 微软
+  organization: 微软
   department: 基础设施组
   email: wangjunbo924@hotmail.com
   GitHub: juniwang
@@ -95,7 +95,7 @@
 - alias: Richard
   city: 上海
   committee: 法律咨询委员会
-  company: 华为
+  organization: 华为
   department: 理事会
   email: richard.l.lin@huawei.com
   name: 林旅强
@@ -106,14 +106,14 @@
   URL: https://fb.me/legist
 - alias: Frank
   city: 杭州
-  company: 阿里云
+  organization: 阿里云
   department: 开源教育组
   name: 赵生宇
   position:
     - 组长
 - alias: Mabel
   city: 上海
-  company: 微软
+  organization: 微软
   department: 媒体品牌组
   GitHub: cynbarby
   name: 李思颖
@@ -123,19 +123,19 @@
   project: 官网开发组
 - city: 北京
   committee: 法律咨询委员会
-  company: 北京集慧智佳知识产权管理咨询股份有限公司
+  organization: 北京集慧智佳知识产权管理咨询股份有限公司
   department: 法律事务组
   name: 薛亮
   position:
     - 正式成员
   title: 互联网事业部总监
 - city: 青岛
-  company: 青岛易软天创
+  organization: 青岛易软天创
   department: 基础设施组
   name: 管西迎
   position:
     - 正式成员
-- company: 航天龙梦
+- organization: 航天龙梦
   department: 基础设施组
   email: shipujin.t@gmail.com
   GitHub: lina-not-linus
@@ -144,7 +144,7 @@
     - 正式成员
   title: 基础软件工程师
 - city: 成都
-  company: ThoughtWorks
+  organization: ThoughtWorks
   department: 基础设施组
   email: shiy2008@gmail.com
   GitHub: TechQuery
@@ -164,7 +164,7 @@
   WeChat: 13993143738
 - alias: shumin
   city: 成都
-  company: Changhong
+  organization: Changhong
   department: 媒体品牌组
   email: s56124669@163.com
   GitHub: ch-shumin
@@ -181,7 +181,7 @@
 - alias: Jack
   city: 长沙
   committee: 顾问委员会
-  company: 国防科技大学
+  organization: 国防科技大学
   department: 开源教育组
   email: jackyu@ubuntukylin.com
   GitHub: Jack Yu
@@ -198,7 +198,7 @@
     - 正式成员
 - alias: Queena
   city: 上海
-  company: 喜马拉雅FM
+  organization: 喜马拉雅FM
   department: 线下活动组
   email: 425210061@qq.com
   name: 晁倩
@@ -209,7 +209,7 @@
 - alias: Jerry
   city: 北京
   committee: 顾问委员会
-  company: 百度
+  organization: 百度
   name: 谭中意
   position:
     - 正式成员
@@ -230,16 +230,16 @@
     - 正式成员
   project: 不适用
 - alias: David
-  company: 华为
+  organization: 华为
   name: 梁辰晔
   position:
     - 正式成员
-- company: 微软
+- organization: 微软
   name: 邹涛
   position:
     - 正式成员
 - city: 北京
-  company: 中国信通院
+  organization: 中国信通院
   name: 郭雪
   position:
     - 正式成员
@@ -261,7 +261,7 @@
 - alias: wxy
   city: 海口
   committee: 顾问委员会
-  company: Linux中国
+  organization: Linux中国
   email: xingyu.wang@gmail.com
   GitHub: wxy
   name: 王兴宇
@@ -272,7 +272,7 @@
 - alias: Mark
   city: 深圳
   committee: 顾问委员会
-  company: 腾讯
+  organization: 腾讯
   name: 单致豪
   position:
     - 正式成员
@@ -281,13 +281,13 @@
   position:
     - 正式成员
 - alias: Kylie
-  company: 微软
+  organization: 微软
   name: 梁莉
   position:
     - 正式成员
 - alias: John
   city: 上海
-  company: 华为
+  organization: 华为
   email: huziyong@gmail.com
   GitHub: hutusi
   name: 胡智勇
@@ -297,7 +297,7 @@
   URL: https://hutusi.com
   WeChat: hutusi
 - city: 天津
-  company: 麒麟
+  organization: 麒麟
   department: 基础设施组
   name: 陈松
   position:
@@ -307,7 +307,7 @@
 - name: 潘石
   position:
     - 正式成员
-- company: 华为
+- organization: 华为
   name: 汪盛
   position:
     - 正式成员
@@ -335,3 +335,115 @@
 - name: 刘文涛
   position:
     - 正式成员
+- department: 顾问委员会
+  name: 单致豪
+  organization: 腾讯
+- department: 顾问委员会
+  name: 杨赛
+- department: 顾问委员会
+  name: 王兴宇
+  organization: Linux 中国
+- department: 顾问委员会
+  description: >-
+    目前在 EasyStack
+    任职工程技术高级总监兼社区总监，负责公司的工程技术和开源事务，6年OpenStack贡献经验，曾任基础公共库Oslo的项目Lead，2017到2019年为OpenStack基金会个人独立董事。
+  email: glongwave@gmail.com
+  name: 郭长波
+  organization: EasyStack
+  title: 社区总监
+- department: 顾问委员会
+  name: 常雷
+  organization: 偶数科技
+  title: CEO
+- department: 顾问委员会
+  name: 余杰
+  organization: 国防科大
+  title: 博士，副研究员，优麒麟负责人
+- department: 顾问委员会
+  name: 胡志学
+  organization: 华为
+  title: 开发者运营总监
+- department: 顾问委员会
+  name: 康馨月
+  organization: 微软
+- department: 顾问委员会
+  name: 蒋涛
+  organization: CSDN
+  title: 创办人
+- department: 顾问委员会
+  name: 王蕴博
+  organization: 滴滴出行
+- department: 顾问委员会
+  name: 谭中意
+  organization: 百度
+- department: 顾问委员会
+  name: 姚翎
+  organization: 银河麒麟
+  title: 市场总监
+- department: 顾问委员会
+  name: 李静远
+  organization: 阿里云
+- department: 顾问委员会
+  name: 阴明
+  organization: 掘金
+  title: CEO
+- department: 顾问委员会
+  name: 段新星
+  organization: 比原链，巴比特
+  title: CEO
+- department: 顾问委员会
+  name: 吕国宁
+  organization: Nervos，Ruby中国
+- department: 顾问委员会
+  name: 白涛
+  organization: 微软
+- department: 顾问委员会
+  name: 丁冉
+  organization: 偶数科技
+- department: 顾问委员会
+  email: liumin@kylinos.cn
+  name: 刘敏
+  organization: 优麒麟社区
+  title: 社区负责人
+- department: 法律咨询委员会
+  email: wangdongfang@ladas.com
+  name: 王东芳
+  organization: Ladas & Parry LLP律师事务所
+  title: 中国首席代表
+- department: 法律咨询委员会
+  email: liangyao@ruc.edu.cn
+  name: 梁尧
+  organization: 国家知识产权局专利检索咨询中心
+  title: 专利检索分析师
+- department: 法律咨询委员会
+  name: 薛亮
+  organization: 北京集慧智佳知识产权管理咨询
+  title: 互联网事业部总监
+- department: 法律咨询委员会
+  name: 黄鸿文
+  organization: OIN专利联盟
+  title: 亚太许可总监
+- department: 法律咨询委员会
+  email: lucien.cc@gmail.com
+  name: 林诚夏
+  organization: 钧理知识产权事务所
+  title: 法制顾问
+- department: 法律咨询委员会
+  email:
+    - legist.tw@gmail.com
+    - lin.luqiang@huawei.com
+  name: 林旅强
+  organization: 华为
+  title: AI开发者生态运营总监
+- department: 法律咨询委员会
+  name: 崔亚冰
+- department: 法律咨询委员会
+  name: 高懿杰
+- alias: Shirley
+  department: 法律咨询委员会
+  name: 朱姝丽
+- alias: David
+  department: 法律咨询委员会
+  name: 董振伟
+- department: 法律咨询委员会
+  name: 菁茹
