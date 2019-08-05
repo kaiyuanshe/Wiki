@@ -165,23 +165,23 @@ _只有很少的 Linux 兴趣小组存在，组织一直在变。总体上不会
 
 ### 1.GitHub 上影响力比较大的个人
 
-![GitHub_Individual](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/GitHub_Individual.png?raw=true)
+{% asset_img GitHub_Individual.png %}
 
 ### 2.OpenStack 国人贡献排行榜
 
-![OpenStackContributor](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/OpenStackContributor.png?raw=true)
+{% asset_img OpenStackContributor.png %}
 
 ### 3.Linux Kernal 国人贡献排行榜
 
-![LinuxKernalContributor](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/LinuxKernalContributor.png?raw=true)
+{% asset_img LinuxKernalContributor.png %}
 
 ### 4.Docker 国人贡献排行榜
 
-![DockerContributor](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/DockerContributor.png?raw=true)
+{% asset_img DockerContributor.png %}
 
 ### 5.热门项目 watch/start/fork
 
-![PopProject](https://github.com/kaiyuanshe/2015-China-Open-Source-Report/blob/master/ChinaOSSReport_Chn_2015/img/PopProject.png)
+{% asset_img PopProject.png %}
 
 ### 6.公共在线社区
 
