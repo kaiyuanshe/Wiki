@@ -1,13 +1,13 @@
 banner: image/Heart_of_Community.png
 headerNav:
+  - title: 年度大会
+    href: /categories/Activity/Summit/
   - title: 资讯
     sub:
       - title: 活动
         href: /categories/Activity/
       - title: 博客
-        href: /page/2
-  - title: 下载中心
-    href: /download
+        href: /blog/
   - title: 成员
     href: /members/
   - title: 合作伙伴
