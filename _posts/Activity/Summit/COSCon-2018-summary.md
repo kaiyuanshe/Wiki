@@ -19,6 +19,8 @@ links:
   报名: http://www.huodongxing.com/go/coscon2018
   直播: http://www.itdks.com/dakashuo/playback/2723
   问卷: https://www.wenjuan.com/s/vmqe2y8
+photos:
+  - 2jsazt8ziw2.webp
 ---
 
 {% asset_img 2jsazt8ziw2.webp %}
