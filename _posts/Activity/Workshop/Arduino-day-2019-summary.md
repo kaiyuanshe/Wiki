@@ -7,11 +7,8 @@ categories:
   - Activity
   - Workshop
 tags:
+  - hardware
   - Arduino
-
-start: 2019-03-16 09:30:00
-end: 2019-03-16 17:00:00
-address: 北京市清华大学李兆基科技大楼 B570
 ---
 
 {% asset_img 18xho9baryy.png %}
