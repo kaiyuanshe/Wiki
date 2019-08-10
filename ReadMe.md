@@ -43,10 +43,10 @@ brew install git-lfs
 ```
 
 [1]: https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97
-[2]: https://github.com/kaiyuanshe/kaiyuanshe/new/hexo/source/_posts/
-[3]: https://github.com/kaiyuanshe/kaiyuanshe/upload/hexo/source/image/
-[4]: https://raw.githubusercontent.com/kaiyuanshe/kaiyuanshe/hexo/source/_posts/International/Codeheat-Open-source-competition.md
-[5]: https://github.com/kaiyuanshe/kaiyuanshe/tree/hexo/source/_posts/International/Codeheat-Open-source-competition/
-[6]: https://raw.githubusercontent.com/kaiyuanshe/kaiyuanshe/hexo/source/_posts/Document/OSI-2015.md
-[7]: https://raw.githubusercontent.com/kaiyuanshe/kaiyuanshe/hexo/source/_posts/Activity/NodeJS-live-2016-BeiJing.md
+[2]: https://github.com/kaiyuanshe/Wiki/new/master/_posts/
+[3]: https://github.com/kaiyuanshe/Wiki/upload/master/image/
+[4]: https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/International/Codeheat-Open-source-competition.md
+[5]: https://github.com/kaiyuanshe/Wiki/tree/master/_posts/International/Codeheat-Open-source-competition/
+[6]: https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Document/OSI-2015.md
+[7]: https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Activity/NodeJS-live-2016-BeiJing.md
 [8]: https://git-lfs.github.com/
