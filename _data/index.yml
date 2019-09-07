@@ -9,7 +9,11 @@ headerNav:
       - title: 博客
         href: /blog/
   - title: 成员
-    href: /members/
+    sub:
+      - title: 成员
+        href: /members/
+      - title: 加入我们
+        href: http://members.kaiyuanshe.cn/
   - title: 合作伙伴
     href: /profile/partner
   - title: 资源
