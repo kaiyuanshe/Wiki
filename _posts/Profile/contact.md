@@ -10,7 +10,7 @@ tags:
 
 |         Email         |          Twitter           |          Facebook           |          WeChat           |
 | :-------------------: | :------------------------: | :-------------------------: | :-----------------------: |
-| ontact@kaiyuanshe.org | ![](image/KYS-Twitter.jpg) | ![](image/KYS-Facebook.jpg) | ![](image/KYS-WeChat.jpg) |
+| contact@kaiyuanshe.org | ![](image/KYS-Twitter.jpg) | ![](image/KYS-Facebook.jpg) | ![](image/KYS-WeChat.jpg) |
 
 ## 开源社社区成员交流群
 
