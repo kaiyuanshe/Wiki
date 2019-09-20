@@ -3,7 +3,8 @@ title: 合作伙伴
 date: 2019-07-20 00:32:17
 authors:
   - tedliu1
-updated: 2019-07-21 10:35:59
+  - TechQuery
+updated: 2019-09-20 16:41:59
 categories:
   - Profile
 tags:
@@ -36,14 +37,14 @@ tags:
   <img class="w-25" alt="Linux Professional Institute" src="https://www.lpi.org/sites/all/themes/lpi/images/logo.png">
   {% asset_img Y-City.png Y-City %}
   {% asset_img Jenkins-CN.png "Jenkins 中文社区" %}
-  <img alt="火狐社区" src="http://mozilla.com.cn/template/dean_xiaomi130903_v2/deancss/logo.png">
+  {% asset_img Firefox-CN.png "火狐社区" %}
   {% asset_img DevOps-CN.png "中国 DevOps 社区" %}
   {% asset_img TesterHome.jpeg TesterHome %}
   {% asset_img LinuxRen.png Linux人 %}
   {% asset_img Ubuntu.png Ubuntu %}
-  <img alt="优麒麟" src="http://www.ubuntukylin.com/public/images/logo.png">
+  {% asset_img UKylin.png 优麒麟 %}
   {% asset_img ShenZhenWare.png 深圳湾 %}
-  <img alt="环信" src="http://www.easemob.com/themes/official_v3/Public/img/brand/logo_text_url.png">
+  {% asset_img EaseMob.png 环信 %}
   {% asset_img YaMuTech.png 芽木科技 %}
   {% asset_img ThoughtWorks-Community.png "ThoughtWorks Community" %}
   {% asset_img HuaZhang.png 华章图书 %}
