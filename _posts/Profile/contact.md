@@ -8,8 +8,8 @@ tags:
   - instant-messaging
 ---
 
-|         Email         |          Twitter           |          Facebook           |          WeChat           |
-| :-------------------: | :------------------------: | :-------------------------: | :-----------------------: |
+|         Email          |          Twitter           |          Facebook           |          WeChat           |
+| :--------------------: | :------------------------: | :-------------------------: | :-----------------------: |
 | contact@kaiyuanshe.org | ![](image/KYS-Twitter.jpg) | ![](image/KYS-Facebook.jpg) | ![](image/KYS-WeChat.jpg) |
 
 ## 开源社社区成员交流群

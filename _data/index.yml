@@ -10,7 +10,7 @@ headerNav:
         href: /blog/
   - title: 成员
     sub:
-      - title: 成员
+      - title: 正式成员
         href: /members/
       - title: 加入我们
         href: http://members.kaiyuanshe.cn/
@@ -19,7 +19,7 @@ headerNav:
   - title: 资源
     sub:
       - title: 许可证选择器
-        href: http://www.kaiyuanshe.cn/license-tool.html
+        href: /license-tool.html
       - title: 开源文档
         href: /categories/Document
   - title: 关于
