@@ -49,6 +49,9 @@ tags:
   {% asset_img ThoughtWorks-Community.png "ThoughtWorks Community" %}
   {% asset_img HuaZhang.png 华章图书 %}
   {% asset_img SZOIL.png 深圳开发创新实验室 %}
+  {% asset_img AI-study.png "AI 研习社" %}
+  {% asset_img TAOS-data.png 涛思数据 %}
+  {% asset_img JSConf-China.png "JSConf China" %}
 </div>
 
 ## 2018 中国开源年会 (COSCon'18)
