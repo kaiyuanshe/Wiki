@@ -46,9 +46,44 @@
     - 2018
   site: https://www.8btc.com
   logo: https://www.8btc.com/public/common/8btc.svg
+- title: Apache Software Foundation
+  catalog: 社区伙伴
+  years:
+    - 2018
+    - 2019
+  site: http://www.apache.org
+  logo: image/partners/ASF-20th-Anniversary.jpg
+- title: FreeBSD Foundation
+  catalog: 社区伙伴
+  years:
+    - 2018
+    - 2019
+  site: https://www.freebsdfoundation.org
+  logo: https://www.freebsdfoundation.org/wp-content/uploads/2016/03/logo.svg
+- title: GNOME Foundation
+  catalog: 社区伙伴
+  years:
+    - 2018
+    - 2019
+  site: https://www.gnome.org/foundation/
+  logo: image/partners/GNOME.png
+- title: Open Source Initaitive
+  catalog: 社区伙伴
+  years:
+    - 2018
+    - 2019
+  site: https://opensource.org
+  logo: https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png
+- title: Linux Foundation
+  catalog: 社区伙伴
+  years:
+    - 2019
+  site: https://www.linuxfoundation.org
+  logo: https://www.linuxfoundation.org/wp-content/uploads/2017/08/favicon.png
 - title: freeCodeCamp
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: https://www.freecodecamp.org
   logo: https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png
@@ -72,6 +107,7 @@
 - title: 火狐社区
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: http://mozilla.com.cn/
   logo: image/partners/Firefox-CN.png
@@ -84,59 +120,69 @@
 - title: TesterHome
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: https://testerhome.com
   logo: image/partners/TesterHome.jpeg
 - title: Linux人
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: http://www.linux-ren.org
   logo: image/partners/LinuxRen.png
 - title: Ubuntu
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: https://ubuntu.com/
   logo: image/partners/Ubuntu.png
 - title: 优麒麟
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: http://www.ubuntukylin.com
   logo: image/partners/UKylin.png
 - title: 深圳湾
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: https://www.shenzhenware.com
   logo: image/partners/ShenZhenWare.png
 - title: 环信
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: http://www.easemob.com
   logo: image/partners/EaseMob.png
 - title: 芽木科技
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   logo: image/partners/YaMuTech.png
 - title: ThoughtWorks Community
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: https://www.thoughtworks.com/cn/careers/china
   logo: image/partners/ThoughtWorks-Community.png
 - title: 华章图书
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: http://www.hzbook.com
   logo: image/partners/HuaZhang.png
 - title: 深圳开放创新实验室
   catalog: 社区伙伴
   years:
+    - 2018
     - 2019
   site: https://www.szoil.org
   logo: image/partners/SZOIL.png
