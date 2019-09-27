@@ -31,7 +31,7 @@
       type: 白金赞助
 - title: 百度
   site: https://www.baidu.com/
-  logo: http://home.baidu.com/Public/img/logo.png?v=15
+  logo: https://avatars3.githubusercontent.com/u/13245940
   records:
     - year: 2018
       type: 白金赞助
@@ -127,6 +127,18 @@
   records:
     - year: 2018
       type: 媒体伙伴
+- title: 活动行
+  site: https://www.huodongxing.com
+  logo: https://cdn.huodongxing.com/Content/v3.0/img/hdx/hdx-main-feature/admin-head/logo.png
+  records:
+    - year: 2018
+      type: 报名平台伙伴
+- title: IT 大咖说
+  site: https://www.itdks.com
+  logo: https://www.itdks.com/Public/Home/img/customer/logo_index.png
+  records:
+    - year: 2018
+      type: 视频直播伙伴
 - title: Apache Software Foundation
   site: http://www.apache.org
   logo: image/partners/ASF-20th-Anniversary.jpg
@@ -300,4 +312,52 @@
   logo: image/partners/JSConf-China.png
   records:
     - year: 2019
+      type: 社区伙伴
+- title: Ceph 中国社区
+  site: http://ceph.org.cn/
+  logo: image/partners/Ceph-CN.png
+  records:
+    - year: 2018
+      type: 社区伙伴
+- title: dotNet core 中国社区
+  site: https://www.dotnetcore.xyz
+  logo: https://www.dotnetcore.xyz/images/logo.png
+  records:
+    - year: 2018
+      type: 社区伙伴
+- title: Flink 中国社区
+  site: https://flink-china.org
+  logo: https://avatars0.githubusercontent.com/u/17588915
+  records:
+    - year: 2018
+      type: 社区伙伴
+- title: Mesosphere
+  site: https://mesosphere.com
+  logo: https://avatars2.githubusercontent.com/u/3458585
+  records:
+    - year: 2018
+      type: 社区伙伴
+- title: Ruby China
+  site: https://ruby-china.org
+  logo: https://l.ruby-china.com/photo/2015/646b60747b14fe1e07cda2b787bc831e.png
+  records:
+    - year: 2018
+      type: 社区伙伴
+- title: Redis 中国用户组
+  site: http://www.redis.cn
+  logo: image/partners/Redis-CN.jpg
+  records:
+    - year: 2018
+      type: 社区伙伴
+- title: SegmentFault
+  site: https://segmentfault.com
+  logo: https://avatars1.githubusercontent.com/u/6038130
+  records:
+    - year: 2018
+      type: 社区伙伴
+- title: Creative Commons
+  site: https://creativecommons.org/
+  logo: https://avatars0.githubusercontent.com/u/3248958
+  records:
+    - year: 2018
       type: 社区伙伴
