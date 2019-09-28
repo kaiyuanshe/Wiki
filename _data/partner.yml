@@ -1,7 +1,16 @@
 - title: 云计算开源产业联盟
+  site: http://opensourcecloud.cn/
   logo: image/partners/OSCAR.png
   records:
     - year: 2018
+      type: 大会合作单位
+    - year: 2019
+      type: 大会合作单位
+- title: 华东师范大学
+  site: http://www.ecnu.edu.cn/
+  logo: https://www.ecnu.edu.cn/_upload/tpl/00/6f/111/template111/images/logo.gif
+  records:
+    - year: 2019
       type: 大会合作单位
 - title: 华为
   site: https://www.huawei.com/
@@ -11,11 +20,15 @@
       type: 战略赞助
     - year: 2018
       type: 国际讲师差旅赞助
+    - year: 2019
+      type: 战略赞助
 - title: 微软
   site: https://www.microsoft.com/
   logo: https://avatars0.githubusercontent.com/u/6154722
   records:
     - year: 2018
+      type: 白金赞助
+    - year: 2019
       type: 白金赞助
 - title: 腾讯开源
   site: https://opensource.tencent.com
@@ -28,6 +41,20 @@
   logo: https://avatars1.githubusercontent.com/u/37397724
   records:
     - year: 2018
+      type: 白金赞助
+    - year: 2019
+      type: 金牌赞助
+- title: Synopsys
+  site: https://www.synopsys.com
+  logo: image/partners/Synopsys.svg
+  records:
+    - year: 2019
+      type: 白金赞助
+- title: 微众银行
+  site: https://www.webank.com
+  logo: https://www.webankcdn.net/s/hj/www/img/webank-logo-741073a62d.png
+  records:
+    - year: 2019
       type: 白金赞助
 - title: 百度
   site: https://www.baidu.com/
@@ -43,17 +70,29 @@
   records:
     - year: 2018
       type: 金牌赞助
+    - year: 2019
+      type: 白金赞助
 - title: 银河麒麟
   site: http://www.kylinos.cn
   logo: image/partners/KylinOS.png
   records:
     - year: 2018
       type: 金牌赞助
+    - year: 2019
+      type: 银牌赞助
 - title: 偶数
   site: http://oushu.io/
   logo: image/partners/OuShu.png
   records:
     - year: 2018
+      type: 金牌赞助
+    - year: 2019
+      type: 银牌赞助
+- title: 平安云
+  site: https://yun.pingan.com
+  logo: https://img.bagevent.com/resource/20190823/1351077681670936.png?imageView2/2/w/300/interlace/1/q/100
+  records:
+    - year: 2019
       type: 金牌赞助
 - title: 秘猿科技
   site: https://www.cryptape.com/
@@ -61,6 +100,8 @@
   records:
     - year: 2018
       type: 银牌赞助
+    - year: 2019
+      type: 铜牌赞助
 - title: Bytom
   site: https://bytom.io
   logo: https://avatars0.githubusercontent.com/u/28505705
@@ -72,6 +113,20 @@
   logo: https://website.didiglobal.com/dist/media/logo-zh.a7abd90d.svg
   records:
     - year: 2018
+      type: 铜牌赞助
+    - year: 2019
+      type: 银牌赞助
+- title: 中标软件
+  site: http://www.cs2c.com.cn
+  logo: image/partners/CSSC.png
+  records:
+    - year: 2019
+      type: 铜牌赞助
+- title: Nebula Graph
+  site: http://nebula-graph.io/
+  logo: https://github.com/vesoft-inc/nebula/raw/master/docs/logo.png
+  records:
+    - year: 2019
       type: 铜牌赞助
 - title: 开源中国
   site: https://www.oschina.net
