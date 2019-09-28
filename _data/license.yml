@@ -1,0 +1,369 @@
+- name: Academic Free License 3.0
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Adaptive Public License
+  popular: false
+  type: Weak copyleft
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: true
+  privacyLoophole: true
+  noPromote: true
+- name: Affero GNU Public License
+  popular: false
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: true
+  privacyLoophole: false
+  noPromote: true
+- name: Apache License 2.0
+  popular: true
+  type: Permissive
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Artistic License 2.0
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Attribution Assurance Licenses
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: true
+  privacyLoophole: true
+  noPromote: true
+- name: Boost Software License
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Common Development and Distribution License
+  popular: true
+  type: Weak copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Common Public Attribution License 1.0
+  popular: false
+  type: Weak copyleft
+  jurisdiction: Specified
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: true
+  privacyLoophole: false
+  noPromote: true
+- name: Common Public License 1.0
+  popular: false
+  type: Weak copyleft
+  jurisdiction: Specified
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Eclipse Public License
+  popular: true
+  type: Weak copyleft
+  jurisdiction: Specified
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Educational Community License Version 2.0
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Eiffel Forum License v2.0
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: European Union Public License
+  popular: false
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Fair License
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: GNU General Public License
+  popular: true
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: GNU General Public License v3.0
+  popular: false
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: GNU Library or ''Lesser'' General Public License
+  popular: true
+  type: Weak copyleft
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: GNU Library or ''Lesser'' General Public License v3.0
+  popular: false
+  type: Weak copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Historical Permission Notice and Disclaimer
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: IPA Font License
+  popular: false
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: false
+- name: ISC License
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Lucent Public License Version 1.02
+  popular: false
+  type: Permissive
+  jurisdiction: Specified
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: MIT license
+  popular: true
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Microsoft Public License
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Microsoft Reciprocal License
+  popular: false
+  type: Weak copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: MirOS License
+  popular: false
+  type:
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: false
+- name: Mozilla Public License 1.1
+  popular: true
+  type: Weak copyleft
+  jurisdiction: Specified
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: NASA Open Source Agreement 1.3
+  popular: false
+  type:
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: false
+- name: NTP License
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: New and Simplified BSD licenses
+  popular: true
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Non-Profit Open Software License 3.0
+  popular: false
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Open Font License 1.1
+  popular: false
+  type:
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: false
+- name: Open Group Test Suite License
+  popular: false
+  type:
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: false
+- name: Open Software License 3.0
+  popular: false
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Qt Public License
+  popular: false
+  type: Permissive
+  jurisdiction: Specified
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: Reciprocal Public License 1.5
+  popular: false
+  type: Strong copyleft
+  jurisdiction: Specified
+  patentable: true
+  patentRetaliationClause: true
+  enhancedOwnership: true
+  privacyLoophole: false
+  noPromote: true
+- name: Simple Public License 2.0
+  popular: false
+  type: Strong copyleft
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: University of Illinois/NCSA Open Source License
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
+- name: X.Net License
+  popular: false
+  type:
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: false
+- name: zlib/libpng license
+  popular: false
+  type: Permissive
+  jurisdiction: null
+  patentable: false
+  patentRetaliationClause: false
+  enhancedOwnership: false
+  privacyLoophole: true
+  noPromote: true
