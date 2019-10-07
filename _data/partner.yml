@@ -22,9 +22,17 @@
       type: 国际讲师差旅赞助
     - year: 2019
       type: 战略赞助
+- title: 阿里云
+  site: https://www.aliyun.com
+  logo: https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png
+  records:
+    - year: 2018
+      type: 金牌赞助
+    - year: 2019
+      type: 白金赞助
 - title: 微软
   site: https://www.microsoft.com/
-  logo: https://avatars0.githubusercontent.com/u/6154722
+  logo: image/partners/MS-Azure.png
   records:
     - year: 2018
       type: 白金赞助
@@ -64,14 +72,6 @@
       type: 白金赞助
     - year: 2018
       type: 国际讲师差旅赞助
-- title: 阿里云
-  site: https://www.aliyun.com
-  logo: https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png
-  records:
-    - year: 2018
-      type: 金牌赞助
-    - year: 2019
-      type: 白金赞助
 - title: 银河麒麟
   site: http://www.kylinos.cn
   logo: image/partners/KylinOS.png
@@ -340,14 +340,24 @@
   records:
     - year: 2018
       type: 社区伙伴
-    - year: 2019
-      type: 社区伙伴
 - title: 深圳开放创新实验室
   site: https://www.szoil.org
   logo: image/partners/SZOIL.png
   records:
     - year: 2018
       type: 社区伙伴
+    - year: 2019
+      type: 社区伙伴
+- title: 龙芯
+  site: http://www.loongson.cn/
+  logo: image/partners/LoongSon.gif
+  records:
+    - year: 2019
+      type: 社区伙伴
+- title: Deepin 社区
+  site: https://www.deepin.org/
+  logo: https://www.deepin.com/wp-content/uploads/2016/12/nav_logo_deepin_blue.png
+  records:
     - year: 2019
       type: 社区伙伴
 - title: AI 研习社
