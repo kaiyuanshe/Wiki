@@ -426,3 +426,9 @@
   records:
     - year: 2018
       type: 社区伙伴
+- title: SOFAStack
+  site: https://www.sofastack.tech
+  logo: https://www.sofastack.tech/img/logo.png
+  records:
+    - year: 2019
+      type: 社区伙伴
