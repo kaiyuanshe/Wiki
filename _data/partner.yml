@@ -432,3 +432,9 @@
   records:
     - year: 2019
       type: 社区伙伴
+- title: RT-Thread
+  site: https://www.rt-thread.org
+  logo: https://github.com/RT-Thread.png
+  records:
+    - year: 2019
+      type: 社区伙伴

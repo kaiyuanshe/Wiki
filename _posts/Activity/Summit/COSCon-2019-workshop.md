@@ -5,14 +5,17 @@ authors:
   - TechQuery
 categories:
   - Activity
-  - Workshop
+  - Summit
 tags:
   - COSCon
+  - workshop
 
 start: 2019-11-02 13:30:00
 end: 2019-11-03 17:30:00
 address: 上海市普陀区中山北路3663号华东师范大学（中北校区）
 ---
+
+![](https://www.nmbu.no/sites/default/files/styles/linkboxes/public/workshopbilde_0.png?itok=rJGeB-FS)
 
 **Workshop** 这种活动形式，国内的小伙伴们可能了解不多。它直译过来通常叫**工作坊**，意译又称作**动手训练营**，是一种重在**现场实操**的技术活动。它与我们学生时代的“上机实验课”很像，但需要**参与者带着自己的电脑**，通过现场提供的多元化技术平台（如开源社自研的[开放黑客松平台][1]），亲身体验各类新技术，快速上手~
 
@@ -29,6 +32,12 @@ address: 上海市普陀区中山北路3663号华东师范大学（中北校区�
 ### 张秋怡
 
 https://github.com/joyeecheung
+
+<figure>
+{% asset_img Zhang-QiuYi.jpg %}
+</figure>
+
+她目前工作于 Igalia 的编译器团队，也是 Node.js Technical Steering Committee 的成员以及 V8 committer。
 
 ## 如何基于开源方案快速建立起一个线下 Hackthon 的支持平台
 
