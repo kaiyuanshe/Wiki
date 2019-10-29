@@ -142,8 +142,6 @@
   records:
     - year: 2018
       type: 媒体伙伴
-    - year: 2019
-      type: 媒体伙伴
 - title: InfoQ
   site: https://infoq.cn
   logo: image/partners/InfoQ.png
@@ -229,6 +227,18 @@
 - title: Linux Foundation
   site: https://www.linuxfoundation.org
   logo: https://www.linuxfoundation.org/wp-content/uploads/2017/08/favicon.png
+  records:
+    - year: 2019
+      type: 社区伙伴
+- title: Red Hat
+  site: https://www.redhat.com
+  logo: https://redhatofficial.github.io/07364e66e48cc16053596731a1f67b3a.png
+  records:
+    - year: 2019
+      type: 社区伙伴
+- title: OpenStack Foundation
+  site: https://www.openstack.org/foundation/
+  logo: https://opensource.org/files/OSF_Logo.png
   records:
     - year: 2019
       type: 社区伙伴
@@ -332,8 +342,6 @@
   records:
     - year: 2018
       type: 社区伙伴
-    - year: 2019
-      type: 社区伙伴
 - title: 华章图书
   site: http://www.hzbook.com
   logo: image/partners/HuaZhang.png
@@ -435,6 +443,18 @@
 - title: RT-Thread
   site: https://www.rt-thread.org
   logo: https://github.com/RT-Thread.png
+  records:
+    - year: 2019
+      type: 社区伙伴
+- title: 超神经
+  site: https://hyper.ai
+  logo: image/partners/HyperAI.png
+  records:
+    - year: 2019
+      type: 社区伙伴
+- title: PyCon 中国
+  site: http://cn.pycon.org/
+  logo: http://cn.pycon.org/asset/img/pycon_logo.png
   records:
     - year: 2019
       type: 社区伙伴

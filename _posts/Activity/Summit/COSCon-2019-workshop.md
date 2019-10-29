@@ -102,6 +102,31 @@ Pinpoint is currently one of the most popular open-source APMs in China, capable
 
 All those who were curious about how java agents work, as well as those interested in the application performance monitoring (APM) tool, will find the workshop interesting. The workshop covers a wide range of topics - from bytecode instrumentation to distributed tracing, and the audience will be able to gain first-hand experience into seeing how the different topics come together to run an APM tool.
 
+### 课前准备
+
+在 Windows PowerShell 中执行：
+
+```shell
+choco install git jdk8
+
+git clone https://github.com/pinpoint-plugin-workshop/pinpoint-plugin-workshop.git ~/Desktop/PinPoint
+
+cd ~/Desktop/PinPoint
+./mvnw install -Dmaven.test.skip=true
+```
+
+或在 Mac OS X Terminal 中执行：
+
+```shell
+brew install git
+brew cask install java8
+
+git clone https://github.com/pinpoint-plugin-workshop/pinpoint-plugin-workshop.git ~/Desktop/PinPoint
+
+cd ~/Desktop/PinPoint
+./mvnw install -Dmaven.test.skip=true
+```
+
 ### Jeong HyunGil
 
 https://github.com/Xylus
@@ -157,3 +182,7 @@ Apache bRPC (incubator) 是一个企业品质的高性能 RPC 框架，使用 C+
 </figure>
 
 [1]: http://hacking.kaiyuanshe.cn/
+
+## 参考文档
+
+- [编程入门之开发工具一键安装](https://tech-query.me/development/coder-start-kit/)
