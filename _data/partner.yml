@@ -58,6 +58,12 @@
   records:
     - year: 2019
       type: 白金赞助
+- title: 腾讯云
+  site: https://cloud.tencent.com/
+  logo: https://p1.ssl.qhmsg.com/dr/270_500_/t018c60fd1eea764333.jpg
+  records:
+    - year: 2019
+      type: 白金赞助
 - title: 微众银行
   site: https://www.webank.com
   logo: https://www.webankcdn.net/s/hj/www/img/webank-logo-741073a62d.png
@@ -72,6 +78,12 @@
       type: 白金赞助
     - year: 2018
       type: 国际讲师差旅赞助
+- title: 在乎
+  site: https://zaihuu.bayss.com/
+  logo: https://img.bagevent.com/resource/20191015/1517455041670936.jpg?imageView2/2/w/300/interlace/1/q/100
+  records:
+    - year: 2019
+      type: 金牌赞助
 - title: 银河麒麟
   site: http://www.kylinos.cn
   logo: image/partners/KylinOS.png
@@ -88,12 +100,6 @@
       type: 金牌赞助
     - year: 2019
       type: 银牌赞助
-- title: 平安云
-  site: https://yun.pingan.com
-  logo: https://img.bagevent.com/resource/20190823/1351077681670936.png?imageView2/2/w/300/interlace/1/q/100
-  records:
-    - year: 2019
-      type: 金牌赞助
 - title: 秘猿科技
   site: https://www.cryptape.com/
   logo: image/partners/Cryptape.png
@@ -128,6 +134,12 @@
   records:
     - year: 2019
       type: 铜牌赞助
+- title: 鹏城汇智
+  site: https://www.ihub.org.cn/
+  logo: https://img.bagevent.com/resource/20191031/0042142711670936.jpg?imageView2/2/w/300/interlace/1/q/100
+  records:
+    - year: 2019
+      type: 铜牌赞助
 - title: 开源中国
   site: https://www.oschina.net
   logo: https://static.oschina.net/new-osc/img/logo_osc_new.svg
@@ -141,6 +153,8 @@
   logo: https://b-gold-cdn.xitu.io/v3/static/img/logo.a7995ad.svg
   records:
     - year: 2018
+      type: 媒体伙伴
+    - year: 2019
       type: 媒体伙伴
 - title: InfoQ
   site: https://infoq.cn
@@ -454,7 +468,7 @@
       type: 社区伙伴
 - title: PyCon 中国
   site: http://cn.pycon.org/
-  logo: http://cn.pycon.org/asset/img/pycon_logo.png
+  logo: image/partners/PyCon-CN.png
   records:
     - year: 2019
       type: 社区伙伴
