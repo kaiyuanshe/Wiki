@@ -16,10 +16,13 @@ install:
   - npm install
 script:
   - npm run build
-  - cd ${FOLDER_TARGET}
-  - git init
-  - git config user.name ${UID}
-  - git config user.email ${EMAIL}
-  - git add .
-  - git commit -m "${MESSAGE}"
-  - git push --force --quiet https://${TOKEN}@${GIT_URI}.git master:${BRANCH}
+deploy:
+  provider: pages
+  on:
+    branch: master
+  skip_cleanup: true
+  local_dir: ${FOLDER_TARGET}
+  fqdn: ${DOMAIN}
+  repo: ${GIT_URI}
+  target_branch: ${BRANCH}
+  token: ${TOKEN}
