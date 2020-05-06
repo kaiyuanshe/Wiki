@@ -12,7 +12,7 @@ tags:
   - WebCell
 
 description: 新冠病毒疫情中的援助信息网站
-logo: https://wuhan2020.kaiyuanshe.cn/wuhan2020-mini.07462d26.png
+logo: https://wuhan2020.kaiyuanshe.cn/wuhan2020-mini.ea4c48b6.png
 website: https://wuhan2020.kaiyuanshe.cn/
 repository: https://github.com/wuhan2020/WebApp
 ---

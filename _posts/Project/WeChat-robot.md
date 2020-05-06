@@ -14,4 +14,4 @@ logo: image/WeChaty.png
 repository: https://github.com/kaiyuanshe/wechat-robot
 ---
 
-感谢 [WeChaty](https://chatie.gitbook.io/wechaty/v/zh/) 项目！
+感谢 [WeChaty](https://wechaty.js.org/v/zh/) 项目！
