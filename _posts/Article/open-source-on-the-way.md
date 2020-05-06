@@ -1,12 +1,12 @@
 ---
-title: Open Source, a new startup model, is on its way.
+title: 开源, 一种全新的创业模式，正在悄然袭来
 date: 2020-05-06 16:29:01
 authors:
   - cynbarby
 categories:
   - Article
 tags: []
-updated: 2020-05-06 16:29:56
+updated: 2020-05-06 16:30:50
 
 ---
 
