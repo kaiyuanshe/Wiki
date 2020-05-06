@@ -29,9 +29,8 @@ updated: 2020-05-06 16:31:25
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/2IkvbD2t7xeUAAFIu3RKicBzibh2go3dt2JCqcnVicgIvic2DtFdvknicic1yNtUOeQd7RQibhBMrFsqRSo854bYxzSicQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-**开源社引言**
+## 开源社引言
 
-  
 
 开源是一种新的开发模式，在源头上的确为不少创业公司解决了技术与产品原型的启动、成本、质量、更新迭代时间、早期用户拓展的一些问题。
 
@@ -65,7 +64,7 @@ updated: 2020-05-06 16:31:25
 
   
 
-**01**
+# 01
 
   
 
@@ -101,7 +100,7 @@ updated: 2020-05-06 16:31:25
 
   
 
-**02**
+# 02
 
   
 
@@ -207,7 +206,7 @@ updated: 2020-05-06 16:31:25
 
   
 
-**03**
+# 03
 
 **为什么是开源：低投入，低门槛，低风险，高回报**
 
@@ -325,11 +324,9 @@ MongoDB 公司 CTO Eliot Horowitz 曾说，“市场正日益将软件作为一�
 
   
 
-**04**
+# 04
 
 **人类技术发展的大趋势**
-
-  
 
   
 
@@ -357,4 +354,4 @@ MongoDB 公司 CTO Eliot Horowitz 曾说，“市场正日益将软件作为一�
 
   
 
-开源，让我们拭目以待。
+**开源，让我们拭目以待。**
