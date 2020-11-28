@@ -9,7 +9,7 @@ tags:
   - GitHub
   - Travis
 
-description: 开源社官网是一个基于 Hexo + GitHub Pages + Travis CI 开发的静态网站
+description: 开源社官网是一个基于 Hexo + GitHub Pages + GitHub Actions 开发的静态网站
 logo: image/KaiYuanShe-logo.png
 website: http://kaiyuanshe.cn/
 repository: https://github.com/kaiyuanshe/kaiyuanshe.github.io

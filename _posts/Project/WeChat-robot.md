@@ -1,7 +1,7 @@
 ---
 layout: project
 
-title: 微信助手
+title: OSSChat
 categories:
   - Project
 tags:
@@ -9,9 +9,10 @@ tags:
   - robot
   - assistant
 
-description: 基于 WeChaty 的微信群管理机器人
-logo: image/WeChaty.png
-repository: https://github.com/kaiyuanshe/wechat-robot
+description: 用于桥接 IM 应用程序（例如微信）和 Apache 社区工具（例如邮件列表、Jira）。
+logo: https://github.com/kaiyuanshe/osschat/raw/master/docs/images/osschat.svg
+website: https://oss.chat/
+repository: https://github.com/kaiyuanshe/osschat
 ---
 
 感谢 [WeChaty](https://wechaty.js.org/v/zh/) 项目！

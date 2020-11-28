@@ -14,9 +14,8 @@ links:
   直播: https://segmentfault.com/area/coscon-2020
 ---
 
-
 > 转载自：SegmentFault
-> 编辑：黄欣宜
+> 编辑：黄欣宜
 > 设计：冯艺怡
 > 责编：王玥敏
 
@@ -31,7 +30,6 @@ links:
 一年一度的开源盛会
 
 一起探讨  —— **开源向善**
-
 
 ---
 
