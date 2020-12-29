@@ -83,7 +83,7 @@
     - 组长
   department:
     - 理事会
-    - 线下活动组
+    - 活动组
     - 社区合作组
   committee:
     - 顾问委员会
@@ -259,7 +259,6 @@
     - 正式成员
   department:
     - 开源教育组
-    - 开源教育组
   committee:
     - 顾问委员会
   company: 国防科技大学
@@ -286,7 +285,7 @@
   position:
     - 正式成员
   department:
-    - 线下活动组
+    - 活动组
     - 媒体品牌组
   company: 喜马拉雅FM
   title: 高级商务经理
