@@ -3,6 +3,9 @@ title: 开源社 2020 年度报告
 date: 2021-01-24 18:48:59
 categories:
   - Document
+
+photos:
+  - summary.jpg
 files:
   - 2020 开源社年度报告.pdf
 ---
