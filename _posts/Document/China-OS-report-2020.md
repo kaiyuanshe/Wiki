@@ -10,7 +10,7 @@ photos:
   - https://uploader.shimo.im/f/TSsXcTJkt4gzHn5i.png!thumbnail?fileGuid=eVStBnWHo04Wae2V
 files:
   - 2020 中国开源年度报告.pdf
-  - 2020_Kaiyuenshe_Whitepaper_enquete.pdf
+  - 2020_China_Open_Source_Report-JP.pdf
 ---
 
 ## 前言
