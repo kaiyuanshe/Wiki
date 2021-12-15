@@ -7,7 +7,7 @@ categories:
   - Summit
 tags: []
 第六届中国开源年会（COSCon'21）开心开源精彩收官: ""
-updated: 2021-12-15 19:01:46
+updated: 2021-12-15 19:01:47
 
 ---
 
@@ -115,7 +115,7 @@ _https://space.bilibili.com/525037536_
 
 **本次年会采取了线上与线下结合的形式，线上共设计有一个主论坛和 15 个分论坛，而线下则在上海，深圳，成都，珠海，大连，无锡，福州 7 城分会场联动。**每天都安排了各种各样的活动和演讲，不论是线上参与还是线下参会都很充实，相信不少开源人都在欢乐的气氛中度过了两天美好的时光。  
 
-![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Activity/Summit/COSCon-2021-summmary/chpz9t3ig4w.png)
+![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/_posts/Activity/Summit/COSCon-2021-summmary/fui7l9lp4w.png)
 
   
 
