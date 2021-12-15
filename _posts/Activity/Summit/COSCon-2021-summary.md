@@ -6,8 +6,8 @@ categories:
   - Activity
   - Summit
 tags: []
-第六届中国开源年会（COSCon'21）开心开源精彩收官: ""
-updated: 2021-12-15 19:07:24
+第六届中国开源年会（COSCon'21）开心开源精彩收官: 第六届中国开源年会（COSCon'21）开心开源精彩收官
+updated: 2021-12-15 19:08:12
 
 ---
 
