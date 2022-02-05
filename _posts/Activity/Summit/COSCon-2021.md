@@ -1,55 +1,53 @@
 ---
-date: 2021-10-30 09:00 ~ 10-31 18:00
+title: 2021 第六届中国开源年会（COSCon'21）
+date: 2021-12-15 18:32:31
 authors:
-  - cynbarby
-layout: blog
+    - cynbarby
 categories:
-  - blog
-tags: []
-2021 第六届中国开源年会（COSCon'21）: ""
-updated: 2021-12-15 18:32:31
-
+    - Activity
+    - Summit
+tags:
+    - COSCon
+photos:
+    - 21phds9rx52.png
+start: 2021-10-30 09:00
+end: 2021-10-31 18:00
+address: 成都市高新区天府五街菁蓉汇
+links:
+    报名: https://www.bagevent.com/event/7685233
 ---
 
-**Happy Hacking，开心开源**
+{% asset_img 21phds9rx52.png %}
 
-**![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/blog/coscon2021/21phds9rx52.png)**
+## 大会主题
 
-业界最具影响力的开源年度盛会 2021第六届中国开源年会 (COSCon'21) 将于 10月30-31日由开源社举办。
-
-  
+业界最具影响力的开源年度盛会 2021 第六届中国开源年会 (COSCon'21) 将于 10 月 30-31 日由开源社举办。
 
 开源社是一个在国内外开源界深具影响力、厂商中立、纯志愿者组成、非营利的开源社区联合体。我们专注于开源治理、国际接轨、社区发展和开源项目。开源社倾力打造的开源年度盛会 COSCon 一路走来也聚焦于这四个核心。
 
-  
-
-COSCon 以其独特定位及日益增加的影响力，吸引越来越多的顶级企业和国际基金会的大力支持。与一般企业、IT媒体、行业协会或国外基金会在国内所举办的行业大会大不相同的是，COSCon 除了吸引跨企业和跨项目社区的不同用户之外，也专注于吸引国内外大咖开源开发者、贡献者和提交者的关注及参与项目及其社区。
-
-  
+COSCon 以其独特定位及日益增加的影响力，吸引越来越多的顶级企业和国际基金会的大力支持。与一般企业、IT 媒体、行业协会或国外基金会在国内所举办的行业大会大不相同的是，COSCon 除了吸引跨企业和跨项目社区的不同用户之外，也专注于吸引国内外大咖开源开发者、贡献者和提交者的关注及参与项目及其社区。
 
 **今年，我们的主题是：Happy Hacking，开心开源。**
 
-**本次大会将以在线为主，所有的演讲都将预先录制视频。同时目前已经有成都、深圳、上海、北京、无锡、大连、珠海、福州几个城市的场地作为线下分会场（陆续增加ing），以供这几个城市的讲师、特邀嘉宾与大会志愿工作者等进行****讲师互动与访谈、圆桌会、KOL 聚会，以及举办社区特色活动。其余城市的讲师、特邀嘉宾与大会志愿工作者可以选择在线或亲自到场参加聚会。**
-
-  
+**本次大会将以在线为主，所有的演讲都将预先录制视频。同时目前已经有成都、深圳、上海、北京、无锡、大连、珠海、福州几个城市的场地作为线下分会场（陆续增加 ing），以供这几个城市的讲师、特邀嘉宾与大会志愿工作者等进行讲师互动与访谈、圆桌会、KOL 聚会，以及举办社区特色活动。其余城市的讲师、特邀嘉宾与大会志愿工作者可以选择在线或亲自到场参加聚会。**
 
 如果有其它城市的志愿者愿意担任自己所在城市的 COSCon'21 城市分会场出品人，也欢迎举手承办。
 
-  
+{% asset_img 5q40ss5d3l.png %}
 
-![](https://raw.githubusercontent.com/kaiyuanshe/Wiki/master/blog/coscon2021/5q40ss5d3l.png)
+## 直播地址
 
-直播地址
+|      SegmentFault 思否      |            CSDN             |        开源社视频号         |    开源社 B 站    |
+| :-------------------------: | :-------------------------: | :-------------------------: | :---------------: |
+| [COSCon'21 开源年会直播][1] | [COSCon'21 开源年会直播][2] | 微信搜索：开源社 KAIYUANSHE | [欢迎点击三连][3] |
 
-<table width="855" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-spacing: 0px; border-collapse: collapse; border-color: rgb(255, 83, 4); max-width: 100%; margin-bottom: 10px; display: table; color: rgb(51, 51, 51); font-family: Lato, &quot;Chinese Quote&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1080px;"><tbody style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%;"><tr class="firstRow" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%;"><td width="122" valign="top" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 5px 10px; margin: 0px; border: 1px solid rgb(221, 221, 221); max-width: 100%; word-break: break-all; text-align: center;"><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 5px 0px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 2em;"><span microsoft="" yahei";"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%;"><span style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;">SegmentFault 思否</strong></span></span></p><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 5px 0px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 2em;"><a href="https://segmentfault.com/area/coscon-2021" target="_blank" microsoft="" yahei";="" text-decoration:="" underline;"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; background: transparent; color: rgb(0, 0, 0); text-decoration: none; border-color: rgb(255, 83, 4); max-width: 100%;"><span style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 176, 240);"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;"><span style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);">COSCon'21开源年会直播</span></strong><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;"><span style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);"></span></strong></span></a></p></td><td valign="top" colspan="1" rowspan="1" width="122" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 5px 10px; margin: 0px; border: 1px solid rgb(221, 221, 221); max-width: 100%; word-break: break-all; text-align: center;"><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 5px 0px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 1.75em;"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;">CSDN</strong></p><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 10px 0px 5px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 1.75em;"><a href="https://marketing.csdn.net/p/525ab399b9ac2988fec44cbfddd7d26d" target="_self" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; background: transparent; color: rgb(0, 0, 0); text-decoration: none; border-color: rgb(255, 83, 4); max-width: 100%;"><span style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;">COSCon'21开源年会直播</strong></span></a></p></td><td width="122" valign="top" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 5px 10px; margin: 0px; border: 1px solid rgb(221, 221, 221); max-width: 100%; word-break: break-all; text-align: center;"><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 5px 0px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 2em;"><span style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;"><span microsoft="" yahei";"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);"><span microsoft="" yahei";"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);"></span>开源社视频号</span></strong></span></p><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 5px 0px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 2em;"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;"><span microsoft="" yahei";"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);">微信搜索：开源社KAIYUANSHE</span></strong></p></td><td width="122" valign="top" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 5px 10px; margin: 0px; border: 1px solid rgb(221, 221, 221); max-width: 100%; word-break: break-all; text-align: center;"><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 5px 0px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 2em;"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;"><span microsoft="" yahei";"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%;">开源社B站</span></strong></p><p style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; padding: 0px; margin: 5px 0px; border-color: rgb(255, 83, 4); max-width: 100%; line-height: 2em;"><a href="http://live.bilibili.com/22453886" target="_self" microsoft="" yahei";"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; background: transparent; color: rgb(0, 0, 0); text-decoration: none; border-color: rgb(255, 83, 4); max-width: 100%;"><span microsoft="" yahei";"="" style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-color: rgb(255, 83, 4); max-width: 100%; color: rgb(0, 0, 0);"><strong style="text-rendering: optimizelegibility; -webkit-tap-highlight-color: transparent; box-sizing: border-box; font-weight: bold; border-color: rgb(255, 83, 4); max-width: 100%;">欢迎点击三连</strong></span></a></p></td></tr></tbody></table>
+## 合作伙伴
 
-合作伙伴
-
-战略赞助
+### 战略赞助
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2252530601670936.png?imageView2/2/w/300/interlace/1/q/100)][4]
 
-白金赞助
+### 白金赞助
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2229530811670936.png?imageView2/2/w/300/interlace/1/q/100)][5]
 
@@ -63,33 +61,33 @@ COSCon 以其独特定位及日益增加的影响力，吸引越来越多的顶�
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211025/2012384061670936.png?imageView2/2/w/300/interlace/1/q/100)][10]
 
-金牌赞助
+### 金牌赞助
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2230455821670936.png?imageView2/2/w/300/interlace/1/q/100)][11]
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2230550601670936.png?imageView2/2/w/300/interlace/1/q/100)][12]
 
-银牌赞助
+### 银牌赞助
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2231116501670936.png?imageView2/2/w/300/interlace/1/q/100)][13]
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2231168121670936.png?imageView2/2/w/300/interlace/1/q/100)][14]
 
-铜牌赞助
+### 铜牌赞助
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2231281141670936.png?imageView2/2/w/300/interlace/1/q/100)][15]
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211018/2231335961670936.png?imageView2/2/w/300/interlace/1/q/100)][16]
 
-星牌赞助
+### 星牌赞助
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211021/2234407871670936.png?imageView2/2/w/300/interlace/1/q/100)][17]
 
-媒体战略伙伴
+### 媒体战略伙伴
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211021/2235352551670936.png?imageView2/2/w/300/interlace/1/q/100)][18]
 
-媒体合作
+### 媒体合作
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211021/2236217071670936.png?imageView2/2/w/300/interlace/1/q/100)][19]
 
@@ -103,7 +101,7 @@ COSCon 以其独特定位及日益增加的影响力，吸引越来越多的顶�
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211021/2239000081670936.png?imageView2/2/w/300/interlace/1/q/100)][24]
 
-直播合作
+### 直播合作
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211021/2241125851670936.png?imageView2/2/w/300/interlace/1/q/100)][25]
 
@@ -123,7 +121,7 @@ COSCon 以其独特定位及日益增加的影响力，吸引越来越多的顶�
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211021/2247148351670936.png?imageView2/2/w/300/interlace/1/q/100)][33]
 
-社区合作
+### 社区合作
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211021/2249210941670936.png?imageView2/2/w/300/interlace/1/q/100)][34]
 
@@ -280,10 +278,6 @@ COSCon 以其独特定位及日益增加的影响力，吸引越来越多的顶�
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211026/1509157271670936.png?imageView2/2/w/300/interlace/1/q/100)][108]
 
 [![2021 第六届中国开源年会（COSCon'21）](https://img.bagevent.com/resource/20211027/0109254931670936.jpg?imageView2/2/w/300/interlace/1/q/100)][109]
-
-  
-
-  
 
 [1]: https://segmentfault.com/area/coscon-2021
 [2]: https://marketing.csdn.net/p/525ab399b9ac2988fec44cbfddd7d26d
