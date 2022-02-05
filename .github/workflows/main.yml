@@ -16,15 +16,16 @@ jobs:
               with:
                   repository: ${{ secrets.GIT_URI }}
                   path: super/
+            - name: Merge Data & Program
+              run: |
+                  shopt -s extglob
+                  mv !(super) super/source/
+                  mv super/* .
             - name: Use Node.js
               uses: actions/setup-node@v2
               with:
                   node-version: 14
                   cache: yarn
-            - name: Merge Data & Program
-              run: |
-                  mv !(super) super/source/
-                  mv super/* .
             - name: Install & build
               run: |
                   yarn
