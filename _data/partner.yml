@@ -6,7 +6,7 @@
       type: 大会合作单位
 - title: 华东师范大学
   site: http://www.ecnu.edu.cn/
-  logo: https://www.ecnu.edu.cn/_upload/tpl/00/6f/111/template111/images/logo.gif
+  logo: https://www.ecnu.edu.cn/images/21/03/19/1yzt3nyx1a/logo3.svg
   records:
     - year: 2019
       type: 大会合作单位
@@ -155,10 +155,9 @@
       type: 媒体伙伴
     - year: 2019
       type: 媒体伙伴
-- title: 掘金
-  site: https://juejin.im
-  logo: https://b-gold-cdn.xitu.io/v3/static/img/logo.a7995ad.svg
-  records:
+- title: 稀土掘金
+  site: https://juejin.cn/
+  logo: https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg
     - year: 2018
       type: 媒体伙伴
     - year: 2019
