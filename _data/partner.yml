@@ -25,6 +25,8 @@
       type: 国际讲师差旅赞助
     - year: 2019
       type: 战略赞助
+    - year: 2020
+      type: 战略赞助
 - title: 阿里云
   site: https://www.aliyun.com
   logo: https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png
@@ -45,6 +47,8 @@
       type: 白金赞助
     - year: 2019
       type: 白金赞助
+    - year: 2020
+      type: 战略赞助
 - title: 腾讯开源
   site: https://opensource.tencent.com
   logo: https://opensource.tencent.com/img/logo.png
@@ -59,6 +63,8 @@
       type: 白金赞助
     - year: 2019
       type: 金牌赞助
+    - year: 2020
+      type: 白金赞助
 - title: Synopsys
   site: https://www.synopsys.com
   logo: image/partners/Synopsys.svg
@@ -76,6 +82,8 @@
   logo: https://www.webankcdn.net/s/hj/www/img/webank-logo-741073a62d.png
   records:
     - year: 2019
+      type: 白金赞助
+    - year: 2020
       type: 白金赞助
 - title: 百度
   site: https://www.baidu.com/
@@ -129,6 +137,8 @@
       type: 铜牌赞助
     - year: 2019
       type: 银牌赞助
+    - year: 2020
+      type: 白金赞助
 - title: 中标软件
   site: http://www.cs2c.com.cn
   logo: image/partners/CSSC.png
@@ -158,6 +168,7 @@
 - title: 稀土掘金
   site: https://juejin.cn/
   logo: https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg
+  records:
     - year: 2018
       type: 媒体伙伴
     - year: 2019
