@@ -248,6 +248,7 @@
     - 正式成员
   department:
     - 媒体品牌组
+    - 社区合作组
   company: Changhong
   city: 成都
   GitHub: ch-shumin
@@ -464,3 +465,23 @@
   email: xiqingongzi@gmail.com
   wechat: ixiqin_com
   URL: 'https://www.ixiqin.com'
+- name: 李明康
+  alias: Bright
+  position:
+    - 正式成员
+  department:
+    - 媒体品牌组
+    - 社区合作组
+    - 成员发展组
+    - 顾问委员会工作组
+    - 基础设施组
+  project:
+    - 官网开发组
+    - 开放黑客松
+    - 开源报告组
+  company: 开源社
+  title: 社区合作组-组长
+  city: 上海
+  GitHub: Nliver
+  email: slibre@kaiyuanshe.org
+  URL: 'https://github.com/Nliver'
