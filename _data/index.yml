@@ -24,6 +24,8 @@ headerNav:
         href: /license-tool/
       - title: 开源镜像
         href: http://mirror.kaiyuanshe.cn/
+      - title: Web 标准补丁服务
+        href: https://polyfill.kaiyuanshe.cn/
   - title: 关于
     sub:
       - title: 介绍
@@ -57,7 +59,7 @@ social:
   twitter:
     name: contactkaiyuan1
     domain: https://twitter.com
-    title: '@contactkaiyuan1 on Twitter'
+    title: "@contactkaiyuan1 on Twitter"
   facebook:
     name: kaiyuanshe.china
     domain: https://www.facebook.com
