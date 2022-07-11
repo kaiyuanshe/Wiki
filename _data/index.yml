@@ -13,7 +13,7 @@ headerNav:
       - title: 正式成员
         href: /members/
       - title: 加入我们
-        href: https://kaiyuanshe.feishu.cn/share/base/shrcnzwtkp4K6aZrrr7BjBp4T1d
+        href: https://kaiyuanshe.feishu.cn/share/base/shrcnfO89tYlYIjZpS5PXJBaK2f
   - title: 合作伙伴
     href: /partners
   - title: 资源
@@ -50,7 +50,7 @@ footNav:
   - title: 联系我们
     href: /profile/contact
   - title: 协作编辑
-    href: https://git-pager.leanapp.cn/?repository=kaiyuanshe/Wiki
+    href: https://git-pager.avosapps.us/?repository=kaiyuanshe/Wiki
 social:
   github:
     name: kaiyuanshe
