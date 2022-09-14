@@ -42,5 +42,5 @@ jobs:
                   cname: kaiyuanshe.cn
                   external_repository: ${{ secrets.GIT_URI }}
                   publish_branch: master
-                  personal_token: ${{ secrets.PERSONAL_TOKEN }}
+                  personal_token: ${{ secrets.GITHUB_TOKEN }}
                   force_orphan: true
