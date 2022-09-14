@@ -2,12 +2,25 @@
   site: http://opensourcecloud.cn/
   logo: image/partners/OSCAR.png
   records:
+    - year: 2016
+      type: 合作单位
     - year: 2018
       type: 大会合作单位
+- title: 中国开源软件推进联盟（COPU）
+  site: http://www.copu.org.cn/
+  logo: image/partners/COSCon2016/COPU.png
+  records:
+    - year: 2016
+      type: 开源社指导单位
 - title: 华东师范大学
-  site: http://www.ecnu.edu.cn/
+  site: http://scse.buaa.edu.cn/
   logo: https://www.ecnu.edu.cn/images/21/03/19/1yzt3nyx1a/logo3.svg
   records:
+    - year: 2019
+      type: 大会合作单位
+- title: 北京航天航空大学
+  site: http://www.ecnu.edu.cn/
+  logo: image/partners/COSCon2016/scsebuaa.png
     - year: 2019
       type: 大会合作单位
 - title: TC608
@@ -39,7 +52,7 @@
   records:
     - year: 2019
       type: 白金赞助
-- title: 微软
+- title: 微软 Azure
   site: https://www.microsoft.com/
   logo: image/partners/MS-Azure.png
   records:
@@ -49,6 +62,12 @@
       type: 白金赞助
     - year: 2020
       type: 战略赞助
+- title: 微软
+  site: https://www.microsoft.com/
+  logo: image/partners/COScon2016/microsoft.jpg
+  records:
+    - year: 2016
+      type: 白金赞助
 - title: 腾讯开源
   site: https://opensource.tencent.com
   logo: https://opensource.tencent.com/img/logo.png
@@ -103,10 +122,132 @@
   site: http://www.kylinos.cn
   logo: image/partners/KylinOS.png
   records:
+    - year: 2016
+      type: 银牌赞助
     - year: 2018
       type: 金牌赞助
     - year: 2019
       type: 银牌赞助
+- title: Seafile
+  site: https://www.seafile.com/home/
+  logo: image/partners/COSCon2016/seafile.png
+  records:
+    - year: 2016
+      type: 铜牌赞助
+- title: 51Aspx
+  site: https://www.51aspx.com/
+  logo: image/partners/COSCon2016/51Aspx.png
+  records:
+    - year: 2016
+      type: 亮点赞助
+- title: CANONICAL
+  site: https://canonical.com/
+  logo: image/partners/COSCon2016/canonical.png
+  records:
+    - year: 2016
+      type: 亮点赞助
+- title: COCOSPACE可可空间
+  site: https://www.cocospace.com.cn/#/
+  logo: image/partners/COSCon2016/cocospace.png
+  records:
+    - year: 2016
+      type: 亮点赞助
+- title: ENDLESS安迪思
+  site: http://www.endlesschina.com/
+  logo: image/partners/COSCon2016/endless.png
+  records:
+    - year: 2016
+      type: 亮点赞助
+- title: 禅道
+  site: https://www.zentao.net/
+  logo: image/partners/COSCon2016/zentao.png
+  records:
+    - year: 2016
+      type: 开源社成员赞助
+- title: 轻元科技
+  site: http://www.qingyuanos.com/
+  logo: image/partners/COSCon2016/qingyuanos.png
+  records:
+    - year: 2016
+      type: 开源社成员赞助
+- title: Ceph中国社区
+  site: http://ceph.org.cn/
+  logo: image/partners/COSCon2016/cephchina.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: Node.js社区
+  site: https://nodejs.org/zh-cn/
+  logo: image/partners/COSCon2016/nodejs.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: DC/OS
+  site: https://dcos.io/
+  logo: image/partners/COSCon2016/DCOS.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: 环信
+  site: https://www.imgeek.org/
+  logo: image/partners/COSCon2016/easemob.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: FreeBSD-Foundation
+  site: https://freebsdfoundation.org/
+  logo: image/partners/COSCon2016/freeBSD-Foundation.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: FOSSASIA
+  site: https://fossasia.org/
+  logo: image/partners/COSCon2016/fossasia.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: Neuzilla
+  site: https://github.com/Neuzilla
+  logo: image/partners/COSCon2016/NEUZILLA.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: OpenSourceInitiative
+  site: https://opensource.org/
+  logo: image/partners/COSCon2016/opensource.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: redis中国用户组
+  site: http://www.redis.cn/
+  logo: image/partners/COSCon2016/redischina.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: ROCKQ
+  site: https://rockq2015.huodongxing.com/
+  logo: image/partners/COSCon2016/rockq.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: 上海Linux用户群
+  site: http://www.shlug.org/
+  logo: image/partners/COSCon2016/shlug.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: 一铭云社区
+  site: http://www.emindsoft.com.cn/
+  logo: image/partners/COSCon2016/emind.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
+- title: 云技术
+  site: https://kaiyuanshe.cn/
+  logo: image/partners/COSCon2016/yunjishu.png
+  records:
+    - year: 2016
+      type: 社区合作伙伴
 - title: 偶数
   site: http://oushu.io/
   logo: image/partners/OuShu.png
@@ -185,6 +326,8 @@
   site: https://csdn.net
   logo: image/partners/CSDN.png
   records:
+    - year: 2016
+      type: 媒体合作伙伴
     - year: 2018
       type: 媒体伙伴
     - year: 2019
@@ -340,6 +483,8 @@
   site: http://www.ubuntukylin.com
   logo: image/partners/UKylin.png
   records:
+    - year: 2016
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -445,6 +590,8 @@
   site: https://ruby-china.org
   logo: https://l.ruby-china.com/photo/2015/646b60747b14fe1e07cda2b787bc831e.png
   records:
+    - year: 2016
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
 - title: Redis 中国用户组
@@ -453,10 +600,12 @@
   records:
     - year: 2018
       type: 社区伙伴
-- title: SegmentFault
+- title: SegmentFault思否
   site: https://segmentfault.com
   logo: https://avatars1.githubusercontent.com/u/6038130
   records:
+    - year: 2016
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
 - title: Creative Commons
