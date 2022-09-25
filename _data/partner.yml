@@ -1,8 +1,52 @@
+- title: 开源社
+  site: https://kaiyuanshe.cn/
+  logo: image/partners/kaiyuanshe.png
+  records:
+    - year: 2016
+      type: 主办单位
+    - year: 2017
+      type: 主办单位
+    - year: 2018
+      type: 主办单位
+    - year: 2019
+      type: 主办单位
+    - year: 2020
+      type: 主办单位
+    - year: 2021
+      type: 主办单位
+    - year: 2022
+      type: 主办单位
+- title: 中国计算机学会上海分会
+  site: https://www.ccf.org.cn/Chapters/Chapters/Shanghai/
+  logo: image/partners/COSCon2017/CCFShanghai.png
+  records:
+    - year: 2017
+      type: 主办单位
+- title: 上海交通大学计算机系
+  site: https://cs.sjtu.edu.cn/index.aspx
+  logo: image/partners/COSCon2017/cs-sjtu.png
+  records:
+    - year: 2017
+      type: 主办单位
+- title: TopGeek
+  site: https://www.huodongxing.com/org/160545210522
+  logo: image/partners/COSCon2017/topgeek.png
+  records:
+    - year: 2017
+      type: 承办单位
+- title: IT大咖说
+  site: https://www.itdks.com/Index/index
+  logo: image/partners/COSCon2017/itdks.png
+  records:
+    - year: 2017
+      type: 视频直播伙伴
 - title: 云计算开源产业联盟
   site: http://opensourcecloud.cn/
   logo: image/partners/OSCAR.png
   records:
     - year: 2016
+      type: 合作单位
+    - year: 2017
       type: 合作单位
     - year: 2018
       type: 大会合作单位
@@ -22,7 +66,7 @@
   site: http://www.ecnu.edu.cn/
   logo: image/partners/COSCon2016/scsebuaa.png
   records:
-    - year: 2019
+    - year: 2016
       type: 大会合作单位
 - title: TC608
   logo: https://img.bagevent.com/resource/20191021/0732288561670936.jpg?imageView2/2/w/300/interlace/1/q/100
@@ -33,6 +77,10 @@
   site: https://www.huawei.com/
   logo: https://avatars3.githubusercontent.com/u/20315766
   records:
+    - year: 2017
+      type: 银牌赞助
+    - year: 2017
+      type: 讲师赞助
     - year: 2018
       type: 战略赞助
     - year: 2018
@@ -51,6 +99,8 @@
   site: https://www.alibabagroup.com/
   logo: https://docs.alibabagroup.com/assets2/images/cn/global/logo_header.png
   records:
+    - year: 2018
+      type: 青铜赞助
     - year: 2019
       type: 白金赞助
 - title: 微软 Azure
@@ -65,10 +115,12 @@
       type: 战略赞助
 - title: 微软
   site: https://www.microsoft.com/
-  logo: image/partners/COScon2016/microsoft.jpg
+  logo: image/partners/COSCon2016/microsoft.jpg
   records:
     - year: 2016
       type: 白金赞助
+    - year: 2017
+      type: 银牌赞助
 - title: 腾讯开源
   site: https://opensource.tencent.com
   logo: https://opensource.tencent.com/img/logo.png
@@ -125,6 +177,8 @@
   records:
     - year: 2016
       type: 银牌赞助
+    - year: 2017
+      type: 黄金赞助
     - year: 2018
       type: 金牌赞助
     - year: 2019
@@ -165,6 +219,8 @@
   records:
     - year: 2016
       type: 开源社成员赞助
+    - year: 2017
+      type: 讲师赞助
 - title: 轻元科技
   site: http://www.qingyuanos.com/
   logo: image/partners/COSCon2016/qingyuanos.png
@@ -181,6 +237,8 @@
   site: https://nodejs.org/zh-cn/
   logo: image/partners/COSCon2016/nodejs.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2016
       type: 社区合作伙伴
 - title: DC/OS
@@ -188,6 +246,8 @@
   logo: image/partners/COSCon2016/DCOS.png
   records:
     - year: 2016
+      type: 社区合作伙伴
+    - year: 2017
       type: 社区合作伙伴
 - title: 环信
   site: https://www.imgeek.org/
@@ -200,6 +260,8 @@
   logo: image/partners/COSCon2016/freeBSD-Foundation.png
   records:
     - year: 2016
+      type: 社区合作伙伴
+    - year: 2017
       type: 社区合作伙伴
 - title: FOSSASIA
   site: https://fossasia.org/
@@ -215,15 +277,19 @@
       type: 社区合作伙伴
 - title: OpenSourceInitiative
   site: https://opensource.org/
-  logo: image/partners/COSCon2016/opensource.png
+  logo: image/partners/COSCon2016/OpenSourceInitiative.png
   records:
     - year: 2016
+      type: 社区合作伙伴
+    - year: 2017
       type: 社区合作伙伴
 - title: redis中国用户组
   site: http://www.redis.cn/
   logo: image/partners/COSCon2016/redischina.png
   records:
     - year: 2016
+      type: 社区合作伙伴
+    - year: 2017
       type: 社区合作伙伴
 - title: ROCKQ
   site: https://rockq2015.huodongxing.com/
@@ -237,11 +303,15 @@
   records:
     - year: 2016
       type: 社区合作伙伴
+    - year: 2017
+      type: 社区合作伙伴
 - title: 一铭云社区
   site: http://www.emindsoft.com.cn/
   logo: image/partners/COSCon2016/emind.png
   records:
     - year: 2016
+      type: 社区合作伙伴
+    - year: 2017
       type: 社区合作伙伴
 - title: 云技术
   site: https://kaiyuanshe.cn/
@@ -261,6 +331,8 @@
   site: https://www.cryptape.com/
   logo: image/partners/Cryptape.png
   records:
+    - year: 2017
+      type: 青铜赞助
     - year: 2018
       type: 银牌赞助
     - year: 2019
@@ -311,6 +383,8 @@
   site: https://juejin.cn/
   logo: https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg
   records:
+    - year: 2017
+      type: 社区媒体伙伴
     - year: 2018
       type: 媒体伙伴
     - year: 2019
@@ -319,6 +393,8 @@
   site: https://infoq.cn
   logo: image/partners/InfoQ.png
   records:
+    - year: 2017
+      type: 媒体合作伙伴
     - year: 2018
       type: 媒体伙伴
     - year: 2019
@@ -333,18 +409,22 @@
       type: 媒体伙伴
     - year: 2019
       type: 媒体伙伴
-- title: Linux 中国
+- title: Linux中国
   site: https://linux.cn
   logo: https://img.linux.net.cn/static/image/common/linuxcn_logo_2017.png
   records:
+    - year: 2017
+      type: 社区媒体伙伴
     - year: 2018
       type: 媒体伙伴
     - year: 2019
       type: 媒体伙伴
 - title: GitChat
-  site: https://gitchat.csdn.net
-  logo: https://images.gitbook.cn/FnzjNghzs_ktFPUKeLaFX38rbNsL
+  site: https://gitbook.cn/
+  logo: image/partners/COSCon2017/gitchat.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 媒体伙伴
     - year: 2019
@@ -359,6 +439,8 @@
   site: https://www.huodongxing.com
   logo: https://cdn.huodongxing.com/Content/v3.0/img/hdx/hdx-main-feature/admin-head/logo.png
   records:
+    - year: 2017
+      type: 独家报名平台
     - year: 2018
       type: 报名平台伙伴
 - title: IT 大咖说
@@ -371,6 +453,8 @@
   site: http://www.apache.org
   logo: image/partners/ASF-20th-Anniversary.jpg
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -387,6 +471,8 @@
   site: https://www.gnome.org/foundation/
   logo: image/partners/GNOME.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -421,6 +507,8 @@
   site: https://www.freecodecamp.org
   logo: https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -429,6 +517,8 @@
   site: https://www.lpi.org
   logo: https://www.lpi.org/sites/all/themes/lpi/images/logo.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2019
       type: 社区伙伴
 - title: Y-City
@@ -446,6 +536,8 @@
   site: http://mozilla.com.cn/
   logo: image/partners/Firefox-CN.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -460,6 +552,8 @@
   site: https://testerhome.com
   logo: image/partners/TesterHome.jpeg
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -468,6 +562,8 @@
   site: http://www.linux-ren.org
   logo: image/partners/LinuxRen.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -476,6 +572,8 @@
   site: https://ubuntu.com/
   logo: image/partners/Ubuntu.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -485,6 +583,8 @@
   logo: image/partners/UKylin.png
   records:
     - year: 2016
+      type: 社区合作伙伴
+    - year: 2017
       type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
@@ -502,6 +602,8 @@
   site: http://www.easemob.com
   logo: image/partners/EaseMob.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
     - year: 2019
@@ -517,6 +619,8 @@
   site: https://www.thoughtworks.com/cn/careers/china
   logo: image/partners/ThoughtWorks-Community.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
 - title: 华章图书
@@ -567,12 +671,16 @@
   site: http://ceph.org.cn/
   logo: image/partners/Ceph-CN.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
 - title: dotNet core 中国社区
   site: https://www.dotnetcore.xyz
-  logo: https://www.dotnetcore.xyz/images/logo.png
+  logo: mage/partners/COSCon2017/dotenetcore.png
   records:
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
 - title: Flink 中国社区
@@ -593,6 +701,8 @@
   records:
     - year: 2016
       type: 社区合作伙伴
+    - year: 2017
+      type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
 - title: Redis 中国用户组
@@ -603,9 +713,11 @@
       type: 社区伙伴
 - title: SegmentFault思否
   site: https://segmentfault.com
-  logo: https://avatars1.githubusercontent.com/u/6038130
+  logo: image/partners/COSCon2017/segmentfault.png
   records:
     - year: 2016
+      type: 社区合作伙伴
+    - year: 2017
       type: 社区合作伙伴
     - year: 2018
       type: 社区伙伴
@@ -639,3 +751,47 @@
   records:
     - year: 2019
       type: 社区伙伴
+- title: PyChina
+  site: https://pychina.org/
+  logo: image/partners/COSCon2017/pychina.png
+  records:
+    - year: 2017
+      type: 社区合作伙伴
+    - year: 2019
+      type: 社区伙伴
+- title: NEO Smart Economy
+  site: https://github.com/neo-project/neo
+  logo: image/partners/COSCon2017/neo.png
+  records:
+    - year: 2017
+      type: 黄金赞助
+- title: 原本
+  site: https://www.yuanben.io/
+  logo: image/partners/COSCon2017/yuanben.png
+  records:
+    - year: 2017
+      type: 黄金赞助
+- title: Kyligence
+  site: https://cn.kyligence.io/
+  logo: image/partners/COSCon2017/kyligence.png
+  records:
+    - year: 2017
+      type: 讲师赞助
+- title: 青云科技
+  site: https://www.qingcloud.com/
+  logo: image/partners/COSCon2017/qingyun.png
+  records:
+    - year: 2017
+      type: 讲师赞助
+- title: ebay
+  site: https://www.ebay.com/
+  logo: image/partners/COSCon2017/ebay.png
+  records:
+    - year: 2017
+      type: 讲师赞助
+- title: LinuxStory
+  site: https://linuxstory.org/
+  logo: image/partners/COSCon2017/LinuxStory.png
+  records:
+    - year: 2017
+      type: 社区合作伙伴
