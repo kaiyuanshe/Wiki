@@ -139,6 +139,26 @@
       type: 金牌赞助
     - year: 2020
       type: 白金赞助
+- title: 京东智联云开发者
+  site: https://blog.csdn.net/jdcdev_/
+  logo: image/partners/COSCon2020/jdclouddev.png
+  records:
+    - year: 2020
+      type: 直播合作
+    - year: 2020
+      type: 社区合作
+- title: Github
+  site: https://github.com/
+  logo: image/partners/COSCon2020/Github.png
+  records:
+    - year: 2020
+      type: 金牌赞助
+- title: 迪码科技
+  site: https://www.dimatec.com.cn/portal/index.html
+  logo: image/partners/COSCon2020/dimatec.png
+  records:
+    - year: 2020
+      type: 星牌赞助
 - title: Synopsys
   site: https://www.synopsys.com
   logo: image/partners/Synopsys.svg
@@ -153,7 +173,7 @@
       type: 白金赞助
 - title: 微众银行
   site: https://www.webank.com
-  logo: https://www.webankcdn.net/s/hj/www/img/webank-logo-741073a62d.png
+  logo: image/partners/COSCon2020/webank.png
   records:
     - year: 2019
       type: 白金赞助
@@ -185,6 +205,20 @@
       type: 金牌赞助
     - year: 2019
       type: 银牌赞助
+- title: 麒麟软件
+  site: http://www.kylinos.cn
+  logo: image/partners/COSCon2020/kylinos.png
+  records:
+    - year: 2020
+      type: 金牌赞助
+- title: ZILLIZ
+  site: http://www.kylinos.cn
+  logo: image/partners/COSCon2020/Zilliz.png
+  records:
+    - year: 2020
+      type: 星牌赞助
+    - year: 2020
+      type: 社区合作
 - title: Seafile
   site: https://www.seafile.com/home/
   logo: image/partners/COSCon2016/seafile.png
@@ -261,6 +295,8 @@
       type: 社区合作伙伴
     - year: 2018
       type: 社区合作伙伴
+    - year: 2020
+      type: 社区合作
 - title: FreeBSD-Foundation
   site: https://freebsdfoundation.org/
   logo: image/partners/COSCon2016/freeBSD-Foundation.png
@@ -389,6 +425,8 @@
       type: 社区媒体伙伴
     - year: 2019
       type: 媒体伙伴
+    - year: 2019
+      type: 直播合作
 - title: 稀土掘金
   site: https://juejin.cn/
   logo: https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg
@@ -399,6 +437,8 @@
       type: 社区媒体伙伴
     - year: 2019
       type: 媒体伙伴
+    - year: 2020
+      type: 社区合作
 - title: InfoQ
   site: https://infoq.cn
   logo: image/partners/InfoQ.png
@@ -419,9 +459,13 @@
       type: 社区媒体伙伴
     - year: 2019
       type: 媒体伙伴
+    - year: 2019
+      type: 战略合作媒体
+    - year: 2020
+      type: 直播合作
 - title: Linux中国
   site: https://linux.cn
-  logo: https://img.linux.net.cn/static/image/common/linuxcn_logo_2017.png
+  logo: image/partners/COSCon2020/LinuxCN.png
   records:
     - year: 2017
       type: 社区媒体伙伴
@@ -430,6 +474,8 @@
     - year: 2018
       type: 社区合作伙伴
     - year: 2019
+      type: 媒体伙伴
+    - year: 2020
       type: 媒体伙伴
 - title: GitChat
   site: https://gitbook.cn/
@@ -527,6 +573,16 @@
       type: 社区合作伙伴
     - year: 2019
       type: 社区合作伙伴
+    - year: 2020
+      type: 直播合作
+    - year: 2020
+      type: 社区合作
+- title: freeCodeCamp 成都社区
+  site: https://fcc-cd.dev/
+  logo: image/partners/COSCon2020/freeCodeCamp-成都社区.png
+  records:
+    - year: 2020
+      type: 直播合作
 - title: Linux Professional Institute
   site: https://www.lpi.org
   logo: https://www.lpi.org/sites/all/themes/lpi/images/logo.png
@@ -572,6 +628,8 @@
       type: 社区合作伙伴
     - year: 2019
       type: 社区合作伙伴
+    - year: 2020
+      type: 社区合作
 - title: Linux人
   site: http://www.linux-ren.org
   logo: image/partners/LinuxRen.png
@@ -604,6 +662,8 @@
       type: 社区合作伙伴
     - year: 2019
       type: 社区合作伙伴
+    - year: 2020
+      type: 直播合作
 - title: 深圳湾
   site: https://www.shenzhenware.com
   logo: image/partners/ShenZhenWare.png
@@ -629,6 +689,16 @@
       type: 社区合作伙伴
     - year: 2019
       type: 社区合作伙伴
+    - year: 2020
+      type: 社区合作伙伴
+- title: Unitimes
+  site: https://www.unitimes.com.cn/
+  logo: image/partners/COSCon2020/unitimes.png
+  records:
+    - year: 2020
+      type: 媒体合作
+    - year: 2020
+      type: 直播合作
 - title: ThoughtWorks Community
   site: https://www.thoughtworks.com/cn/careers/china
   logo: image/partners/ThoughtWorks-Community.png
@@ -637,6 +707,8 @@
       type: 社区合作伙伴
     - year: 2018
       type: 社区合作伙伴
+    - year: 2020
+      type: 社区合作
 - title: 华章图书
   site: http://www.hzbook.com
   logo: image/partners/HuaZhang.png
@@ -697,6 +769,8 @@
       type: 社区合作伙伴
     - year: 2018
       type: 社区合作伙伴
+    - year: 2020
+      type: 社区合作
 - title: Flink 中国社区
   site: https://flink-china.org
   logo: https://avatars0.githubusercontent.com/u/17588915
@@ -735,6 +809,8 @@
       type: 社区合作伙伴
     - year: 2018
       type: 社区合作伙伴
+    - year: 2020
+      type: 战略合作媒体
 - title: Creative Commons
   site: https://creativecommons.org/
   logo: https://avatars0.githubusercontent.com/u/3248958
@@ -759,6 +835,8 @@
   records:
     - year: 2019
       type: 社区合作伙伴
+    - year: 2019
+      type: 战略合作媒体
 - title: PyCon 中国
   site: http://cn.pycon.org/
   logo: image/partners/PyCon-CN.png
@@ -773,6 +851,8 @@
       type: 社区合作伙伴
     - year: 2019
       type: 社区合作伙伴
+    - year: 2020
+      type: 社区合作
 - title: NEO Smart Economy
   site: https://github.com/neo-project/neo
   logo: image/partners/COSCon2017/neo.png
@@ -815,3 +895,129 @@
   records:
     - year: 2018
       type: 网站支持
+- title: Wuhan2020
+  site: https://github.com/wuhan2020/wuhan2020
+  logo: image/partners/COSCon2020/wuhan.png
+  records:
+    - year: 2020
+      type: 直播合作
+- title: Apache DolphinScheduler
+  site: https://dolphinscheduler.apache.org/
+  logo: image/partners/COSCon2020/Apache-DolphinScheduler.png
+  records:
+    - year: 2020
+      type: 直播合作
+- title: DataWhale
+  site: https://dolphinscheduler.apache.org/
+  logo: image/partners/COSCon2020/Datawhale.png
+  records:
+    - year: 2020
+      type: 直播合作
+- title: Apache PULSAR
+  site: https://pulsar.apache.org/
+  logo: image/partners/COSCon2020/Apache-PULSAR.png
+  records:
+    - year: 2020
+      type: 直播合作
+- title: Dokit
+  site: https://www.dokit.cn/#/index/home
+  logo: image/partners/COSCon2020/Dokit.png
+  records:
+    - year: 2020
+      type: 直播合作
+- title: Copell
+  site: https://www.copell.cn/
+  logo: image/partners/COSCon2020/copell.png
+  records:
+    - year: 2020
+      type: 直播合作
+- title: 中科院软件所
+  site: http://www.iscas.ac.cn/
+  logo: image/partners/COSCon2020/ISCAS.png
+  records:
+    - year: 2020
+      type: 直播合作
+- title: StreamNative
+  site: hhttps://www.streamnative.cn/
+  logo: image/partners/COSCon2020/streamnative.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 风向Talk
+  site: https://my.oschina.net/u/3727380/blog/4440383
+  logo: image/partners/COSCon2020/fx.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: NGO2.0-China
+  site: http://ngo20en.mysxl.cn/
+  logo: image/partners/COSCon2020/NGO20CHINA.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 奇点公益
+  site: http://www.jidian.org.cn/
+  logo: image/partners/COSCon2020/qidian.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 极客在线
+  site: https://www.zhihu.com/people/geekonline
+  logo: image/partners/COSCon2020/GeekOnline.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: PolkaBase
+  site: https://github.com/paritytech/polkadot
+  logo: image/partners/COSCon2020/PolkaBase.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: PolkaBase
+  site: https://github.com/paritytech/polkadot
+  logo: image/partners/COSCon2020/PolkaBase.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: GoodERP
+  site: http://www.gooderp.org/
+  logo: image/partners/COSCon2020/GoodERP.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 搜信源
+  site: http://souxinyuan.com/
+  logo: image/partners/COSCon2020/souxinyuan.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 艾诺威
+  site: https://www.extremenetworks.com/
+  logo: image/partners/COSCon2020/ainuowei.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 艾诺威
+  site: https://www.extremenetworks.com/
+  logo: image/partners/COSCon2020/ainuowei.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 南昌大学家园工作室
+  site: https://team.ncuos.com/
+  logo: image/partners/COSCon2020/ncuos.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: LadiesWhoTech
+  site: https://www.ladieswhotech.cn/
+  logo: image/partners/COSCon2020/ladieswhotech.png
+  records:
+    - year: 2020
+      type: 社区合作
+- title: 云加社区
+  site: https://www.weibo.com/YunPlusCommunity
+  logo: image/partners/COSCon2020/yunplus.png
+  records:
+    - year: 2020
+      type: 社区合作
