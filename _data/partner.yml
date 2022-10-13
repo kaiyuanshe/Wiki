@@ -61,13 +61,13 @@
     - year: 2016
       type: 开源社指导单位
 - title: 华东师范大学
-  site: http://scse.buaa.edu.cn/
-  logo: https://www.ecnu.edu.cn/images/21/03/19/1yzt3nyx1a/logo3.svg
+  site: http://www.ecnu.edu.cn/
+  logo: image/partners/COSCon2019/ecnu.png
   records:
     - year: 2019
-      type: 大会合作单位
+      type: 主办方
 - title: 北京航天航空大学
-  site: http://www.ecnu.edu.cn/
+  site: https://www.buaa.edu.cn/
   logo: image/partners/COSCon2016/scsebuaa.png
   records:
     - year: 2016
@@ -76,10 +76,10 @@
   logo: https://img.bagevent.com/resource/20191021/0732288561670936.jpg?imageView2/2/w/300/interlace/1/q/100
   records:
     - year: 2019
-      type: 大会合作单位
+      type: 主办方
 - title: 华为
   site: https://www.huawei.com/
-  logo: https://avatars3.githubusercontent.com/u/20315766
+  logo: image/partners/COSCon2019/huawei.png
   records:
     - year: 2017
       type: 银牌赞助
@@ -90,7 +90,7 @@
     - year: 2018
       type: 国际讲师差旅赞助
     - year: 2019
-      type: 战略赞助
+      type: 战略伙伴
     - year: 2020
       type: 战略赞助
 - title: 阿里云
@@ -371,7 +371,7 @@
       type: 铜牌赞助
 - title: Nebula Graph
   site: http://nebula-graph.io/
-  logo: https://github.com/vesoft-inc/nebula/raw/master/docs/logo.png
+  logo: image/partners/COSCon2019/NebulaGraph.png
   records:
     - year: 2019
       type: 铜牌赞助
@@ -398,7 +398,7 @@
     - year: 2018
       type: 社区媒体伙伴
     - year: 2019
-      type: 媒体伙伴
+      type: 社区合作伙伴
 - title: InfoQ
   site: https://infoq.cn
   logo: image/partners/InfoQ.png
@@ -501,7 +501,7 @@
       type: 社区合作伙伴
 - title: Linux Foundation
   site: https://www.linuxfoundation.org
-  logo: https://www.linuxfoundation.org/wp-content/uploads/2017/08/favicon.png
+  logo: image/partners/COSCon2019/LinuxFoundation.png
   records:
     - year: 2019
       type: 社区合作伙伴
@@ -594,7 +594,7 @@
       type: 社区合作伙伴
 - title: 优麒麟
   site: http://www.ubuntukylin.com
-  logo: image/partners/UKylin.png
+  logo: image/partners/COSCon2019/Ukylin.png
   records:
     - year: 2016
       type: 社区合作伙伴
@@ -759,6 +759,8 @@
   records:
     - year: 2019
       type: 社区合作伙伴
+    - year: 2019
+      type: 媒体伙伴
 - title: PyCon 中国
   site: http://cn.pycon.org/
   logo: image/partners/PyCon-CN.png
@@ -770,8 +772,6 @@
   logo: image/partners/COSCon2017/pychina.png
   records:
     - year: 2017
-      type: 社区合作伙伴
-    - year: 2019
       type: 社区合作伙伴
 - title: NEO Smart Economy
   site: https://github.com/neo-project/neo
@@ -815,3 +815,21 @@
   records:
     - year: 2018
       type: 网站支持
+- title: 欧侃在线
+  site: http://www.linuxren.org.cn/
+  logo: image/partners/COSCon2019/oukan.jpg
+  records:
+    - year: 2019
+      type: 社区合作伙伴
+- title: Generalized Aviation
+  site: https://github.com/generalized-intelligence/GAAS
+  logo: image/partners/COSCon2019/Generalized-Aviation.jpg
+  records:
+    - year: 2019
+      type: 社区合作伙伴
+- title: PX4 Autopilot
+  site: https://px4.io/
+  logo: image/partners/COSCon2019/PX4-Autopilot.png
+  records:
+    - year: 2019
+      type: 社区合作伙伴
