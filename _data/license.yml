@@ -23,7 +23,7 @@
   patentable: true
   patentRetaliationClause: true
   enhancedOwnership: true
-  privacyLoophole: false
+  privacyLoophole: true
   noPromote: true
 - name: Apache License 2.0
   popular: true
