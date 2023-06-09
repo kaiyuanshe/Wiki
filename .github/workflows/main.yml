@@ -24,10 +24,10 @@ jobs:
                   mv super/* .
             - uses: pnpm/action-setup@v2
               with:
-                  version: 7
+                  version: 8
             - uses: actions/setup-node@v3
               with:
-                  node-version: 14
+                  node-version: 16
                   cache: pnpm
             - name: Install Dependencies
               run: pnpm i --frozen-lockfile
@@ -39,7 +39,6 @@ jobs:
               uses: peaceiris/actions-gh-pages@v3
               with:
                   publish_dir: ./public
-                  cname: kaiyuanshe.cn
                   external_repository: ${{ secrets.GIT_URI }}
                   publish_branch: master
                   personal_token: ${{ secrets.PERSONAL_TOKEN }}
