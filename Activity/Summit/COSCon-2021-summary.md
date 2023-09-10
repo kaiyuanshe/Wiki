@@ -13,9 +13,7 @@ photos:
     - gj8458exhl.jpg
 ---
 
-<figure>
-{% asset_img gj8458exhl.jpg %}
-</figure>
+![](COSCon-2021-summary/gj8458exhl.jpg)
 
 开源社作为国内第一个专注于开源治理、国际接轨、社区发展，以及开源项目的开源社区，完全由志愿贡献于开源事业的个人成员组成。由开源社主办的 “中国开源年会 COSCon”，已举办了六届，每一届都汇集了全球科技领域、开源领域最热门的话题；并邀请国内外在开源领域最权威、最受欢迎的大咖进行演讲与交流。凝聚行业合力、经过精心打磨的开源年会每次举办都得到了业内的广泛关注和认可，成为了目前国内最具影响力的开源盛会之一。
 
@@ -57,9 +55,7 @@ photos:
 
 ### B 站频道
 
-<figure>
-{% asset_img 1u1o4ckbh80.png %}
-</figure>
+![](COSCon-2021-summary/1u1o4ckbh80.png)
 
 ## 开幕致辞
 
@@ -80,58 +76,31 @@ photos:
 
 **在为期两天的开源年会中，共有  144  名讲师参与到活动中来**，以太坊创始人 Vitalik Buterin，北京大学计算机系教授、北大博雅特聘教授周明辉，上海开源信息技术协会秘书长、上海对外经贸大学人工智能与变革管理研究院副院长张国锋，腾讯云技术专家徐迪，微众银行区块链首席架构师、FISCO BCOS 首席架构师张开翔，SphereEx 联合创始人兼 CTO 潘娟，PingCAP 联合创始人兼 CTO 黄东旭，openEuler 首席架构师熊伟，云启资本合伙人陈昱等开源专家，以及中国开源年会的顶级赞助商们，如腾讯/腾源会、微软、华为、百度、浪潮、微众、SphereEx 等开源巨头们参与并出席了本次活动。
 
-<figure>
-{% asset_img 8d3lgkobzq.jpg COSCon'21 成都分会场合照 %}
-  <figcaption>COSCon'21 成都分会场合照</figcaption>
-</figure>
+![COSCon'21 成都分会场合照](COSCon-2021-summary/8d3lgkobzq.jpg)
 
 嘉宾们围绕本次  COSCon'21  的主题  “开心开源” ，聚焦区块链、云计算、人工智能、大数据、物联网、开源教育、社区治理、项目治理、开源文化、风险治理、开源百宝箱、开源硬件、开源操作系统、女性论坛、开源公益、开源商业、Web  应用开发论坛等多个领域发起了多个话题进行探讨，**两天之内所有嘉宾共进行了 148 场主题演讲**。同时还开展了闪电演讲、脱口秀等多种展示形式，让每个互动都变得妙趣横生，吸引了海内外的开源爱好者在线上和线下与我们共同享受开源的乐趣。
 
-<figure>
-{% asset_img 1fbe4rfth6b.jpg 上海分会场合照 %}
-  <figcaption>上海分会场合照</figcaption>
-</figure>
+![上海分会场合照](COSCon-2021-summary/1fbe4rfth6b.jpg)
 
-<figure>
-{% asset_img 96eklsnzsms.jpg 上海分会场合照 %}
-  <figcaption>上海分会场合照</figcaption>
-</figure>
+![上海分会场合照](COSCon-2021-summary/96eklsnzsms.jpg)
 
-<figure>
-{% asset_img vq2ia5cdsv.jpg 上海分会场合照 %}
-  <figcaption>上海分会场合照</figcaption>
-</figure>
+![上海分会场合照](COSCon-2021-summary/vq2ia5cdsv.jpg)
 
 根据会后数据统计，**本次为期两天的线上大会共计吸引了  261,705  人次观看，线下 7 大城市分会场参会逾千人次**。
 
-<figure>
-{% asset_img 2pjwh0hc3js.jpg COSCon'21 深圳分会场现场照片 %}
-  <figcaption>COSCon'21 深圳分会场现场照片</figcaption>
-</figure>
+![COSCon'21 深圳分会场现场照片](COSCon-2021-summary/2pjwh0hc3js.jpg)
 
 **本次年会采取了线上与线下结合的形式，线上共设计有一个主论坛和 15 个分论坛，而线下则在上海，深圳，成都，珠海，大连，无锡，福州 7 城分会场联动。**每天都安排了各种各样的活动和演讲，不论是线上参与还是线下参会都很充实，相信不少开源人都在欢乐的气氛中度过了两天美好的时光。
 
-<figure>
-{% asset_img pi72mik8wq.jpg COSCon'21 大连分会场合照 %}
-  <figcaption>COSCon'21 大连分会场合照</figcaption>
-</figure>
+![COSCon'21 大连分会场合照](COSCon-2021-summary/pi72mik8wq.jpg)
 
 同时，坚持“公益”特色的 COSCon 每年都会受到志愿者们的积极协助，本届峰会共计 170+ 全国各地的志愿者参与，其中覆盖了成都、上海、北京、深圳、大连、南京等 16+ 城市志愿者，以及四川大学、北京大学、复旦大学、广州大学、北京理工、长春理工等 20+ 全国各高校学生的参与。
 
-<figure>
-{% asset_img 1l4buj661ky.jpg 志愿者合影 %}
-  <figcaption>志愿者合影</figcaption>
-</figure>
+![志愿者合影](COSCon-2021-summary/1l4buj661ky.jpg)
 
-<figure>
-{% asset_img 646j5rxb1lg.jpg 志愿者合影 %}
-  <figcaption>志愿者合影</figcaption>
-</figure>
+![志愿者合影](COSCon-2021-summary/646j5rxb1lg.jpg)
 
-<figure>
-{% asset_img carh2viftfk.jpg 志愿者合影 %}
-  <figcaption>志愿者合影</figcaption>
-</figure>
+![志愿者合影](COSCon-2021-summary/carh2viftfk.jpg)
 
 未来，开源社将始终不忘初心，持续关注开源行业、致力持续推动我国开源的发展，为全球的开源爱好者提供交流与学习的平台。
 
@@ -139,9 +108,4 @@ photos:
 > 编辑：Corrie、胡佳
 > 设计：朱亿钦
 
-<figure>
-    <img
-        style="max-height: none"
-        src="/activity/summit/coscon-2021-summary/1e4ypyrb69l.jpg"
-    >
-</figure>
+<img src="coscon-2021-summary/1e4ypyrb69l.jpg">

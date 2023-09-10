@@ -2,13 +2,13 @@
 title: COSCon 2019 动手训练营
 date: 2019-10-13 20:37:34
 authors:
-  - TechQuery
+    - TechQuery
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 tags:
-  - COSCon
-  - workshop
+    - COSCon
+    - workshop
 
 start: 2019-11-02 13:30:00
 end: 2019-11-03 17:30:00
@@ -33,9 +33,7 @@ address: 上海市普陀区中山北路3663号华东师范大学（中北校区�
 
 https://github.com/joyeecheung
 
-<figure>
-{% asset_img Zhang-QiuYi.jpg %}
-</figure>
+![](COSCon-2019-workshop/Zhang-QiuYi.jpg)
 
 她目前工作于 Igalia 的编译器团队，也是 Node.js Technical Steering Committee 的成员以及 V8 committer。
 
@@ -52,7 +50,7 @@ https://github.com/joyeecheung
 https://github.com/bestony
 
 <figure>
-{% asset_img Bai-HuanCheng.jpg %}
+![](COSCon-2019-workshop/Bai-HuanCheng.jpg)
   <figcaption>腾讯云 - 工程师</figcaption>
   <figcaption>Linux 中国 - 技术合伙人、布道师</figcaption>
 </figure>
@@ -72,15 +70,15 @@ freeCodeCamp.org 是一个注册在美国的非营利组织，创立于 2014 年
 https://github.com/Becavalier
 
 <figure>
-{% asset_img Yu-Hang.jpeg %}
+![](COSCon-2019-workshop/Yu-Hang.jpeg)
   <figcaption>PayPal - Web 前端工程师</figcaption>
   <figcaption>freeCodeCamp 上海社区 - 负责人</figcaption>
 </figure>
 
-- 曾在阿里巴巴本地生活、Tapatalk 等国内外企业工作，现在 PayPal 上海负责 Global GRT 平台相关的技术研发工作；
-- FCC (freeCodeCamp China) 上海技术社区负责人；
-- 多次 QCon、GMTC 大会讲师；
-- WebAssembly 技术布道者，2017 年注册成为 W3C 官方 CG 成员，定期参与 CG 组织的各种在线视频研讨会议，在跟进 Wasm 最新发展情况的同时也为 Wasm 的标准化提出自己的建议和意见。
+-   曾在阿里巴巴本地生活、Tapatalk 等国内外企业工作，现在 PayPal 上海负责 Global GRT 平台相关的技术研发工作；
+-   FCC (freeCodeCamp China) 上海技术社区负责人；
+-   多次 QCon、GMTC 大会讲师；
+-   WebAssembly 技术布道者，2017 年注册成为 W3C 官方 CG 成员，定期参与 CG 组织的各种在线视频研讨会议，在跟进 Wasm 最新发展情况的同时也为 Wasm 的标准化提出自己的建议和意见。
 
 2018 年深度参与到 Emscripten 编译器工具链项目的研发工作中，同年出版名为《深入浅出 WebAssembly》的国内第一本 Wasm 技术书籍，为推动国内 Wasm 技术的发展和落地实践做出了微小的贡献。
 
@@ -94,9 +92,9 @@ https://github.com/Becavalier
 
 Pinpoint is currently one of the most popular open-source APMs in China, capable of distributed tracing with code-level visibility.
 
-- This interactive workshop kicks off with an introduction to how distributed tracing works in general, and how Pinpoint works internally to trace your applications over multiple nodes all the way down to the code level.
-- We will build a brand new plugin together from scratch, discussing various issues such as deciding tracepoints and class load time/runtime considerations, so that everyone will gain the first-hand experience in making a Pinpoint plugin.
-- Armed with this knowledge, you will be able to build a plugin for any library so that you can trace your very own system, or simply throw a pull request and join in on an open-source community.
+-   This interactive workshop kicks off with an introduction to how distributed tracing works in general, and how Pinpoint works internally to trace your applications over multiple nodes all the way down to the code level.
+-   We will build a brand new plugin together from scratch, discussing various issues such as deciding tracepoints and class load time/runtime considerations, so that everyone will gain the first-hand experience in making a Pinpoint plugin.
+-   Armed with this knowledge, you will be able to build a plugin for any library so that you can trace your very own system, or simply throw a pull request and join in on an open-source community.
 
 ### 受众收获
 
@@ -132,7 +130,7 @@ cd ~/Desktop/PinPoint
 https://github.com/Xylus
 
 <figure>
-{% asset_img Jeong-HyunGil.jpg %}
+![](COSCon-2019-workshop/Jeong-HyunGil.jpg)
   <figcaption>Naver Corporation - Software Developer</figcaption>
   <figcaption>Pinpoint - Committer</figcaption>
 </figure>
@@ -151,19 +149,16 @@ Intelligence In Ads (IIA) is a critical web infrastructure for advertising based
 
 ### Hu Xun
 
-<figure>
-{% asset_img Hu-Xun.jpg %}
-  <figcaption>Futurewei Technologies - Engineering Lead</figcaption>
-</figure>
+![Futurewei Technologies - Engineering Lead](COSCon-2019-workshop/Hu-Xun.jpg)
 
 Senior Engineering Leader of Futurewei Technologies, a subsidiary of Huawei.
 
-- Xun Hu received his B.S. degree from University in China of in late 80’s, and his joint M.S. degree from University in China and Washington University (US), all in Computer Science.
-- Between 1999 and 2009, he served with Yahoo! Inc. as different roles, from senior engineer to leading architect, and product manager. He was the initial developer in Yahoo! Display ad team .
-- From 2009 to 2012, as Engineer director of Huawei Device USA, Device Cloud BU, he led an engineering team to develop Huawei Nextgen Ad System (HiAd).
-- From 2012 to 2016, as Sr. Engineer Manager in eBay advertising division to develop eBay data management platform (DMP).
-- From 2009 to present, as Sr. Engineer Leader of Futurewei Technologies Consumer Cloud Service, he led an engineering team to develop Huawei IMS/IIA.
-- He holds several US patents related to display ad system.
+-   Xun Hu received his B.S. degree from University in China of in late 80’s, and his joint M.S. degree from University in China and Washington University (US), all in Computer Science.
+-   Between 1999 and 2009, he served with Yahoo! Inc. as different roles, from senior engineer to leading architect, and product manager. He was the initial developer in Yahoo! Display ad team .
+-   From 2009 to 2012, as Engineer director of Huawei Device USA, Device Cloud BU, he led an engineering team to develop Huawei Nextgen Ad System (HiAd).
+-   From 2012 to 2016, as Sr. Engineer Manager in eBay advertising division to develop eBay data management platform (DMP).
+-   From 2009 to present, as Sr. Engineer Leader of Futurewei Technologies Consumer Cloud Service, he led an engineering team to develop Huawei IMS/IIA.
+-   He holds several US patents related to display ad system.
 
 ## 教你如何使用 bRPC 快速搭建一个高性能的 RPC 服务
 
@@ -176,7 +171,7 @@ Apache bRPC (incubator) 是一个企业品质的高性能 RPC 框架，使用 C+
 ### 谭中意
 
 <figure>
-{% asset_img Tan-ZhongYi.png %}
+![](COSCon-2019-workshop/Tan-ZhongYi.png)
   <figcaption>百度开源社区 - 负责人</figcaption>
   <figcaption>Apache 基金会 - Committer</figcaption>
 </figure>
@@ -185,4 +180,4 @@ Apache bRPC (incubator) 是一个企业品质的高性能 RPC 框架，使用 C+
 
 ## 参考文档
 
-- [编程入门之开发工具一键安装](https://tech-query.me/development/coder-start-kit/)
+-   [编程入门之开发工具一键安装](https://tech-query.me/development/coder-start-kit/)

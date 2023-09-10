@@ -2,19 +2,19 @@
 title: 中国开源年会 COSCon'19 Day 2 讲师 PPT
 date: 2019-11-27 13:17:33
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 
 start: 2019-11-03 09:00:00
 end: 2019-11-03 17:00:00
 address: 上海市普陀区中山北路3663号华东师范大学（中北校区）
 links:
-  讲师 PPT: https://pan.baidu.com/s/1VRhi2-vB8fI7G4KbWNM8fw#list/path=%2F11%E6%9C%883%E6%97%A5%202019%E5%BC%80%E6%BA%90%E5%B9%B4%E4%BC%9A%E7%AC%AC%E4%BA%8C%E6%97%A5PPT%E5%88%86%E4%BA%AB
+    讲师 PPT: https://pan.baidu.com/s/1VRhi2-vB8fI7G4KbWNM8fw#list/path=%2F11%E6%9C%883%E6%97%A5%202019%E5%BC%80%E6%BA%90%E5%B9%B4%E4%BC%9A%E7%AC%AC%E4%BA%8C%E6%97%A5PPT%E5%88%86%E4%BA%AB
 photos:
-  - 5kctvhx5ae0.webp
+    - 5kctvhx5ae0.webp
 ---
 
-{% asset_img 5kctvhx5ae0.webp %}
+![](COSCon-2019-PPT-1/5kctvhx5ae0.webp)
 
 由开源社举办的、业界最具影响力的开源年度盛会**2019 中国开源年会** (**COSCon'19**)已圆满落下帷幕！
 
@@ -56,10 +56,7 @@ photos:
 
 ## 主会场：主题演讲
 
-<figure>
-{% asset_img a6d7qcrt2i8.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/a6d7qcrt2i8.webp)
 
 |    时段     |                      主题                       |         讲者         |                    职务                     |
 | :---------: | :---------------------------------------------: | :------------------: | :-----------------------------------------: |
@@ -73,10 +70,7 @@ photos:
 
 ## Track 1：开源社区与项目
 
-<figure>
-{% asset_img 2o0ri9f90l2.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/2o0ri9f90l2.webp)
 
 |    时段     |                                  主题                                  |     讲者     |                          职务                          |
 | :---------: | :--------------------------------------------------------------------: | :----------: | :----------------------------------------------------: |
@@ -88,10 +82,7 @@ photos:
 
 ## Track 2：企业开源
 
-<figure>
-{% asset_img 2eum8vwjxwg.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/2eum8vwjxwg.webp)
 
 |    时段     |                      主题                      |  讲者  |                 职务                 |
 | :---------: | :--------------------------------------------: | :----: | :----------------------------------: |
@@ -112,10 +103,7 @@ photos:
 
 ## Track 3：开源社区与项目
 
-<figure>
-{% asset_img dhb7qu8xots.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/dhb7qu8xots.webp)
 
 |    时段     |                  主题                   |  讲者  |                                      职务                                      |
 | :---------: | :-------------------------------------: | :----: | :----------------------------------------------------------------------------: |
@@ -127,10 +115,7 @@ photos:
 
 ## Track 4：开源社区与项目
 
-<figure>
-{% asset_img vwaase0y2u.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/vwaase0y2u.webp)
 
 |    时段     |                           主题                           |      讲者      |                           职务                            |
 | :---------: | :------------------------------------------------------: | :------------: | :-------------------------------------------------------: |
@@ -142,10 +127,7 @@ photos:
 
 ## Track 5：开源社区与项目
 
-<figure>
-{% asset_img 1mculz49t39.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/1mculz49t39.webp)
 
 |    时段     |                                      主题                                      |      讲者      |                            职务                            |
 | :---------: | :----------------------------------------------------------------------------: | :------------: | :--------------------------------------------------------: |
@@ -157,10 +139,7 @@ photos:
 
 ## Track 6：跨境合作 —— COSCUP 特别轨
 
-<figure>
-{% asset_img 26sghnc061k.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/26sghnc061k.webp)
 
 |    时段     |                         主题                          |       讲者        |                  职务                   |
 | :---------: | :---------------------------------------------------: | :---------------: | :-------------------------------------: |
@@ -177,17 +156,11 @@ photos:
 | 13:30-15:30 | 教你如何使用 BRPC 快速搭建一个高性能的 RPC 服务 | 谭中意 | Apache BRPC (Incubating) VP、百度开源负责人 |
 | 15:30-17:30 |          Node.js Code + Learn Workshop          | 张秋怡 |              Node.js TSC 成员               |
 
-<figure>
-  <img src="activity/summit/coscon-2019-workshop/Tan-ZhongYi.png">
-  <figcaption>谭中意</figcaption>
-</figure>
+![谭中意](coscon-2019-workshop/Tan-ZhongYi.png)
 
 ## Track 8：开源治理
 
-<figure>
-{% asset_img 1ggmzztbgz3.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-1/1ggmzztbgz3.webp)
 
 |    时段     |             主题             |  讲者  |                                       职务                                        |
 | :---------: | :--------------------------: | :----: | :-------------------------------------------------------------------------------: |
@@ -202,7 +175,7 @@ photos:
 ### 13:30 -17:30 Intelligence In Ads (IIA) introduction and beyond
 
 <figure>
-  <img src="activity/summit/coscon-2019-workshop/Hu-Xun.jpg">
+  <img src="coscon-2019-workshop/Hu-Xun.jpg">
   <figcaption>Hu, Xun</figcaption>
   <figcaption>Futurewei</figcaption>
 </figure>

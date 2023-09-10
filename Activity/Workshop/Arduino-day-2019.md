@@ -2,22 +2,22 @@
 title: Arduino Day 2019
 date: 2019-03-13
 authors:
-  - WallaceOS
+    - WallaceOS
 categories:
-  - Activity
-  - Workshop
+    - Activity
+    - Workshop
 tags:
-  - hardware
-  - Arduino
+    - hardware
+    - Arduino
 
 start: 2019-03-14 09:30:00
 end: 2019-03-14 17:00:00
 address: 北京市清华大学李兆基科技大楼
 links:
-  报名: http://thumaker.mikecrm.com/TRuMFbo
+    报名: http://thumaker.mikecrm.com/TRuMFbo
 ---
 
-{% asset_img 1naqrk1obsx.png %}
+![](Arduino-day-2019/1naqrk1obsx.png)
 
 本期编辑：Sylvia Shu
 
@@ -31,19 +31,19 @@ Arduino 是目前全球使用最广泛的开源硬件平台，由意大利 Ivrea
 
 **09:30am - 10:30am**
 
-{% asset_img 1gcwu4v3taz.png %}
+![](Arduino-day-2019/1gcwu4v3taz.png)
 
 ## 第二项议程 - Arduino 产学研协同创新沙龙
 
 **10:30am - 11:30am**
 
-{% asset_img 4uymesizd1c.png %}
+![](Arduino-day-2019/4uymesizd1c.png)
 
-{% asset_img bj0csnm9ml.png %}
+![](Arduino-day-2019/bj0csnm9ml.png)
 
-{% asset_img 4z997hti5r.png %}
+![](Arduino-day-2019/4z997hti5r.png)
 
-{% asset_img 28hlq6xcs27.png %}
+![](Arduino-day-2019/28hlq6xcs27.png)
 
 ## 第三项议程 - Arduino 入门工作坊 —— 从 0 开始的
 
@@ -51,7 +51,7 @@ Arduino 是目前全球使用最广泛的开源硬件平台，由意大利 Ivrea
 
 **自动循迹小车软硬件搭建**
 
-{% asset_img 2gumaej5eb0.png %}
+![](Arduino-day-2019/2gumaej5eb0.png)
 
 ## 嘉宾介绍
 
@@ -71,8 +71,8 @@ Arduino 是目前全球使用最广泛的开源硬件平台，由意大利 Ivrea
 
 **清华大学学生创客空间协会**
 
-{% asset_img 12f11ontyf5.png %}
+![](Arduino-day-2019/12f11ontyf5.png)
 
 ## 报名二维码
 
-{% asset_img 15fm5uf5l79.png %}
+![](Arduino-day-2019/15fm5uf5l79.png)

@@ -2,21 +2,21 @@
 title: 开源社高校活动行 之 携 TensorFlow 走进同济大学
 date: 2019-08-09 11:04:56
 authors:
-  - cynbarby
+    - cynbarby
 categories:
-  - Activity
-  - Salon
+    - Activity
+    - Salon
 tags:
-  - university
-  - TJU
-  - TensorFlow
+    - university
+    - TJU
+    - TensorFlow
 
 start: 2019-05-25 14:00:00
 end: 2019-05-25 17:00:00
 address: 上海市同济大学嘉定校区电信学院一楼报告厅
 ---
 
-{% asset_img m9r9rqs8ev.png %}
+![](CampusTour-TJU/m9r9rqs8ev.png)
 
 ## 引子
 
@@ -28,11 +28,11 @@ address: 上海市同济大学嘉定校区电信学院一楼报告厅
 
 ## 活动概况
 
-- 主办方：开源社高校活动行品牌团队
+-   主办方：开源社高校活动行品牌团队
 
-- 协办方：X-lab 开放实验室
+-   协办方：X-lab 开放实验室
 
-- 承办方：同济大学开源社团
+-   承办方：同济大学开源社团
 
 ## 日程安排
 
@@ -51,6 +51,6 @@ address: 上海市同济大学嘉定校区电信学院一楼报告厅
 
 欢迎大家的到来，让我们一同迎接开源和机器学习的夏天！
 
-{% asset_img rb41a0080t.png %}
+![](CampusTour-TJU/rb41a0080t.png)
 
 _文中图片均来源于网络_

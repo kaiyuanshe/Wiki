@@ -2,18 +2,18 @@
 title: COSCon'19 精彩收官、无问西东!
 date: 2019-11-18 00:00:00
 authors:
-  - kaiyuanshe
+    - kaiyuanshe
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 
 start: 2019-11-02 09:00:00
 end: 2019-11-03 17:00:00
 address: 上海市普陀区中山北路3663号华东师范大学（中北校区）
 photos:
-  - statistics.png
+    - statistics.png
 links:
-  照片直播: https://live.photoplus.cn/live/46633881?uniqCode=8zqbsMpH3P
+    照片直播: https://live.photoplus.cn/live/46633881?uniqCode=8zqbsMpH3P
 ---
 
 <figure>
@@ -28,19 +28,13 @@ links:
 
 由开源社主办的 **2019 中国开源年会 COSCon'19** 于 2019 年 11 月 2-3 日在上海华东师范大学圆满收官。本次二天大会总计 **1456** 人次到场，在线图文直播量 **13400** 人次，关注浏览活动官网者高达 **29826** 人次，参加了 **14** 位国际大神、**94** 位国内大咖讲师的 **12** 场主题演讲、**86** 场分会场演讲，不打烊的闪电演讲、**6** 场动手训练营、**6** 场论坛 (开源教育论坛、开源硬件论坛， 企业开源论坛，女性参与开源论坛，开源操作系统论坛，开源治理论坛) 以及高峰开源圆桌会。来自五湖四海的 **116** 位可爱的志愿者们，热情地为讲师和现场观众们服务。
 
-{% asset_img statistics.png %}
+![](COSCon-2019-summary/statistics.png)
 
 本次大会得到了包括  Apache 软件基金会（ASF）、开放源代码促进会（OSI）、GNOME  基金会、Linux  基金会（LF）、FreeBSD 基金会、OpenStack 基金会等国际基金会以及 **34** 个国内外社区的参与及支持。截至本文发稿为止，国内社区伙伴协助推广本次大会的文稿获 **15 万+**的浏览量，而上述国际顶级社区的推文也将陆续展开。谢谢这些可爱的国内外开源社区伙伴们！
 
-<figure>
-{% asset_img participant.png %}
-  <figcaption>参会人员统计</figcaption>
-</figure>
+![参会人员统计](COSCon-2019-summary/participant.png)
 
-<figure>
-{% asset_img gender.png %}
-  <figcaption>参会男女比例分析</figcaption>
-</figure>
+![参会男女比例分析](COSCon-2019-summary/gender.png)
 
 GPL 的奠基者与维护者，软件自由法律中信创办人及主席 Eben Moglen 还特别发来了一个短视频为大会打气加油。
 
@@ -92,11 +86,11 @@ GPL 的奠基者与维护者，软件自由法律中信创办人及主席 Eben M
 
 [COSCon'19 女性参与开源论坛 —— 女性，让开源社区更浪漫！][1]
 
-{% asset_img 3yonv16s0yo.webp %}
+![](COSCon-2019-summary/3yonv16s0yo.webp)
 
-{% asset_img 1nelvfr3yt8.webp %}
+![](COSCon-2019-summary/1nelvfr3yt8.webp)
 
-{% asset_img bwvdmuo0iu.webp %}
+![](COSCon-2019-summary/bwvdmuo0iu.webp)
 
 ### 闪电演讲
 
@@ -112,16 +106,13 @@ GPL 的奠基者与维护者，软件自由法律中信创办人及主席 Eben M
   <figcaption>大妈“3 分钟”最快闪电讲的示范</figcaption>
 </figure>
 
-<figure>
-{% asset_img 30vcsfc549k.webp %}
-  <figcaption>哇，芭比带我参加闪电演讲耶！</figcaption>
-</figure>
+![哇，芭比带我参加闪电演讲耶！](COSCon-2019-summary/30vcsfc549k.webp)
 
-{% asset_img 227oou6tig4.webp %}
+![](COSCon-2019-summary/227oou6tig4.webp)
 
-{% asset_img 5yhwstufsbc.webp %}
+![](COSCon-2019-summary/5yhwstufsbc.webp)
 
-{% asset_img 1653giru6rp.webp %}
+![](COSCon-2019-summary/1653giru6rp.webp)
 
 ### 开源操作系统论坛
 
@@ -133,11 +124,11 @@ GPL 的奠基者与维护者，软件自由法律中信创办人及主席 Eben M
 
 [COSCon'19 开源硬件论坛：源生态 造起来！][3]
 
-{% asset_img 3gfg0kzhtrs.webp %}
+![](COSCon-2019-summary/3gfg0kzhtrs.webp)
 
-{% asset_img 1zopby6kcwx.webp %}
+![](COSCon-2019-summary/1zopby6kcwx.webp)
 
-{% asset_img 2q0edymyodq.webp %}
+![](COSCon-2019-summary/2q0edymyodq.webp)
 
 ### 开源治理
 
@@ -153,50 +144,47 @@ GPL 的奠基者与维护者，软件自由法律中信创办人及主席 Eben M
 
 [COSCon 2019 动手训练营][5]
 
-{% asset_img 2ep91w71me3.webp %}
+![](COSCon-2019-summary/2ep91w71me3.webp)
 
-{% asset_img 6h0w75z7fy4.webp %}
+![](COSCon-2019-summary/6h0w75z7fy4.webp)
 
-{% asset_img 2cq9mnsftme.webp %}
+![](COSCon-2019-summary/2cq9mnsftme.webp)
 
-{% asset_img 1of25c4te05.webp %}
+![](COSCon-2019-summary/1of25c4te05.webp)
 
 ### 高峰圆桌会
 
 中国开源年会每年的传统项目之一是开源高峰圆桌论坛，开源社理事会邀请了国际知名基金会，企业和开源社区 28 位领袖们齐聚一趟， 讨论中国和国际开源社区的合作与交流， 分别从“走出去”， “带进来" 两个角度进行了探讨。从语言文化到沟通交流工具，从程序员年龄到开源新生代的特点，从中国开源项目孵化之旅到国际平台对中国的支持，从企业支持开源事业到开源教育的推广，我们看到了中国的特别之处，也看到了全球开源大同的趋势。短短 2 个小时的高峰圆桌不仅是一次信息和友情的交互，我们也看到了国际间，企业间， 社区间的合作在跨越藩篱。Let's cross the boundaries, together! 开源社从 2015 年提出要搭建一座中国和国际社区的开源之桥， 到了 2019 年的今天，我们跨过了这座桥， 跨过了我们沟通的障碍。我们不仅在说，我们还在做， 每年都前进一步，未来，还有更多可以做的事。
 
-{% asset_img 56f6ufovrw8.webp %}
+![](COSCon-2019-summary/56f6ufovrw8.webp)
 
-{% asset_img 2ox3khu2bw8.webp %}
+![](COSCon-2019-summary/2ox3khu2bw8.webp)
 
 ### 开源之夜 + Apache 20 周年庆晚宴
 
 大会第一天（11 月 2 日）晚上，COSCon'19 大会举办了“开源之夜+Apache 20 周年庆晚宴”，所有中外大咖讲师、赞助伙伴、社区合作伙伴、媒体伙伴等嘉宾齐聚一堂，我们一起分享了 ASF 20 周年庆蛋糕（如图），并且连同 Apache 软件基金会董事会三位大佬以及源自中国的 Apache 项目贡献者与用户，在特制的 Apache 项目大旗上签字，见证了我们立足中国、贡献全球的光荣时刻。
 
-{% asset_img 157aww5sdxp.webp %}
+![](COSCon-2019-summary/157aww5sdxp.webp)
 
-{% asset_img mdeuzcfhmc.webp %}
+![](COSCon-2019-summary/mdeuzcfhmc.webp)
 
-{% asset_img 770i7f1f0ps.webp %}
+![](COSCon-2019-summary/770i7f1f0ps.webp)
 
-{% asset_img 1kjqzo6l989.webp %}
+![](COSCon-2019-summary/1kjqzo6l989.webp)
 
-{% asset_img hhog1occiw.webp %}
+![](COSCon-2019-summary/hhog1occiw.webp)
 
-{% asset_img 2ayogt1fkqx.webp %}
+![](COSCon-2019-summary/2ayogt1fkqx.webp)
 
-{% asset_img 21cj7gujlyb.webp %}
+![](COSCon-2019-summary/21cj7gujlyb.webp)
 
 ### 开源从娃娃抓起
 
 在本次大会上，我们看到了新生代的力量。我们看到了年轻一代在会场骑着单车扛起开源大旗的身影，我们也看到孩子们眼中对于开源的好奇和热爱， 在他们身影和眼神中，我们看到了中国开源的未来。
 
-<figure>
-{% asset_img k3u6n3e03.webp %}
-{% asset_img j69p74ow01.webp %}
-{% asset_img 2ibj6dpzzn6.webp %}
-  <figcaption>青、幼、娃 薪火相传</figcaption>
-</figure>
+![青、幼、娃 薪火相传](COSCon-2019-summary/k3u6n3e03.webp)
+![青、幼、娃 薪火相传](COSCon-2019-summary/j69p74ow01.webp)
+![青、幼、娃 薪火相传](COSCon-2019-summary/2ibj6dpzzn6.webp)
 
 ## COSCon'19 大会资料大放送
 
@@ -206,9 +194,9 @@ GPL 的奠基者与维护者，软件自由法律中信创办人及主席 Eben M
 
 2020 COScon 时间暂定为 2020/10/24 -10/25，我们明年再见！
 
-{% asset_img 158q7ysb4ws.webp %}
+![](COSCon-2019-summary/158q7ysb4ws.webp)
 
-{% asset_img 20wwmrlqcpe.webp %}
+![](COSCon-2019-summary/20wwmrlqcpe.webp)
 
 [1]: https://mp.weixin.qq.com/s?__biz=MzA5MTA2NDA5MQ==&mid=2655313615&idx=1&sn=70d76cbcff1d9dda6f01c6252a3505e4&chksm=8bb26cbbbcc5e5ad54d82d8d2dcf142c0f1600bc47b16610b1b94550409964c752173178dfc9&token=1529682801&lang=zh_CN&scene=21#wechat_redirect
 [2]: https://mp.weixin.qq.com/s?__biz=MzA5MTA2NDA5MQ==&mid=2655313671&idx=1&sn=7f394096421d7bc5ad39d2ba968b4294&chksm=8bb26d73bcc5e465789306588210772fec44be4cd135db1d6b58aa12a484b9227b1c560f4640&token=1529682801&lang=zh_CN&scene=21#wechat_redirect

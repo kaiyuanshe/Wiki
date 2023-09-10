@@ -1,17 +1,17 @@
 ---
 title: 中国开源年会 2020
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 date: 2020-10-19 21:00:00
 photos:
-  - banner.png
+    - banner.png
 
 start: 2020-10-24 09:20:00
 end: 2020-10-25 18:00:00
 links:
-  报名: https://www.bagevent.com/event/6840909
-  直播: https://segmentfault.com/area/coscon-2020
+    报名: https://www.bagevent.com/event/6840909
+    直播: https://segmentfault.com/area/coscon-2020
 ---
 
 > 转载自：SegmentFault
@@ -19,7 +19,7 @@ links:
 > 设计：冯艺怡
 > 责编：王玥敏
 
-{% asset_img 2xgkwbvz03k.webp  %}
+![](COSCon-2020/2xgkwbvz03k.webp)
 
 这些人相信大家都不陌生
 
@@ -33,7 +33,7 @@ links:
 
 ---
 
-{% asset_img banner.png  %}
+![](COSCon-2020/banner.png)
 
 2020 中国开源年会  (COSCon'20)  将于 10 月 24-25 日由开源社举办，SegmentFault 思否社区为本次大会的战略合作媒体，并将进行独家的线上直播。
 
@@ -45,27 +45,27 @@ links:
 
 ## 业界顶配嘉宾团
 
-{% asset_img 51swmnp8z4w.webp  %}
+![](COSCon-2020/51swmnp8z4w.webp)
 
 Jono Bacon, 《社区运营的艺术》作者。若是对开源社区运营及治理感兴趣者，推荐阅读！我们更荣幸地邀请到作者本人现身大会开讲。
 
-{% asset_img 1siis54ovcm.webp  %}
+![](COSCon-2020/1siis54ovcm.webp)
 
 GitHub 的 COO Erica Brescia 女士将会给大家带来全球领先的代码托管与协作平台的最新发展方向以及在中国的发展战略。
 
-{% asset_img 1y5isvq7n1z.webp  %}
+![](COSCon-2020/1y5isvq7n1z.webp)
 
 激动人心的是，以太坊创始人 V 神 Vitalik Buterin 现身和大家分享区块链发展的趋势。
 
-{% asset_img 19vpzw5fc6u.webp  %}
+![](COSCon-2020/19vpzw5fc6u.webp)
 
 中国首个开源基金会“开放原子开源基金会”已于近日亮相，我们也特地邀请到基金会 TOC 主席堵俊平与副主席谭中意给大家第一时间解读这家备受关注的基金会的情况。
 
-{% asset_img 3aeqzrrdcn0.webp  %}
+![](COSCon-2020/3aeqzrrdcn0.webp)
 
 作为国内开源与新技术的思潮洞察者与引领者，中国信通院云计算与大数据研究所所长何宝宏博士（笔名何所思，相信很多人都读过他的文章或是书），也将继 COSCon'17、  COSCon'19 之后，再度现身 COSCon'20。他的主题演讲《开源法则》绝对值得期待。
 
-{% asset_img 18zme2q6moy.webp  %}
+![](COSCon-2020/18zme2q6moy.webp)
 
 Linux 基金会 AI 基金会执行董事以及 Linux 基金会战略计划副总裁 Ibrahim Haddad 将给大家带来题为 “Accelerating Innovation in the AI Market” 的报告，分享人工智能领域中的开源创新之道。
 
@@ -81,19 +81,19 @@ Linux 基金会 AI 基金会执行董事以及 Linux 基金会战略计划副总
 
 _（以下为部分活动嘉宾，完整名单可于官网查看）_
 
-{% asset_img 12wyh10ykrl.webp  %}
+![](COSCon-2020/12wyh10ykrl.webp)
 
-{% asset_img 3ey5xd66pnw.webp  %}
+![](COSCon-2020/3ey5xd66pnw.webp)
 
-{% asset_img olv9xvrm8k.webp  %}
+![](COSCon-2020/olv9xvrm8k.webp)
 
-{% asset_img 4q93yghlk0g.webp  %}
+![](COSCon-2020/4q93yghlk0g.webp)
 
 ---
 
 ## 论坛主题：开源向善
 
-{% asset_img 88n36x37104.webp  %}
+![](COSCon-2020/88n36x37104.webp)
 
 本次活动分享的主题包括：**教育与公益、社区与治理、社会/经济/法律/文化、女性半边天、人工智能、云原生与微服务、数据技术、开源硬件与操作系统**等方向。
 
@@ -141,7 +141,7 @@ _\*更多主题信息以会议当天内容为准_
 
 ## Apache 中国路演 2020
 
-{% asset_img tsqjjjhs3k.png  %}
+![](COSCon-2020/tsqjjjhs3k.png)
 
 全球最大的开源基金会 Apache 软件基金会（ASF），从 2015 年开始便与中国开源年会同期进行 Apache 中国路演，本次再度与开源社联手，邀请 Apache 国内外大神、大咖们，参与分享精彩话题！
 
@@ -153,12 +153,12 @@ _\*更多主题信息以会议当天内容为准_
 
 ### COSCon‘20+开源操作系统论坛(1)
 
-[{% asset_img 2hkel38jhdo.webp  %}](https://mp.weixin.qq.com/s/UC31kb8dUT7TI2ZBK8jRRA)
+[![](COSCon-2020/2hkel38jhdo.webp)](https://mp.weixin.qq.com/s/UC31kb8dUT7TI2ZBK8jRRA)
 
 ### COSCon‘20 Track F 区块链论坛介绍
 
-[{% asset_img 281x6g9jcck.webp  %}](https://mp.weixin.qq.com/s/P7qKuUyp0zoUGi1GCir3bA)
+[![](COSCon-2020/281x6g9jcck.webp)](https://mp.weixin.qq.com/s/P7qKuUyp0zoUGi1GCir3bA)
 
 ### 开源年会成都场丨码农在 1024 技术趴上可以做什么？
 
-[{% asset_img banner.webp  %}](https://mp.weixin.qq.com/s/JJTXxLDloiYXQpqAhubiAg)
+[![](COSCon-2020/banner.webp)](https://mp.weixin.qq.com/s/JJTXxLDloiYXQpqAhubiAg)

@@ -3,17 +3,17 @@ title: Codeheat 开源竞赛
 date: 2016-11-08 08:00:00
 updated: 2016-11-18 11:04:29
 categories:
-  - International
+    - International
 tags:
-  - competition
-  - FOSSAisa
+    - competition
+    - FOSSAisa
 description: CodeHeat 将于2016年9月25日至2017年2月3日举办。填入你的 FOSSASIA 开发者信息，然后去赢得免费去往新加坡参加峰会的机会！
 
 photos:
-  - OWS.png
+    - OWS.png
 ---
 
-{% asset_img OWS.png %}
+![](Codeheat-Open-source-competition/OWS.png)
 
 Codeheat（随热而码）是一个由开源组织 FOSSAsia 主办的全年龄段国际开源竞赛。比赛从 2016 年 9 月 25 日开始一直进行到 2017 年 2 月 3 日。
 
