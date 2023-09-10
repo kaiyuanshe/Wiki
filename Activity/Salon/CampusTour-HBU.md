@@ -2,23 +2,23 @@
 title: 开源社走进高校活动 - 湖北大学站
 date: 2019-08-09 11:18:33
 authors:
-  - cynbarby
+    - cynbarby
 categories:
-  - Activity
-  - Salon
+    - Activity
+    - Salon
 tags:
-  - university
-  - HBU
-  - Golang
+    - university
+    - HBU
+    - Golang
 
 start: 2019-06-16 13:30:00
 end: 2019-06-16 17:00:00
 address: 武汉市湖北大学计信学院 102 报告厅
 links:
-  报名: https://m.eqxiu.com/s/YEFvaFN7
+    报名: https://m.eqxiu.com/s/YEFvaFN7
 ---
 
-{% asset_img ofbore90pp.png %}
+![](CampusTour-HBU/ofbore90pp.png)
 
 ## 我爱开源 讲师团实战开讲
 
@@ -38,4 +38,4 @@ links:
 
 **请参会同学携带笔记本电脑，现场有实操。**
 
-{% asset_img 183rl8zjfl0.png %}
+![](CampusTour-HBU/183rl8zjfl0.png)

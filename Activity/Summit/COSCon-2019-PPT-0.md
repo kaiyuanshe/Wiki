@@ -2,19 +2,19 @@
 title: 中国开源年会 COSCon'19 Day 1 讲师 PPT
 date: 2019-11-27 13:12:53
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 
 start: 2019-11-02 09:00:00
 end: 2019-11-02 17:00:00
 address: 上海市普陀区中山北路3663号华东师范大学（中北校区）
 links:
-  讲师 PPT: https://pan.baidu.com/s/1CGHnplHWRAMbFexts3UQiA#list/path=%2F11%E6%9C%882%E6%97%A5%202019%E5%BC%80%E6%BA%90%E5%B9%B4%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%97%A5PPT%E5%88%86%E4%BA%AB
+    讲师 PPT: https://pan.baidu.com/s/1CGHnplHWRAMbFexts3UQiA#list/path=%2F11%E6%9C%882%E6%97%A5%202019%E5%BC%80%E6%BA%90%E5%B9%B4%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%97%A5PPT%E5%88%86%E4%BA%AB
 photos:
-  - 20d81a0ponx.webp
+    - 20d81a0ponx.webp
 ---
 
-{% asset_img 20d81a0ponx.webp %}
+![](COSCon-2019-PPT-0/20d81a0ponx.webp)
 
 由开源社举办的、业界最具影响力的开源年度盛会**2019 中国开源年会** (**COSCon'19**)已圆满落下帷幕！
 
@@ -56,10 +56,7 @@ photos:
 
 ## 主会场：主题演讲
 
-<figure>
-{% asset_img 120plaea2er.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/120plaea2er.webp)
 
 |     时段     |                                   主题                                    |     讲者      |                                                        职务                                                        |
 | :----------: | :-----------------------------------------------------------------------: | :-----------: | :----------------------------------------------------------------------------------------------------------------: |
@@ -74,20 +71,17 @@ photos:
 
 了解更多关于大神现身中国开源年会 COSCon'19，请点击以下链接
 
-- [ASF 顶级开源大神加入 COSCon'19 豪华讲师阵容][1]
+-   [ASF 顶级开源大神加入 COSCon'19 豪华讲师阵容][1]
 
-- [COSCon'19 名场面来袭！GitHub CEO 加入超豪华讲师阵容][2]
+-   [COSCon'19 名场面来袭！GitHub CEO 加入超豪华讲师阵容][2]
 
-- [COSCon'19 全球顶级开源大神们现身][3]
+-   [COSCon'19 全球顶级开源大神们现身][3]
 
-- [开源无疆！CSDN 董事长蒋涛、GitHub 副总裁 Thomas Dohmke 即将重磅对话][4]
+-   [开源无疆！CSDN 董事长蒋涛、GitHub 副总裁 Thomas Dohmke 即将重磅对话][4]
 
 ## Track 1：开源社区与项目
 
-<figure>
-{% asset_img 1yk8ucjs5q3.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/1yk8ucjs5q3.webp)
 
 |     时段      |                              主题                              |      讲者      |                                职务                                 |
 | :-----------: | :------------------------------------------------------------: | :------------: | :-----------------------------------------------------------------: |
@@ -99,10 +93,7 @@ photos:
 
 ## Track 2：开源社区与项目
 
-<figure>
-{% asset_img 27ilyo0rdrj.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/27ilyo0rdrj.webp)
 
 |     时段      |                    主题                     |  讲者  |        职务         |
 | :-----------: | :-----------------------------------------: | :----: | :-----------------: |
@@ -118,10 +109,7 @@ photos:
 
 [COSCon'19 开源操作系统论坛][5]
 
-<figure>
-{% asset_img 24mhvsgh7xf.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/24mhvsgh7xf.webp)
 
 |    时段     |                    主题                     |              讲者               |                                         职务                                          |
 | :---------: | :-----------------------------------------: | :-----------------------------: | :-----------------------------------------------------------------------------------: |
@@ -142,10 +130,7 @@ photos:
 
 [COSCon’19 开源教育论坛：开源无疆、教育无界][6]
 
-<figure>
-{% asset_img azapsind9p.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/azapsind9p.webp)
 
 |     时段     |                     主题                      |      讲者       |                                 职务                                  |
 | :----------: | :-------------------------------------------: | :-------------: | :-------------------------------------------------------------------: |
@@ -161,10 +146,7 @@ photos:
 
 [COSCon'19 开源硬件论坛：源生态 造起来！][7]
 
-<figure>
-{% asset_img 1g9lzoi952y.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/1g9lzoi952y.webp)
 
 |     时段     |                                 主题                                 |     讲者      |                  职务                   |
 | :----------: | :------------------------------------------------------------------: | :-----------: | :-------------------------------------: |
@@ -184,10 +166,7 @@ photos:
 
 [COSCon'19 女性参与开源论坛 ---女性，让开源社区更浪漫！][8]
 
-<figure>
-{% asset_img 62cmwgobbv.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/62cmwgobbv.webp)
 
 ### 13:30 -16:00 女性，让技术社区更浪漫
 
@@ -205,7 +184,7 @@ photos:
 ### 17:25-18:00 Hands-on Pinpoint Plugin Workshop: How to trace your system down to the code level
 
 <figure>
-  <img src="activity/summit/coscon-2019-workshop/Jeong-HyunGil.jpg">
+  <img src="coscon-2019-workshop/Jeong-HyunGil.jpg">
   <figcaption>Jeong, HyunGil</figcaption>
   <figcaption>Naver Corporation, Software Developer</figcaption>
   <figcaption>Pinpoint, Committer</figcaption>
@@ -217,10 +196,7 @@ photos:
 
 [COSCon 2019 动手训练营][9]
 
-<figure>
-{% asset_img 1g6zpzjkdcr.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/1g6zpzjkdcr.webp)
 
 |     时段     |                          主题                          |  讲者  |                        职务                        |
 | :----------: | :----------------------------------------------------: | :----: | :------------------------------------------------: |
@@ -233,10 +209,7 @@ photos:
 
 [COSCon'19 开源治理论坛——技术之外，那些更重要的事][10]
 
-<figure>
-{% asset_img 3o932m091s8.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/3o932m091s8.webp)
 
 |     时段      |                                          主题                                           |      讲者      |                          职务                           |
 | :-----------: | :-------------------------------------------------------------------------------------: | :------------: | :-----------------------------------------------------: |
@@ -248,10 +221,7 @@ photos:
 
 ## Track 9：开源治理
 
-<figure>
-{% asset_img 1ju7n4525rl.webp %}
-  <figcaption>本场嘉宾</figcaption>
-</figure>
+![本场嘉宾](COSCon-2019-PPT-0/1ju7n4525rl.webp)
 
 |     时段     |                      主题                      |     讲者     |                       职务                       |
 | :----------: | :--------------------------------------------: | :----------: | :----------------------------------------------: |

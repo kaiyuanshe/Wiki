@@ -17,7 +17,7 @@ links:
     报名: https://www.bagevent.com/event/7685233
 ---
 
-{% asset_img 21phds9rx52.png %}
+![](COSCon-2021/21phds9rx52.png)
 
 ## 大会主题
 
@@ -33,7 +33,7 @@ COSCon 以其独特定位及日益增加的影响力，吸引越来越多的顶�
 
 如果有其它城市的志愿者愿意担任自己所在城市的 COSCon'21 城市分会场出品人，也欢迎举手承办。
 
-{% asset_img 5q40ss5d3l.png %}
+![](COSCon-2021/5q40ss5d3l.png)
 
 ## 直播地址
 

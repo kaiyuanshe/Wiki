@@ -2,13 +2,13 @@
 title: 降低开放式创新的壁垒 | 赢在 Apache 系列之一
 date: 2018-06-08 12:35:00
 authors:
-  - 韩卿
-  - 董振伟
+    - 韩卿
+    - 董振伟
 categories:
-  - Article
-  - Apache
+    - Article
+    - Apache
 tags:
-  - innovation
+    - innovation
 original: https://blogs.apache.org/foundation/entry/success-at-apache-lowering-barriers
 ---
 
@@ -26,7 +26,7 @@ original: https://blogs.apache.org/foundation/entry/success-at-apache-lowering-b
 >
 > _by 开源社文案组 - 适兕_
 
-{% asset_img 1amfzj70ce9.webp  %}
+![](lowering-barriers-to-open-innovation/1amfzj70ce9.webp)
 
 <!-- more -->
 
@@ -34,10 +34,7 @@ original: https://blogs.apache.org/foundation/entry/success-at-apache-lowering-b
 
 在过去的十年里，作为一名 Java 开发人员，我使用过很多 Apache 项目，比如 Tomcat，Jakarta，Struts 和 Velocity 等。2010 年，我进入大数据领域，开始积极参与 Apache 项目，2015 年初，我与几位成员一起开始了 Apache Kylin 项目，并成为了 ASF 成员。
 
-<figure>
-{% asset_img ea8qfgrd8t.webp  %}
-  <figcaption>韩卿</figcaption>
-</figure>
+![韩卿](lowering-barriers-to-open-innovation/ea8qfgrd8t.webp)
 
 ​ 除了担任 Apache Kylin 的副总裁之外，我还帮助 Apache Eagle 和 CarbonData 等项目进入 ASF，并担任 Apache Superset、Apache Weex 和 RocketMQ 项目的导师。今天，我还有一个身份是 Kyligence 的联合创始人兼 CEO（在此之前，我是 eBay 的大数据产品主管，Actuate China 的首席顾问）。
 
@@ -45,10 +42,7 @@ original: https://blogs.apache.org/foundation/entry/success-at-apache-lowering-b
 
 回到 Apache Kylin 项目，正如其名字所暗示的，Apache Kylin 的名字来源于中国（“Kylin”：即中文的“麒麟”)：
 
-<figure>
-{% asset_img sq3ga8kk8b.webp  %}
-  <figcaption>“麒麟”，东方神话中刚柔并济、可以喷火的神兽</figcaption>
-</figure>
+![“麒麟”，东方神话中刚柔并济、可以喷火的神兽](lowering-barriers-to-open-innovation/sq3ga8kk8b.webp)
 
 “Apache Kylin”：Hadoop 上的一个 OLAP 引擎，支持 PB 级别数据量的秒级查询 http://kylin.apache.org/，作为中国第一个被高度认可的 Apache 项目的带头人，我很自豪地看到，在这两年内，Kylin 已经为全球超过 500 家机构输出了大数据解决方案。
 
@@ -60,10 +54,7 @@ original: https://blogs.apache.org/foundation/entry/success-at-apache-lowering-b
 
 ## Part 4 - CHINESE MARKET
 
-<figure>
-{% asset_img 2d1i2vuiwrk.webp  %}
-  <figcaption>图片来源：Paxin.com</figcaption>
-</figure>
+![图片来源：Paxin.com](lowering-barriers-to-open-innovation/2d1i2vuiwrk.webp)
 
 而在中国市场方面，Apache Kylin 收获了许多的用户反馈及用户建议，这些反馈与建议既有从开发者视角提出的，也有从产品角度提出的。更让我惊讶的是，许多社区成员还在热心地为 Kylin 编写工具，帮助用户更好地理解和使用 Kylin，这也让我们更加坚定了无保留地分享我们的收获来回馈社区的信念。
 
@@ -71,7 +62,7 @@ original: https://blogs.apache.org/foundation/entry/success-at-apache-lowering-b
 
 可以说，Kylin 获得了比我预期更多的鼓励和认可，但作为 Apache 顶级项目的副总裁，我的担子在 Kylin 从 Apache 孵化器毕业后变得更重，因为 Kylin 开源软件的性质，其问题修复频率和测试频率越来越快，这也使 Kylin 面临着更多的机遇。
 
-{% asset_img 1bmhmthjozd.webp  %}
+![](lowering-barriers-to-open-innovation/1bmhmthjozd.webp)
 
 但不管是鼓励、认可还是机遇，我都非常感谢 ASF 以及参与这个开源社区的每一个人，正是这个饱含热情、开放、全球化元素的地方，让我有机会与我尊崇的人一起从事开源这份事业，并共同为世界带来改变。
 

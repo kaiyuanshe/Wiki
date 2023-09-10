@@ -2,21 +2,21 @@
 title: 连线开源 —— 开源人线下见面会
 date: 2019-08-09 14:02:55
 authors:
-  - cynbarby
+    - cynbarby
 categories:
-  - Activity
-  - Salon
+    - Activity
+    - Salon
 tags:
-  - KaiyuansheX
+    - KaiyuansheX
 
 start: 2019-08-24 13:30:00
 end: 2019-08-24 17:30:00
 address: 北京市朝阳区东直门外斜街56号A座302
 links:
-  报名: https://www.huodongxing.com/event/7502963090700
+    报名: https://www.huodongxing.com/event/7502963090700
 ---
 
-{% asset_img qkli1d067o.png %}
+![](xJenkins/qkli1d067o.png)
 
 ## 开源人，线下约吗？
 
@@ -60,14 +60,14 @@ links:
 
 **数量有限，先到先得**
 
-{% asset_img 1v526p8lors.png %}
+![](xJenkins/1v526p8lors.png)
 
 ## 活动主办方
 
-{% asset_img 1k3gd1gfggc.png %}
+![](xJenkins/1k3gd1gfggc.png)
 
 ## 活动赞助方
 
-{% asset_img 2frmnwvktmv.png %}
+![](xJenkins/2frmnwvktmv.png)
 
 [1]: https://jenkins-zh.cn/

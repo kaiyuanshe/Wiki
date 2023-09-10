@@ -3,17 +3,17 @@ title: 2015年中国开源生态系统报告 V1.0
 date: 2015-04-04 08:41:00
 updated: 2016-01-27 15:53:00
 authors:
-  - leonchenzhy
-  - sssuyx
-  - summershrimp
-  - tvvocold
-  - baiqj
+    - leonchenzhy
+    - sssuyx
+    - summershrimp
+    - tvvocold
+    - baiqj
 categories:
-  - Document
+    - Document
 ---
 
-- 更好地理解当前中国开源的整体生态环境，包括开源人士、社区、网站、公司、组织、会议和活动等。
-- 三大板块：引进开源 —— 参与开源 —— 影响开源
+-   更好地理解当前中国开源的整体生态环境，包括开源人士、社区、网站、公司、组织、会议和活动等。
+-   三大板块：引进开源 —— 参与开源 —— 影响开源
 
 <!-- more -->
 
@@ -165,23 +165,23 @@ _只有很少的 Linux 兴趣小组存在，组织一直在变。总体上不会
 
 ### 1.GitHub 上影响力比较大的个人
 
-{% asset_img GitHub_Individual.png %}
+![](China-OS-report-2015/GitHub_Individual.png)
 
 ### 2.OpenStack 国人贡献排行榜
 
-{% asset_img OpenStackContributor.png %}
+![](China-OS-report-2015/OpenStackContributor.png)
 
 ### 3.Linux Kernal 国人贡献排行榜
 
-{% asset_img LinuxKernalContributor.png %}
+![](China-OS-report-2015/LinuxKernalContributor.png)
 
 ### 4.Docker 国人贡献排行榜
 
-{% asset_img DockerContributor.png %}
+![](China-OS-report-2015/DockerContributor.png)
 
 ### 5.热门项目 watch/start/fork
 
-{% asset_img PopProject.png %}
+![](China-OS-report-2015/PopProject.png)
 
 ### 6.公共在线社区
 
@@ -218,25 +218,25 @@ _只有很少的 Linux 兴趣小组存在，组织一直在变。总体上不会
 
 大多数开源软件都依赖于互联网而生。一个好的项目管理平台将能够帮助开源项目更高效和规范的管理与发展。而项目的发展中代码托管平台应该是开源项目发展中的刚性需求了，国内近几年出现了一批基于 SVN 和 GIT 版本控制系统的代码托管平台，除了代码托管他们也还提供各自不同的特色功能。下面列出几个主要平台：
 
-- GitCafe（gitcafe.com）
-- SVN China 中国源代码托管中心（www.svnchina.com）
-- GitCD（gitcd.com）
-- CSDN CODE（code.csdn.net）
-- Git@OSC（git.oschina.net）
-- TaoCode（code.taobao.org/fastregister/）
-- Coding (coding.net)
+-   GitCafe（gitcafe.com）
+-   SVN China 中国源代码托管中心（www.svnchina.com）
+-   GitCD（gitcd.com）
+-   CSDN CODE（code.csdn.net）
+-   Git@OSC（git.oschina.net）
+-   TaoCode（code.taobao.org/fastregister/）
+-   Coding (coding.net)
 
 ### 9.下载站点
 
 国内许多企业（如：搜狐，网易）提供开源软件的下载站，一些高效和科研机构的社团也对外提供稳定高速的下载服务。这里我们列举出一些比较稳定的资源下载站点：
 
-- 中国科学技术大学开源软件镜像（debian.ustc.edu.cn）
-- 清华大学 TUNA 镜像源（mirrors.tuna.tsinghua.edu.cn）
-- 浙江大学开源镜像站（mirrors.lifetoy.org）
-- 兰大开源社区镜像站（mirror.lzu.edu.cn）
-- 北京理工大学开源软件镜像（mirror.bit.edu.cn）
-- 中国互联网络信息中心开源镜像站（mirrors.cnnic.cn）
-- 中科院开源软件协会镜像站（mirrors.opencas.org）
+-   中国科学技术大学开源软件镜像（debian.ustc.edu.cn）
+-   清华大学 TUNA 镜像源（mirrors.tuna.tsinghua.edu.cn）
+-   浙江大学开源镜像站（mirrors.lifetoy.org）
+-   兰大开源社区镜像站（mirror.lzu.edu.cn）
+-   北京理工大学开源软件镜像（mirror.bit.edu.cn）
+-   中国互联网络信息中心开源镜像站（mirrors.cnnic.cn）
+-   中科院开源软件协会镜像站（mirrors.opencas.org）
 
 ### 10.开源社区活动瓶颈
 
@@ -276,10 +276,10 @@ _只有很少的 Linux 兴趣小组存在，组织一直在变。总体上不会
 
 主要活动：
 
-- 东北亚开源论坛：每年一届，由中日韩三国轮流举办，论坛和开源训练营，开源项目和人物表彰。
-- 开源中国开源世界高峰论坛：每年一届（6 月底），国内最重要的开源产业和技术论坛，汇聚国内外众多企业、社团和研究机构，与开源商业客户探讨开源产业未来的发展。
-- 自由软件日：COPU 是相关活动的指导单位，为活动提供帮助和支持。
-- 中国 Linux 内核大会：COPU 为中国 Linux 内核大会的指导单位，提供帮助和支持。
+-   东北亚开源论坛：每年一届，由中日韩三国轮流举办，论坛和开源训练营，开源项目和人物表彰。
+-   开源中国开源世界高峰论坛：每年一届（6 月底），国内最重要的开源产业和技术论坛，汇聚国内外众多企业、社团和研究机构，与开源商业客户探讨开源产业未来的发展。
+-   自由软件日：COPU 是相关活动的指导单位，为活动提供帮助和支持。
+-   中国 Linux 内核大会：COPU 为中国 Linux 内核大会的指导单位，提供帮助和支持。
 
 ---
 
@@ -369,32 +369,32 @@ _只有很少的 Linux 兴趣小组存在，组织一直在变。总体上不会
 
 #### 中央政府
 
-- 1999 年 7 月 15 日，Linux 和中国软件产业论坛上，时任信息产业部副部长曲维枝第一次代表政府公开支持 Linux 和开源软件
-- 2004 年 4 月 3 日，中日韩东北亚开源软件司局长会议和东北亚开源软件论坛召开第一届大会，标志着东北亚开源产业合作的开始
-- 2004 年 7 月 22 日，在工业和信息化部的指导下，中国开源软件推进联盟（COPU）正式成立，中国开始大规模推动开源产业化
-- 2004 年，财政部和工业和信息化部就《政府采购法》做出解释：由本国企业发布的开源软件可以作为国产软件对待
-- 2005 年 5 月, 工业和信息化部与法国相关政府部门签署开源软件合作备忘录
-- 2011 年 7 月 13 日，国务院发布十二五规划中写入了促进开源软件产业发展的文字，标志着政府开始从战略层面上支持开源软件的发展,
-- 2013 年 3 月，人力资源和社会保障部批准将 Linux 操作系统作为计算机职称考试的一部分
-- 2015 年，国务院办公厅发布关于发展众创空间推进大众创新创业的指导意见，一些政策也为中国开源软件的发展打开了新的空间
+-   1999 年 7 月 15 日，Linux 和中国软件产业论坛上，时任信息产业部副部长曲维枝第一次代表政府公开支持 Linux 和开源软件
+-   2004 年 4 月 3 日，中日韩东北亚开源软件司局长会议和东北亚开源软件论坛召开第一届大会，标志着东北亚开源产业合作的开始
+-   2004 年 7 月 22 日，在工业和信息化部的指导下，中国开源软件推进联盟（COPU）正式成立，中国开始大规模推动开源产业化
+-   2004 年，财政部和工业和信息化部就《政府采购法》做出解释：由本国企业发布的开源软件可以作为国产软件对待
+-   2005 年 5 月, 工业和信息化部与法国相关政府部门签署开源软件合作备忘录
+-   2011 年 7 月 13 日，国务院发布十二五规划中写入了促进开源软件产业发展的文字，标志着政府开始从战略层面上支持开源软件的发展,
+-   2013 年 3 月，人力资源和社会保障部批准将 Linux 操作系统作为计算机职称考试的一部分
+-   2015 年，国务院办公厅发布关于发展众创空间推进大众创新创业的指导意见，一些政策也为中国开源软件的发展打开了新的空间
 
 #### 广东省
 
-- Linux 公共服务平台，2004 年
-- 广东省 Linux 促进计划，2004 年
+-   Linux 公共服务平台，2004 年
+-   广东省 Linux 促进计划，2004 年
 
 #### 浙江省
 
-- Linux 公共服务平台
+-   Linux 公共服务平台
 
 #### 大连市
 
-- 开源软件公共开发平台
+-   开源软件公共开发平台
 
 #### 湖北省
 
-- 成立开源软件推进联盟，2014 年
-- 推进开源公共服务
+-   成立开源软件推进联盟，2014 年
+-   推进开源公共服务
 
 ---
 

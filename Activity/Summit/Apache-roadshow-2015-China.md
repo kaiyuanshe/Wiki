@@ -2,23 +2,23 @@
 title: 众人添柴火焰高，社区主导开发强
 date: 2015-11-06 00:00:00
 authors:
-  - kaiyuanshe
+    - kaiyuanshe
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 tags:
-  - Apache
-  - roadshow
-  - China
+    - Apache
+    - roadshow
+    - China
 
 start: 2015-10-24 09:20:00
 end: 2015-10-25 17:30:00
 address: 北京市中关村南一条中国科学院研究生院教学楼
 links:
-  报名: http://www.huodongxing.com/event/9291887966700
+    报名: http://www.huodongxing.com/event/9291887966700
 ---
 
-{% asset_img 1toybcu6s55.webp  %}
+![](Apache-roadshow-2015-China/1toybcu6s55.webp)
 
 精彩的 2015 阿帕奇路演-中国（Apache Roadshow 2015 - China)在 2015 年 10 月 25 日圆满收官。在开源社的努力之下，与全球最大的开源软件基金会 Apache Software Foundation（简称 ASF-目前有 168 个项目，从 20 年前起步的 Apache Web Server，到目前最火爆的云计算，数据库，大数据，开发语言/框架等等），携手举办 Apapche Roadshow 2015 - China，为中国开发者、社区、高校以及企业建立起与 ASF 直接沟通的桥梁，针对开源软件前沿技术趋势和应用，开源社区建设与开源项目的治理/流程的最佳实践，互相学习、交流，共同促进东西方开源社区。
 
@@ -28,11 +28,11 @@ links:
 
 这次我们是以国内第一个纯粹草根社区联盟“开源社”的 50 个成员单位协力，结合赞助伙伴微软，灵雀云（Alauda），数人科技（Dataman），环信（Easemob），eBay，Intel，猎聘网（liepin），合作伙伴中科院开源软件协会，V 直播，活动行，极客学院等，媒体伙伴 CSDN 大力协助宣传、征集讲师、邀请观众等。值得一提的是来自中科院开源软件协会和北大开源协会的 80 多位志愿者们，怀着对开源的激情，积极地投入此次大会，有的志愿者天未亮远从百里之外的怀柔赶来，有的在寒风中站在街口为参会者指引，有的在开会前一天布置会场到凌晨。。。众人拾柴火焰高，这就是开源的力量。
 
-{% asset_img 8m196ljssek.webp  %}
+![](Apache-roadshow-2015-China/8m196ljssek.webp)
 
 Brett Porter, ASF 主席, 用微信致谢 (4 位 ASF 贵宾都加入了 ASF 路演讲师微信群) "感谢大家-能和大家共享这次路演的美好时光。再度感谢路演组织者与志愿者努力促成了这次超赞的大会"。
 
-{% asset_img 32nvvq3t57m.webp  %}
+![](Apache-roadshow-2015-China/32nvvq3t57m.webp)
 
 这次路演内容干货满满，有前所未见的 10 大火爆亮点：
 
@@ -40,13 +40,13 @@ Brett Porter, ASF 主席, 用微信致谢 (4 位 ASF 贵宾都加入了 ASF 路�
 
 阿帕奇主席等 6 位大神涵盖了阿帕奇的社区经营理念（ApacheWay），云计算，大数据，开源软件开发，项目孵化，开源软件的成功应用场景（全球最大的英雄联盟游戏）。
 
-{% asset_img qfgb13ooyp.webp  %}
+![](Apache-roadshow-2015-China/qfgb13ooyp.webp)
 
 ### 高峰对话
 
 大神们火花四射地针对“社区主导开发”（Community-Led Development），探讨国际社区的实践与中国开源运动的思考，期盼与挑战。同时针锋相对地讨论国际开源社区多为白人男性主宰，如何鼓励多元化的不同族群及女性参与。
 
-{% asset_img 22ksdaqtx3p.webp  %}
+![](Apache-roadshow-2015-China/22ksdaqtx3p.webp)
 
 ### 大牛演讲
 
@@ -56,7 +56,7 @@ Brett Porter, ASF 主席, 用微信致谢 (4 位 ASF 贵宾都加入了 ASF 路�
 
 阿帕奇孵化器导师和国内实际项目创始人（Apache Kylin）现身传授开源项目如何加入孵化，并成功地毕业成为正式项目。
 
-{% asset_img 34hiwfroy3o.webp  %}
+![](Apache-roadshow-2015-China/34hiwfroy3o.webp)
 
 ### 女性专场
 
@@ -64,43 +64,43 @@ Brett Porter, ASF 主席, 用微信致谢 (4 位 ASF 贵宾都加入了 ASF 路�
 
 而女神中的女神-微软全球开发平台事业部的高级副总裁潘正磊 Julia，身为在微软最高职位的华人女性，在 10 月 25 日上午作了“开源软件开发”的主题演讲，分享她作为 2004 年起就开始参与微软开源开放之路上的心得，以及她一力推动 .Net Core 开源的经验。现场观众不停地就微软参与开源提出各种问题和建议， 提问数目之多，听众反馈之激烈堪称本次大会之最。她在 25 日的高峰对谈里，更就女性程序媛如何在男性主导的 IT 行业里立足并成长，坦率地分享了她的看法，并与其余 2 位嘉宾有着深刻而针锋相对的精彩对话哦！（幻灯片/速记/视频）
 
-{% asset_img 2ssxqztvchm.png  %}
+![](Apache-roadshow-2015-China/2ssxqztvchm.png)
 
 ### 大数据金牌训练营（AMPCamp）
 
 连教带做，老师现场指导让你快速上手 Apache Spark 技术。
 
-{% asset_img 20yxu0g8u0u.png  %}
+![](Apache-roadshow-2015-China/20yxu0g8u0u.png)
 
 ### 圆桌论坛
 
 让国内外社区 30 余位领袖，分别就云计算，大数据，开源软件开发，及开源社区治理进行深入而激烈地交流。
 
-{% asset_img 1nfad0n7oxy.webp  %}
+![](Apache-roadshow-2015-China/1nfad0n7oxy.webp)
 
 ### 深入交流
 
 除了 10 月 24-25 日二天晚上的阿帕奇之夜（Apache Nights），更安排了讲师/赞助伙伴们与阿帕奇大神们进行多达 16 个场次的一对一面谈。让大神们与嘉宾们大脑洞开，宾主尽欢。
 
-{% asset_img 1v2zd6dzegf.webp  %}
+![](Apache-roadshow-2015-China/1v2zd6dzegf.webp)
 
 ### 高校/社区分会场
 
 这次上海东华大学/Linux 人社区，河南财经政法大学，东北大学秦皇岛分校，西安云开源社区的分会场，更是开源产业界与高校/社区开源运动的结合起点。值得一提的是，Linux 人社区的陈欧侃先生，虽然行走及说话不便，仍一力促成了上海东华大学的分会场，令人感动及振奋。
 
-{% asset_img 1vhpxsukjmq.png  %}
+![](Apache-roadshow-2015-China/1vhpxsukjmq.png)
 
 ### 黑科技探秘
 
 50 余位大会嘉宾受邀参访微软亚太研发集团创新中心（Microsoft Center One），目睹了云计算，大数据，移动计算，企业生产力，物联网，智能家居，环保节能等令人震撼，叹为观止的最新技术展现。
 
-{% asset_img 23p9p2f1ftt.png  %}
+![](Apache-roadshow-2015-China/23p9p2f1ftt.png)
 
 ---
 
 最后还有一个惊喜，在 1024 程序猿/媛节，C#/TypeScript 之父 Anders Hejlsberg 在高峰圆桌对话分享了他如何在微软推动开源的经验，与 Apache 软件基金会董事们的和来自中西方开源领袖们进行了深入而激烈的交流。他还亲临大会闭幕式现场，发表简短演说，并接受问答。现场气氛火爆，堪称完美句点！
 
-{% asset_img 3vo6e6ygvbk.webp  %}
+![](Apache-roadshow-2015-China/3vo6e6ygvbk.webp)
 
 有太多的干货，等您收割！路演的幻灯片，速记内容，视频尽在开源社。
 
@@ -108,14 +108,14 @@ http://www.kaiyuanshe.cn/portal/thread/45.html#56
 
 更多精彩，请密切关注“开源社微信公众号 kaiyuanshe”拭目以待！
 
-\- 开源社通过组织这次大会， 奠定了开源社作为一个开源联盟在中国和国际开源社区的影响力， 成为连接中国开源社区和国际社区如 Apache 软件基金会沟通的一座桥梁。
+-   开源社通过组织这次大会， 奠定了开源社作为一个开源联盟在中国和国际开源社区的影响力， 成为连接中国开源社区和国际社区如 Apache 软件基金会沟通的一座桥梁。
 
-\- 大会结束之后，关于 Apache 中国社区建立的讨论正在热烈筹备，围绕着开源技术和项目孵化的交流正在慢慢形成。
+-   大会结束之后，关于 Apache 中国社区建立的讨论正在热烈筹备，围绕着开源技术和项目孵化的交流正在慢慢形成。
 
-\- AMPCamp 大数据金牌训练营北京站的成功举办，以及由微软开放技术中心一手打造的开放黑客松平台吸引了众多社区，公司和政府的兴趣，一系列的动手实验营和黑客松的活动正在策划中。
+-   AMPCamp 大数据金牌训练营北京站的成功举办，以及由微软开放技术中心一手打造的开放黑客松平台吸引了众多社区，公司和政府的兴趣，一系列的动手实验营和黑客松的活动正在策划中。
 
 ---
 
 可以扫描文章底部二维码加入"阿帕奇粉丝群"直接索取会议资料并在未来获得有关阿帕奇在中国的更多资讯哟 ^\_^
 
-{% asset_img 2elojrxevfp.jpeg  %}
+![](Apache-roadshow-2015-China/2elojrxevfp.jpeg)

@@ -3,20 +3,20 @@ title: Salesforce 的开源故事 | 世界顶级企业开源故事系列之二
 date: 2018-07-12 17:05:00
 updated: 2019-08-09 21:37:41
 authors:
-  - tedliu1
+    - tedliu1
 categories:
-  - Article
-  - enterprise
+    - Article
+    - enterprise
 tags:
-  - Salesforce
-  - story
+    - Salesforce
+    - story
 
 original: https://github.com/todogroup/guides/blob/master/casestudies/salesforce.md
 ---
 
 > 文章贡献者：Mike Linksvayer & Chris Aniszczyk
 
-{% asset_img 1i2b416sxmb.png %}
+![](Salesforce-open-source-story/1i2b416sxmb.png)
 
 Salesforce 在早期就了解到，开源项目在拥有一个有兴趣使软件成功的多元化利益相关者社区时，就能保持健康发展。
 
@@ -74,12 +74,12 @@ Salesforce 也基于全行业的成功标准衡量它自己的开源成功。在
 
 **Ian Varley**
 
-- 首席架构师，Salesforce.com - 在 Salesforce.com 核心工程团队工作
+-   首席架构师，Salesforce.com - 在 Salesforce.com 核心工程团队工作
 
-- 应用程序开发总监，使用 Microsoft .Net 平台，开发数据库驱动的 Web 应用程序，供公司内部使用。
+-   应用程序开发总监，使用 Microsoft .Net 平台，开发数据库驱动的 Web 应用程序，供公司内部使用。
 
-- 科学老师，Woodside 修道院学校教 AP 计算机科学 (C++)，七年级 Logo 编程，八年级 HTML、Javascript。以逻辑、探索和发现为重点的课程。
+-   科学老师，Woodside 修道院学校教 AP 计算机科学 (C++)，七年级 Logo 编程，八年级 HTML、Javascript。以逻辑、探索和发现为重点的课程。
 
-- 软件开发人员，Embark
+-   软件开发人员，Embark
 
-- 软件开发人员，CollegeEdge
+-   软件开发人员，CollegeEdge

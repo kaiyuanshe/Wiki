@@ -3,28 +3,25 @@ title: 2019 中国开源年会（COSCon'19）
 date: 2019-08-03 00:00:00
 updated: 2019-08-04 00:00:00
 authors:
-  - kaiyuanshe
+    - kaiyuanshe
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 tags:
-  - COSCon
+    - COSCon
 
 start: 2019-11-02 09:00:00
 end: 2019-11-03 17:00:00
 address: 上海市普陀区中山北路3663号华东师范大学（中北校区）
 description: 讲师招募开启、早鸟票开售！
 links:
-  参会报名: https://www.bagevent.com/event/5744455
-  讲师招募: https://www.wenjuan.com/s/mqiQZ3E/
+    参会报名: https://www.bagevent.com/event/5744455
+    讲师招募: https://www.wenjuan.com/s/mqiQZ3E/
 photos:
-  - 3nvh20ya8jo.webp
+    - 3nvh20ya8jo.webp
 ---
 
-<figure>
-{% asset_img 3nvh20ya8jo.webp  %}
-  <figcaption>COSCon '19 正式启动啦！</figcaption>
-</figure>
+![COSCon '19 正式启动啦！](COSCon-2019/3nvh20ya8jo.webp)
 
 2019 年，注定会是中国开源的关键一年，诸多重大事件将会在这一年发生！正如大家所期待的，业界最具影响力的开源年度盛会 **2019 中国开源年会**（COSCon'19）也将于 11 月 2-3 日在华东师范大学（上海普陀区中山北路校区）举办。
 
@@ -38,7 +35,7 @@ photos:
 
 ## 大会亮点
 
-{% asset_img 224zq5amoqx.webp  %}
+![](COSCon-2019/224zq5amoqx.webp)
 
 ## 讲师招募
 
@@ -48,8 +45,8 @@ photos:
 
 ### 重要日期
 
-- **投稿期限**：**2019 年 9 月 30 日（周六）**
+-   **投稿期限**：**2019 年 9 月 30 日（周六）**
 
-- **完整议程预定公布时间**：**10 月中旬**
+-   **完整议程预定公布时间**：**10 月中旬**
 
-- **COSCon'19**：**11 月 2 - 3 日**
+-   **COSCon'19**：**11 月 2 - 3 日**

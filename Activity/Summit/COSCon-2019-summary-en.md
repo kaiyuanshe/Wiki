@@ -2,18 +2,18 @@
 title: COSCon'19 concluded - Let's Cross the Boundaries, Together!
 date: 2019-11-18 00:00:00
 authors:
-  - kaiyuanshe
+    - kaiyuanshe
 categories:
-  - Activity
-  - Summit
+    - Activity
+    - Summit
 
 start: 2019-11-02 09:00:00
 end: 2019-11-03 17:00:00
 address: 上海市普陀区中山北路3663号华东师范大学（中北校区）
 photos:
-  - ../coscon-2019-summary/statistics.png
+    - ../coscon-2019-summary/statistics.png
 links:
-  照片直播: https://live.photoplus.cn/live/46633881?uniqCode=8zqbsMpH3P
+    照片直播: https://live.photoplus.cn/live/46633881?uniqCode=8zqbsMpH3P
 ---
 
 <figure>
@@ -28,19 +28,13 @@ links:
 
 COSCon19, the 2019 China Open Source Conference, organized by kaiyuanshe, was successfully concluded on Nov. 2-3, 2019 at East China Normal University in Shanghai. The 2-day conference totaled 1,456 attendees, with 13,400 live photo broadcast viewers, and 29,826 people followed the conference website. The attendees participated lectures delivered by 14 international gurus, 94 domestic speakers in 12 keynotes, 86 breakout sessions, 15 lightning talks, 6 hands-on camps, 6 forums (Open Source Education Forum, Open Source Hardware Forum, Enterprise Open Source Forum, Women for Open Source Forum, Open Source Operating System Forum, Open Source Governance Forum) and an Open Source Executive Roundtable. 116 lovely volunteers from all over the country enthusiastically served the lecturers and the audience.
 
-<img src="activity/summit/coscon-2019-summary/statistics.png" />
+![](coscon-2019-summary/statistics.png)
 
 The conference was participated and supported by international foundations including the Apache Software Foundation (ASF), Open Source Initiative (OSI), the GNOME Foundation, the Linux Foundation (LF), the FreeBSD Foundation, the OpenStack Foundation, and 34 domestic and overseas communities. As of today, the global and domestic community help promote the conference's blogs with over 150,000 views. We thank these lovely partners!
 
-<figure>
-<img src="activity/summit/coscon-2019-summary/participant.png" />
-  <figcaption>Participant statistics</figcaption>
-</figure>
+![Participant statistics](coscon-2019-summary/participant.png)
 
-<figure>
-<img src="activity/summit/coscon-2019-summary/gender.png" />
-  <figcaption>Gender Analysis</figcaption>
-</figure>
+![Gender Analysis](coscon-2019-summary/gender.png)
 
 Eben Moglen, the founder and maintainer of the GPL and founder and president of the Software Freedom Law Center, also sent a short greeting video.
 
@@ -92,11 +86,11 @@ Let's hear what our VIP speaker guests say about this conference.
 
 Encouraging diversity in the open source community, especially women's participation, has been the theme of kaiyuanshe's active advocacy and practice. 2019 China Open Source Conference organized an unique open source women's BoF (Birds of a Feather). The Forum was kicked off by three sharing, Yuan Yi (rolling), the forum hostess and the chief editor of HyperAI media group, shared "Women, make the technology community more romantic"; Emily Chen, vice chairman of kaiyuanshe, shared "My 24 Hours", which revealed the struggling moments of an open source women in the workplace through the photos of their lives and witty stories. Sharan Foga, VP of Community Development, Apache Software Foundation, shared her observations and experiences in the Apache community. Xue Guo, deputy director of the Cloud & Big Data Institute of CAICT, Mabel Li, board director and the media workgroup lead of kaiyuanshe, Queena Chao, volunteer lead of kaiyuanshe, and five other female representatives, including FreeCodeCamp Miya Liu, shared their feelings and experiences of participating in open source contributions in a free-flowing way.
 
-<img src="activity/summit/coscon-2019-summary/3yonv16s0yo.webp" />
+![](coscon-2019-summary/3yonv16s0yo.webp)
 
-<img src="activity/summit/coscon-2019-summary/1nelvfr3yt8.webp" />
+![](coscon-2019-summary/1nelvfr3yt8.webp)
 
-<img src="activity/summit/coscon-2019-summary/bwvdmuo0iu.webp" />
+![](coscon-2019-summary/bwvdmuo0iu.webp)
 
 ### Lightning Talk
 
@@ -112,26 +106,23 @@ It is worth mentioning that, in addition to the 6 pre-enrolled lightning talk sp
   <figcaption>ZoomQuiet's 3 minutes demo on fastest lightning talk</figcaption>
 </figure>
 
-<figure>
-<img src="activity/summit/coscon-2019-summary/30vcsfc549k.webp" />
-  <figcaption>Wow, daddy took me to Lightning Talk, yeah!</figcaption>
-</figure>
+![Wow, daddy took me to Lightning Talk, yeah!](coscon-2019-summary/30vcsfc549k.webp)
 
-<img src="activity/summit/coscon-2019-summary/227oou6tig4.webp" />
+![](coscon-2019-summary/227oou6tig4.webp)
 
-<img src="activity/summit/coscon-2019-summary/5yhwstufsbc.webp" />
+![](coscon-2019-summary/5yhwstufsbc.webp)
 
-<img src="activity/summit/coscon-2019-summary/1653giru6rp.webp" />
+![](coscon-2019-summary/1653giru6rp.webp)
 
 ### Open Source Hardware Forum
 
 Being through from 0 to 1 last year, Open Source Hardware Forum has entered a new path of steady development this year, but also made the acquaintance of more new partners! Open Source Hardware Forum this time started with the theme of "co-building source ecology", in the hope to further the development of multiple ecology in the open source hardware community, which were based on the theme of "sharing open source at larger scale" called out last year. There are many sharing of multiple topics from different regions and fields involved. Forum lecturers come from Beijing, Shanghai, Dalian, Nanjing, Chengdu, Taiwan, Japan and other regions from domestic and overseas. Including Shen Ye - founder of DFRobot, the earliest open source hardware company in China, Masafumi Ohta - founder of Raspberry user group Japan, Jiyang Lin - CEO of Yixin Technology in Taiwan, Jiang Wang - founder of Landzo Technology, Zihao Yu - PhD Computing Institute from Chinese Academy of Sciences, Nan Shi - founder of Longxin Club, Bing Sun - Co-founder of Jiqi Technology, Zheng Zeng - head of Auterion APAC, and Xinyi Tang - Co-founder of Andoromeda Science and Technology Ltd, etc.
 
-<img src="activity/summit/coscon-2019-summary/3gfg0kzhtrs.webp" />
+![](coscon-2019-summary/3gfg0kzhtrs.webp)
 
-<img src="activity/summit/coscon-2019-summary/1zopby6kcwx.webp" />
+![](coscon-2019-summary/1zopby6kcwx.webp)
 
-<img src="activity/summit/coscon-2019-summary/2q0edymyodq.webp" />
+![](coscon-2019-summary/2q0edymyodq.webp)
 
 ### Habds-On Camp
 
@@ -141,49 +132,47 @@ However, it is possible that the current awareness of the Open Source Technology
 
 In post-event review meeting, we put forward some targeted improvements to the Open Hackathon Platform of kaiyuanshe and the Kung Fu Programming Platform developed by X-Lab team, and hope these platforms can be better support the hands-on camp / workshop's next year.
 
-<img src="activity/summit/coscon-2019-summary/2ep91w71me3.webp" />
+![](coscon-2019-summary/2ep91w71me3.webp)
 
-<img src="activity/summit/coscon-2019-summary/6h0w75z7fy4.webp" />
+![](coscon-2019-summary/6h0w75z7fy4.webp)
 
-<img src="activity/summit/coscon-2019-summary/2cq9mnsftme.webp" />
+![](coscon-2019-summary/2cq9mnsftme.webp)
 
-<img src="activity/summit/coscon-2019-summary/1of25c4te05.webp" />
+![](coscon-2019-summary/1of25c4te05.webp)
 
 ### Executive Roundtable
 
 One of the convention of the China Open Source Conference is the Open Source Executive Roundtable. kaiyuanshe invited 28 leaders from open source foundations, enterprises and open source communities to discuss cooperation and to exchange thoughts, such as the language and culture barriers and communication tools, the characteristics of the new generation of open source, the incubation journey of Chinese open source projects, corporate support for open source business and the promotion of open source education. We see the special characteristics of China as well as the global trend of open source. The meeting was full of interaction of friendship and thought leadership.
 
-<img src="activity/summit/coscon-2019-summary/56f6ufovrw8.webp" />
+![](coscon-2019-summary/56f6ufovrw8.webp)
 
-<img src="activity/summit/coscon-2019-summary/2ox3khu2bw8.webp" />
+![](coscon-2019-summary/2ox3khu2bw8.webp)
 
 ### Open Source Night + ASF 20-Year Anniversary Celebration Party
 
 On the evening of the first day of the conference (November 2nd), the COSCon19 hosted the "Open Source Night and Apache 20th Anniversary Celebration Party" with all the Chinese and foreign lecturers, sponsors, community partners, media partners and VIP guests, and we not only shared the ASF 20th birthday cake, together with three leaders of the Apache Software Foundation, as well as the apache project contributors and users from China, but also signed the special Apache project banner, witnessing the glorious moment of the Chinese-originated contribution to the world.
 
-<img src="activity/summit/coscon-2019-summary/157aww5sdxp.webp" />
+![](coscon-2019-summary/157aww5sdxp.webp)
 
-<img src="activity/summit/coscon-2019-summary/mdeuzcfhmc.webp" />
+![](coscon-2019-summary/mdeuzcfhmc.webp)
 
-<img src="activity/summit/coscon-2019-summary/770i7f1f0ps.webp" />
+![](coscon-2019-summary/770i7f1f0ps.webp)
 
-<img src="activity/summit/coscon-2019-summary/1kjqzo6l989.webp" />
+![](coscon-2019-summary/1kjqzo6l989.webp)
 
-<img src="activity/summit/coscon-2019-summary/hhog1occiw.webp" />
+![](coscon-2019-summary/hhog1occiw.webp)
 
-<img src="activity/summit/coscon-2019-summary/2ayogt1fkqx.webp" />
+![](coscon-2019-summary/2ayogt1fkqx.webp)
 
-<img src="activity/summit/coscon-2019-summary/21cj7gujlyb.webp" />
+![](coscon-2019-summary/21cj7gujlyb.webp)
 
 ### Open Source Rooted from Youth
 
 Throughout the conference, we witnessed the power and energy of new open source generations.
 
-<figure>
-<img src="activity/summit/coscon-2019-summary/k3u6n3e03.webp" />
-<img src="activity/summit/coscon-2019-summary/j69p74ow01.webp" />
-<img src="activity/summit/coscon-2019-summary/2ibj6dpzzn6.webp" />
-</figure>
+![](coscon-2019-summary/k3u6n3e03.webp)
+![](coscon-2019-summary/j69p74ow01.webp)
+![](coscon-2019-summary/2ibj6dpzzn6.webp)
 
 ## COSCon'19 speaker slides and videos
 
@@ -193,9 +182,9 @@ Thank our passionate volunteers who organized most speakers' presentation slides
 
 2020 COScon time is tentatively scheduled for 2020/10/24 -10/25, we'll see you next year!
 
-<img src="activity/summit/coscon-2019-summary/158q7ysb4ws.webp" />
+![](coscon-2019-summary/158q7ysb4ws.webp)
 
-<img src="activity/summit/coscon-2019-summary/20wwmrlqcpe.webp" />
+![](coscon-2019-summary/20wwmrlqcpe.webp)
 
 [1]: https://mp.weixin.qq.com/s?__biz=MzA5MTA2NDA5MQ==&mid=2655313615&idx=1&sn=70d76cbcff1d9dda6f01c6252a3505e4&chksm=8bb26cbbbcc5e5ad54d82d8d2dcf142c0f1600bc47b16610b1b94550409964c752173178dfc9&token=1529682801&lang=zh_CN&scene=21#wechat_redirect
 [2]: https://mp.weixin.qq.com/s?__biz=MzA5MTA2NDA5MQ==&mid=2655313671&idx=1&sn=7f394096421d7bc5ad39d2ba968b4294&chksm=8bb26d73bcc5e465789306588210772fec44be4cd135db1d6b58aa12a484b9227b1c560f4640&token=1529682801&lang=zh_CN&scene=21#wechat_redirect
